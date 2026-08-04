@@ -1,0 +1,121 @@
+{
+  "format": "hangar-bay-catalog-pack",
+  "schemaVersion": 1,
+  "id": "miscellaneous-gundam-originals-promotions",
+  "name": "Miscellaneous Gundam Originals and Promotions",
+  "shortName": "Misc. Gundam",
+  "description": "Grade-specific residual catalog for original Gundam promotional mechs and mascot-model characters that cannot be assigned more accurately to an established timeline, unified SD, Build, or Third Party.",
+  "version": 1,
+  "updatedAt": "2026-08-03",
+  "sortOrder": 75,
+  "kitCount": 6,
+  "series": [
+    "Gundam Factory Yokohama",
+    "GUNDAM NEXT FUTURE PAVILION / EXPO 2025",
+    "Gunpla-kun"
+  ],
+  "kits": [
+    {
+      "id": "misc-ng-0004",
+      "name": "RX-78F00 Gundam",
+      "modelNumber": "RX-78F00",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Factory Yokohama",
+      "releaseDate": "2020-09",
+      "releaseType": "Promotional, venue, and verified retail presentations",
+      "kitSummary": "The moving RX-78F00 developed for Gundam Factory Yokohama, represented by complete No Grade plastic models at 1/200, 1/144, 1/100, and 1/48.",
+      "unitLore": "In the Gundam Factory Yokohama project story, recovered RX-78-type components are reconstructed and designated RX-78F00 for activation testing. The High Mobility Type remains an equipment configuration of the same machine.",
+      "aliases": "RX-78F00 | Moving Gundam | Gundam Factory Yokohama Gundam",
+      "imageKey": "misc-ng-0004"
+    },
+    {
+      "id": "misc-ng-0005",
+      "name": "RX-78F00/E Gundam",
+      "modelNumber": "RX-78F00/E",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "GUNDAM NEXT FUTURE PAVILION / EXPO 2025",
+      "releaseDate": "2025-04-11",
+      "releaseType": "Promotional, venue, and verified retail presentations",
+      "kitSummary": "The No Grade 1/144 RX-78F00/E developed for the GUNDAM NEXT FUTURE PAVILION, sold as a complete model with EX-001 G.L.R.S.S. Feather equipment.",
+      "unitLore": "RX-78F00/E is the EXPO 2025 successor to the Yokohama project machine. Its distinct model number, pavilion role, revised appearance, and G.L.R.S.S. Feather system support a separate promotional-exhibit identity.",
+      "aliases": "RX-78F00E | EXPO 2025 Gundam | G.L.R.S.S. Feather Gundam",
+      "imageKey": "misc-ng-0005"
+    },
+    {
+      "id": "misc-eg-0001",
+      "name": "RX-78F00/E Gundam",
+      "modelNumber": "RX-78F00/E",
+      "grade": "Entry Grade",
+      "availableGrades": [
+        "Entry Grade"
+      ],
+      "scale": "1/144",
+      "series": "GUNDAM NEXT FUTURE PAVILION / EXPO 2025",
+      "releaseDate": "2025-04-11",
+      "releaseType": "Promotional, venue, and verified retail presentations",
+      "kitSummary": "The Entry Grade 1/144 RX-78F00/E complete body, compatible with the separately sold EX-001 G.L.R.S.S. Feather option set.",
+      "unitLore": "This grade-specific entry represents RX-78F00/E in Entry Grade construction. The body-less Feather set is excluded from the catalog but may be recorded as an owned accessory or configuration.",
+      "aliases": "RX-78F00E | EXPO 2025 Entry Grade Gundam",
+      "imageKey": "misc-eg-0001"
+    },
+    {
+      "id": "misc-ng-0003",
+      "name": "Char Zaku-kun",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/1",
+      "series": "Gunpla-kun",
+      "releaseDate": "2025-06-07",
+      "releaseType": "Promotional, venue, and verified retail presentations",
+      "kitSummary": "A separately named 1/1 red Zaku-inspired Gunpla-kun character sold as a complete DX plastic model.",
+      "unitLore": "Char Zaku-kun is a distinct named member of the Gunpla-kun character project. Its dedicated official DX product supports a separate mascot identity rather than treating it as a color edition of Zakupla-kun.",
+      "aliases": "Char Zaku-kun | Char Zaku Kun | Shazaku-kun",
+      "imageKey": "misc-ng-0003"
+    },
+    {
+      "id": "misc-ng-0001",
+      "name": "Gunpla-kun",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/1",
+      "series": "Gunpla-kun",
+      "releaseDate": "2022-07-25",
+      "releaseType": "Promotional, venue, and verified retail presentations",
+      "kitSummary": "A 1/1 mascot-scale plastic-model character used to personify Gunpla and sustainable-material experiments.",
+      "unitLore": "Gunpla-kun is presented as a living Gunpla mascot whose physical kits reproduce the character and runner-themed parts rather than an in-universe mobile suit.",
+      "aliases": "Gunpla-kun | Gunpla Kun",
+      "imageKey": "misc-ng-0001"
+    },
+    {
+      "id": "misc-ng-0002",
+      "name": "Zakupla-kun",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/1",
+      "series": "Gunpla-kun",
+      "releaseDate": "2023-10-06",
+      "releaseType": "Promotional, venue, and verified retail presentations",
+      "kitSummary": "A Zaku-inspired mascot-model character introduced through a tea-leaf-resin sustainability project and later a retail DX kit.",
+      "unitLore": "Zakupla-kun is a named Gunpla-kun character rather than a catalog presentation of a Universal Century Zaku II kit.",
+      "aliases": "Zakupla-kun | Zakupla Kun",
+      "imageKey": "misc-ng-0002"
+    }
+  ]
+}

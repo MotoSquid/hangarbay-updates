@@ -1,0 +1,31 @@
+{
+  "format": "hangar-bay-update-manifest",
+  "schemaVersion": 1,
+  "revision": 1,
+  "channel": "developer",
+  "publishedAt": "2026-08-04T02:32:41Z",
+  "minimumAppVersionCode": 29,
+  "catalogDatabaseSchema": 3,
+  "catalogPackSchema": 1,
+  "releaseNotes": "Adds the Miscellaneous Gundam Originals and Promotions catalog, including Gunpla-kun, Zakupla-kun, Char Zaku-kun, RX-78F00 Gundam, and RX-78F00/E Gundam entries. Also adds the certified RX-78F00 SD entry.",
+  "packs": [
+    {
+      "id": "miscellaneous-gundam-originals-promotions",
+      "version": 1,
+      "updatedAt": "2026-08-03",
+      "kitCount": 6,
+      "sizeBytes": 5492,
+      "sha256": "2a8c9d2e16f999866383bac6d8d4e170fa56a1728b0f765e19bb002f6d0d309f",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/1/miscellaneous-gundam-originals-promotions-v1.hangarpack"
+    },
+    {
+      "id": "sd-original",
+      "version": 9,
+      "updatedAt": "2026-08-03",
+      "kitCount": 438,
+      "sizeBytes": 409524,
+      "sha256": "092098dca7a9daa7599d4c9c1a216ef8b5ad02f1e4c9375a170cfc681cda2071",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/1/sd-original-v9.hangarpack"
+    }
+  ]
+}
