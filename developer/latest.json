@@ -1,3 +1,7 @@
 {
-  "enabled": false
+  "developer": {
+    "revision": 1,
+    "manifestUrl": "https://motosquid.github.io/hangarbay-updates/releases/1/manifest.json",
+    "signatureUrl": "https://motosquid.github.io/hangarbay-updates/releases/1/manifest.sig"
+  }
 }
