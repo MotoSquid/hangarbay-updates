@@ -1,0 +1,21 @@
+# Android signing material
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# OTA private keys and other private key material
+*.key
+*.pem
+
+# Credentials and local secrets
+.env
+.env.*
+credentials.json
+secrets.json
+local.properties
+
+# Common local files
+.DS_Store
+.idea/
+.vscode/
