@@ -1,0 +1,1143 @@
+{
+  "format": "hangar-bay-catalog-pack",
+  "schemaVersion": 1,
+  "id": "anno-domini",
+  "name": "Anno Domini / Gundam 00",
+  "shortName": "AD",
+  "description": "Grade-specific Anno Domini / Gundam 00 catalog. Each entry represents one mech and normalized grade; configurations, tooling iterations, editions, scale choices, and accessories remain owned-copy attributes.",
+  "version": 3,
+  "updatedAt": "2026-08-05",
+  "sortOrder": 37,
+  "kitCount": 66,
+  "series": [
+    "Mobile Suit Gundam 00",
+    "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+    "Mobile Suit Gundam 00F",
+    "Mobile Suit Gundam 00I",
+    "Mobile Suit Gundam 00P"
+  ],
+  "kits": [
+    {
+      "id": "ad-0025",
+      "name": "0 Gundam",
+      "modelNumber": "GN-000",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2009-06",
+      "releaseType": "Retail",
+      "kitSummary": "0 Gundam (GN-000) is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2009-06. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being first-generation Gundam and technical ancestor of the organization later GN Drive mobile suits.",
+      "aliases": "0 Gundam | 0 Gundam Type A.C.D. | Mobile Suit Gundam 00",
+      "imageKey": "ad-0025"
+    },
+    {
+      "id": "ad-0013-eg",
+      "name": "00 Gundam",
+      "modelNumber": "GN-0000",
+      "grade": "Entry Grade",
+      "availableGrades": [
+        "Entry Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "",
+      "releaseType": "Documented year-only evidence: 2011",
+      "kitSummary": "00 Gundam (GN-0000) is represented by 1 certified Entry Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2011 (month unverified). Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being Twin Drive Gundam designed to synchronize two GN Drives and produce extraordinary particle output.",
+      "aliases": "00 Gundam | 00 Raiser | 00 Seven Sword/G | 00 XN Raiser | Double O Gundam | 00 Raiser Designer's Color Version | Trans-Am Raiser | 00 Raiser + GN Sword III | 00 Raiser Trans-Am Mode Gloss Injection | 00 Gundam Seven Sword/G | 00 Raiser GN Condenser Type | 00 Raiser Designer's Color | 00 Raiser Clear Color | Mobile Suit Gundam 00 | Mobile Suit Gundam 00V: Battlefield Record | Mobile Suit Gundam 00V",
+      "imageKey": "ad-0013"
+    },
+    {
+      "id": "ad-0013",
+      "name": "00 Gundam",
+      "modelNumber": "GN-0000",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "00 Gundam (GN-0000) is represented by 7 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00, Mobile Suit Gundam 00V: Battlefield Record. The earliest controlled grade evidence is 2008-09. Supported presentation names include Mobile Suit Gundam 00, Mobile Suit Gundam 00V: Battlefield Record. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being Twin Drive Gundam designed to synchronize two GN Drives and produce extraordinary particle output.",
+      "aliases": "00 Gundam | 00 Raiser | 00 Seven Sword/G | 00 XN Raiser | Double O Gundam | 00 Raiser Designer's Color Version | Trans-Am Raiser | 00 Raiser + GN Sword III | 00 Raiser Trans-Am Mode Gloss Injection | 00 Gundam Seven Sword/G | 00 Raiser GN Condenser Type | 00 Raiser Designer's Color | 00 Raiser Clear Color | Mobile Suit Gundam 00 | Mobile Suit Gundam 00V: Battlefield Record | Mobile Suit Gundam 00V",
+      "imageKey": "ad-0013"
+    },
+    {
+      "id": "ad-0013-rg",
+      "name": "00 Gundam",
+      "modelNumber": "GN-0000",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2015-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "00 Gundam (GN-0000) is represented by 4 certified Real Grade physical presentation(s) associated with Mobile Suit Gundam 00, Mobile Suit Gundam 00V: Battlefield Record. The earliest controlled grade evidence is 2015-04. Supported presentation names include Mobile Suit Gundam 00, Mobile Suit Gundam 00V: Battlefield Record. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being Twin Drive Gundam designed to synchronize two GN Drives and produce extraordinary particle output.",
+      "aliases": "00 Gundam | 00 Raiser | 00 Seven Sword/G | 00 XN Raiser | Double O Gundam | 00 Raiser Designer's Color Version | Trans-Am Raiser | 00 Raiser + GN Sword III | 00 Raiser Trans-Am Mode Gloss Injection | 00 Gundam Seven Sword/G | 00 Raiser GN Condenser Type | 00 Raiser Designer's Color | 00 Raiser Clear Color | Mobile Suit Gundam 00 | Mobile Suit Gundam 00V: Battlefield Record | Mobile Suit Gundam 00V",
+      "imageKey": "ad-0013"
+    },
+    {
+      "id": "ad-0013-mg",
+      "name": "00 Gundam",
+      "modelNumber": "GN-0000",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2011-05",
+      "releaseType": "Verified presentations",
+      "kitSummary": "00 Gundam (GN-0000) is represented by 3 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam 00, Mobile Suit Gundam 00V: Battlefield Record. The earliest controlled grade evidence is 2011-05. Supported presentation names include Mobile Suit Gundam 00, Mobile Suit Gundam 00V: Battlefield Record, Mobile Suit Gundam 00V. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being Twin Drive Gundam designed to synchronize two GN Drives and produce extraordinary particle output.",
+      "aliases": "00 Gundam | 00 Raiser | 00 Seven Sword/G | 00 XN Raiser | Double O Gundam | 00 Raiser Designer's Color Version | Trans-Am Raiser | 00 Raiser + GN Sword III | 00 Raiser Trans-Am Mode Gloss Injection | 00 Gundam Seven Sword/G | 00 Raiser GN Condenser Type | 00 Raiser Designer's Color | 00 Raiser Clear Color | Mobile Suit Gundam 00 | Mobile Suit Gundam 00V: Battlefield Record | Mobile Suit Gundam 00V",
+      "imageKey": "ad-0013"
+    },
+    {
+      "id": "ad-0013-pg",
+      "name": "00 Gundam",
+      "modelNumber": "GN-0000",
+      "grade": "Perfect Grade",
+      "availableGrades": [
+        "Perfect Grade"
+      ],
+      "scale": "1/60",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2009-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "00 Gundam (GN-0000) is represented by 3 certified Perfect Grade physical presentation(s) associated with Mobile Suit Gundam 00, Mobile Suit Gundam 00V: Battlefield Record. The earliest controlled grade evidence is 2009-11. Supported presentation names include Mobile Suit Gundam 00, Mobile Suit Gundam 00V: Battlefield Record. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being Twin Drive Gundam designed to synchronize two GN Drives and produce extraordinary particle output.",
+      "aliases": "00 Gundam | 00 Raiser | 00 Seven Sword/G | 00 XN Raiser | Double O Gundam | 00 Raiser Designer's Color Version | Trans-Am Raiser | 00 Raiser + GN Sword III | 00 Raiser Trans-Am Mode Gloss Injection | 00 Gundam Seven Sword/G | 00 Raiser GN Condenser Type | 00 Raiser Designer's Color | 00 Raiser Clear Color | Mobile Suit Gundam 00 | Mobile Suit Gundam 00V: Battlefield Record | Mobile Suit Gundam 00V",
+      "imageKey": "ad-0013"
+    },
+    {
+      "id": "ad-0013-ng",
+      "name": "00 Gundam",
+      "modelNumber": "GN-0000",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "00 Gundam (GN-0000) is represented by 4 certified No Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2008-11. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being Twin Drive Gundam designed to synchronize two GN Drives and produce extraordinary particle output.",
+      "aliases": "00 Gundam | 00 Raiser | 00 Seven Sword/G | 00 XN Raiser | Double O Gundam | 00 Raiser Designer's Color Version | Trans-Am Raiser | 00 Raiser + GN Sword III | 00 Raiser Trans-Am Mode Gloss Injection | 00 Gundam Seven Sword/G | 00 Raiser GN Condenser Type | 00 Raiser Designer's Color | 00 Raiser Clear Color | Mobile Suit Gundam 00 | Mobile Suit Gundam 00V: Battlefield Record | Mobile Suit Gundam 00V",
+      "imageKey": "ad-0013"
+    },
+    {
+      "id": "ad-0011",
+      "name": "AEU Enact",
+      "modelNumber": "AEU-09",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-06",
+      "releaseType": "Retail",
+      "kitSummary": "AEU Enact (AEU-09) is represented by 3 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2008-06. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The AEU Enact is a transformable solar-energy mobile suit developed from the AEU Hellion lineage.",
+      "aliases": "AEU Enact | al-Saachez's AEU Enact Custom Agrissa Type | AEU Enact Demonstration Color | al-Saachez's AEU Enact Custom | Mobile Suit Gundam 00",
+      "imageKey": "ad-0011"
+    },
+    {
+      "id": "ad-0016",
+      "name": "Ahead",
+      "modelNumber": "GNX-704T",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-11",
+      "releaseType": "Retail",
+      "kitSummary": "Ahead (GNX-704T) is represented by 3 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2008-11. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Ahead is an A-Laws GN Tau Drive mobile suit derived from GN-X technology and optimized for elite units.",
+      "aliases": "Ahead | Ahead Sakigake | Ahead Smultron | Mr. Bushido's Ahead | Mobile Suit Gundam 00",
+      "imageKey": "ad-0016"
+    },
+    {
+      "id": "ad-0024",
+      "name": "Arche Gundam",
+      "modelNumber": "GNW-20000",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2009-04",
+      "releaseType": "Retail",
+      "kitSummary": "Arche Gundam (GNW-20000) is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2009-04. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A heavily modified Throne-derived Gundam built for aggressive close combat and GN Fang deployment.",
+      "aliases": "Arche Gundam | Mobile Suit Gundam 00",
+      "imageKey": "ad-0024"
+    },
+    {
+      "id": "ad-0018",
+      "name": "Arios Gundam",
+      "modelNumber": "GN-007",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Arios Gundam (GN-007) is represented by 3 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2008-12. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A transformable Celestial Being Gundam focused on high-speed interception and mobile-armor flight operations.",
+      "aliases": "Arios Gundam | Arios Gundam GNHW/M | Arios Gundam Trans-Am Mode | Arios Designer's Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0018"
+    },
+    {
+      "id": "ad-0018-ng",
+      "name": "Arios Gundam",
+      "modelNumber": "GN-007",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2009-02",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Arios Gundam (GN-007) is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2009-02. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A transformable Celestial Being Gundam focused on high-speed interception and mobile-armor flight operations.",
+      "aliases": "Arios Gundam | Arios Gundam GNHW/M | Arios Gundam Trans-Am Mode | Arios Designer's Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0018"
+    },
+    {
+      "id": "ad-0014",
+      "name": "Cherudim Gundam",
+      "modelNumber": "GN-006",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Cherudim Gundam (GN-006) is represented by 3 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2008-10. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A second-generation Celestial Being sniper Gundam that combines precision fire with remotely controlled shield bits.",
+      "aliases": "Cherudim Gundam | Cherudim Gundam GNHW/R | Cherudim Gundam Trans-Am Mode | Cherudim Designer's Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0014"
+    },
+    {
+      "id": "ad-0014-ng",
+      "name": "Cherudim Gundam",
+      "modelNumber": "GN-006",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2009-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Cherudim Gundam (GN-006) is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2009-01. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A second-generation Celestial Being sniper Gundam that combines precision fire with remotely controlled shield bits.",
+      "aliases": "Cherudim Gundam | Cherudim Gundam GNHW/R | Cherudim Gundam Trans-Am Mode | Cherudim Designer's Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0014"
+    },
+    {
+      "id": "ad-0027",
+      "name": "Gaddess",
+      "modelNumber": "GNZ-007",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2009-08",
+      "releaseType": "Retail",
+      "kitSummary": "Gaddess (GNZ-007) is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2009-08. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "An Innovator-use GNZ-series mobile suit specialized for remote GN Fang control and supporting fire.",
+      "aliases": "Gaddess | Mobile Suit Gundam 00",
+      "imageKey": "ad-0027"
+    },
+    {
+      "id": "ad-0020",
+      "name": "Gadessa",
+      "modelNumber": "GNZ-003",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2009-01",
+      "releaseType": "Retail",
+      "kitSummary": "Gadessa (GNZ-003) is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2009-01. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "An Innovator-use GNZ-series mobile suit designed around long-range beam artillery and high-output operation.",
+      "aliases": "Gadessa | Mobile Suit Gundam 00",
+      "imageKey": "ad-0020"
+    },
+    {
+      "id": "ad-0023",
+      "name": "Garazzo",
+      "modelNumber": "GNZ-005",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2009-03",
+      "releaseType": "Retail",
+      "kitSummary": "Garazzo (GNZ-005) is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2009-03. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "An Innovator-use GNZ-series mobile suit emphasizing close combat, high acceleration and beam-claw attacks.",
+      "aliases": "Garazzo | Hiling's Garazzo | Mobile Suit Gundam 00",
+      "imageKey": "ad-0023"
+    },
+    {
+      "id": "ad-0021",
+      "name": "GN Archer",
+      "modelNumber": "GNR-101A",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2009-01",
+      "releaseType": "Retail",
+      "kitSummary": "GN Archer (GNR-101A) is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2009-01. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A transformable support mobile suit capable of independent combat and combination operations with Arios.",
+      "aliases": "GN Archer | Mobile Suit Gundam 00",
+      "imageKey": "ad-0021"
+    },
+    {
+      "id": "ad-0012",
+      "name": "GN-X",
+      "modelNumber": "GNX-603T",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-07",
+      "releaseType": "Verified presentations",
+      "kitSummary": "GN-X (GNX-603T) is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00, Mobile Suit Gundam 00V. The earliest controlled grade evidence is 2008-07. Supported presentation names include Mobile Suit Gundam 00, Mobile Suit Gundam 00V. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GN-X is a GN Tau Drive mass-production mobile suit that brought Gundam-derived performance to the world powers.",
+      "aliases": "GN-X | Advanced GN-X | Mobile Suit Gundam 00 | Mobile Suit Gundam 00V",
+      "imageKey": "ad-0012"
+    },
+    {
+      "id": "ad-0015",
+      "name": "GN-X III",
+      "modelNumber": "GNX-609T",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-10",
+      "releaseType": "Retail",
+      "kitSummary": "GN-X III (GNX-609T) is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2008-10. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A refined GN-X successor adopted by A-Laws and the Earth Sphere Federation for standardized GN Tau Drive operations.",
+      "aliases": "GN-X III | GN-X III A-Laws Type | GN-X III ESF Type | Mobile Suit Gundam 00",
+      "imageKey": "ad-0015"
+    },
+    {
+      "id": "ad-0001",
+      "name": "Gundam Dynames",
+      "modelNumber": "GN-002",
+      "grade": "First Grade",
+      "availableGrades": [
+        "First Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2007-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Dynames (GN-002) is represented by 1 certified First Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2007-09. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being long-range Gundam centered on precision shooting, sensor support and defensive GN Shield systems.",
+      "aliases": "Gundam Dynames | GN Arms Type-D + Gundam Dynames | Gundam Dynames Trans-Am Mode | Gundam Dynames Trans-Am Metallic Gloss | Gundam Dynames Clear Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0001"
+    },
+    {
+      "id": "ad-0001-hg",
+      "name": "Gundam Dynames",
+      "modelNumber": "GN-002",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2007-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Dynames (GN-002) is represented by 3 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2007-11. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being long-range Gundam centered on precision shooting, sensor support and defensive GN Shield systems.",
+      "aliases": "Gundam Dynames | GN Arms Type-D + Gundam Dynames | Gundam Dynames Trans-Am Mode | Gundam Dynames Trans-Am Metallic Gloss | Gundam Dynames Clear Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0001"
+    },
+    {
+      "id": "ad-0001-mg",
+      "name": "Gundam Dynames",
+      "modelNumber": "GN-002",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2019-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Dynames (GN-002) is represented by 3 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2019-03. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being long-range Gundam centered on precision shooting, sensor support and defensive GN Shield systems.",
+      "aliases": "Gundam Dynames | GN Arms Type-D + Gundam Dynames | Gundam Dynames Trans-Am Mode | Gundam Dynames Trans-Am Metallic Gloss | Gundam Dynames Clear Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0001"
+    },
+    {
+      "id": "ad-0001-ng",
+      "name": "Gundam Dynames",
+      "modelNumber": "GN-002",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2007-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Dynames (GN-002) is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2007-11. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being long-range Gundam centered on precision shooting, sensor support and defensive GN Shield systems.",
+      "aliases": "Gundam Dynames | GN Arms Type-D + Gundam Dynames | Gundam Dynames Trans-Am Mode | Gundam Dynames Trans-Am Metallic Gloss | Gundam Dynames Clear Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0001"
+    },
+    {
+      "id": "ad-0002-eg",
+      "name": "Gundam Exia",
+      "modelNumber": "GN-001",
+      "grade": "Entry Grade",
+      "availableGrades": [
+        "Entry Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "",
+      "releaseType": "Documented year-only evidence: 2011",
+      "kitSummary": "Gundam Exia (GN-001) is represented by 1 certified Entry Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2011 (month unverified). Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being close-combat Gundam built around a true GN Drive, combining high mobility with the GN Sword family of weapons.",
+      "aliases": "Gundam Exia | Exia Repair I | Exia Repair II | Exia Repair III | Exia Repair IV | Avalanche Exia | Avalanche Exia Dash | Gundam Exia Roll Out Color Ver. | GN Arms Type-E + Gundam Exia | Gundam Exia Trans-Am Mode | Gundam Exia Repair II | Gundam Exia Trans-Am Mode Gloss Injection | Gundam Avalanche Exia Dash | Gundam Avalanche Exia | Gundam Exia Roll Out Color | Gundam Exia Clear Color | Gundam Exia Trans-Am Clear Color | Gundam Exia Ignition Mode | Gundam Exia Repair III | Gundam Exia Recirculation Color Neon Purple | Gundam Exia Repair IV | Gundam Exia Trans-Am Gloss Injection | Mobile Suit Gundam 00 | Mobile Suit Gundam 00V: Battlefield Record | Mobile Suit Gundam 00V | Gundam 00 Festival 10 Re:vision",
+      "imageKey": "ad-0002"
+    },
+    {
+      "id": "ad-0002",
+      "name": "Gundam Exia",
+      "modelNumber": "GN-001",
+      "grade": "First Grade",
+      "availableGrades": [
+        "First Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2007-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Exia (GN-001) is represented by 2 certified First Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2007-09. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being close-combat Gundam built around a true GN Drive, combining high mobility with the GN Sword family of weapons.",
+      "aliases": "Gundam Exia | Exia Repair I | Exia Repair II | Exia Repair III | Exia Repair IV | Avalanche Exia | Avalanche Exia Dash | Gundam Exia Roll Out Color Ver. | GN Arms Type-E + Gundam Exia | Gundam Exia Trans-Am Mode | Gundam Exia Repair II | Gundam Exia Trans-Am Mode Gloss Injection | Gundam Avalanche Exia Dash | Gundam Avalanche Exia | Gundam Exia Roll Out Color | Gundam Exia Clear Color | Gundam Exia Trans-Am Clear Color | Gundam Exia Ignition Mode | Gundam Exia Repair III | Gundam Exia Recirculation Color Neon Purple | Gundam Exia Repair IV | Gundam Exia Trans-Am Gloss Injection | Mobile Suit Gundam 00 | Mobile Suit Gundam 00V: Battlefield Record | Mobile Suit Gundam 00V | Gundam 00 Festival 10 Re:vision",
+      "imageKey": "ad-0002"
+    },
+    {
+      "id": "ad-0002-hg",
+      "name": "Gundam Exia",
+      "modelNumber": "GN-001",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2007-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Exia (GN-001) is represented by 6 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00, Mobile Suit Gundam 00V: Battlefield Record. The earliest controlled grade evidence is 2007-10. Supported presentation names include Mobile Suit Gundam 00, Mobile Suit Gundam 00V: Battlefield Record. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being close-combat Gundam built around a true GN Drive, combining high mobility with the GN Sword family of weapons.",
+      "aliases": "Gundam Exia | Exia Repair I | Exia Repair II | Exia Repair III | Exia Repair IV | Avalanche Exia | Avalanche Exia Dash | Gundam Exia Roll Out Color Ver. | GN Arms Type-E + Gundam Exia | Gundam Exia Trans-Am Mode | Gundam Exia Repair II | Gundam Exia Trans-Am Mode Gloss Injection | Gundam Avalanche Exia Dash | Gundam Avalanche Exia | Gundam Exia Roll Out Color | Gundam Exia Clear Color | Gundam Exia Trans-Am Clear Color | Gundam Exia Ignition Mode | Gundam Exia Repair III | Gundam Exia Recirculation Color Neon Purple | Gundam Exia Repair IV | Gundam Exia Trans-Am Gloss Injection | Mobile Suit Gundam 00 | Mobile Suit Gundam 00V: Battlefield Record | Mobile Suit Gundam 00V | Gundam 00 Festival 10 Re:vision",
+      "imageKey": "ad-0002"
+    },
+    {
+      "id": "ad-0002-rg",
+      "name": "Gundam Exia",
+      "modelNumber": "GN-001",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2014-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Exia (GN-001) is represented by 5 certified Real Grade physical presentation(s) associated with Mobile Suit Gundam 00, Gundam 00 Festival 10 Re:vision. The earliest controlled grade evidence is 2014-04. Supported presentation names include Mobile Suit Gundam 00, Gundam 00 Festival 10 Re:vision. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being close-combat Gundam built around a true GN Drive, combining high mobility with the GN Sword family of weapons.",
+      "aliases": "Gundam Exia | Exia Repair I | Exia Repair II | Exia Repair III | Exia Repair IV | Avalanche Exia | Avalanche Exia Dash | Gundam Exia Roll Out Color Ver. | GN Arms Type-E + Gundam Exia | Gundam Exia Trans-Am Mode | Gundam Exia Repair II | Gundam Exia Trans-Am Mode Gloss Injection | Gundam Avalanche Exia Dash | Gundam Avalanche Exia | Gundam Exia Roll Out Color | Gundam Exia Clear Color | Gundam Exia Trans-Am Clear Color | Gundam Exia Ignition Mode | Gundam Exia Repair III | Gundam Exia Recirculation Color Neon Purple | Gundam Exia Repair IV | Gundam Exia Trans-Am Gloss Injection | Mobile Suit Gundam 00 | Mobile Suit Gundam 00V: Battlefield Record | Mobile Suit Gundam 00V | Gundam 00 Festival 10 Re:vision",
+      "imageKey": "ad-0002"
+    },
+    {
+      "id": "ad-0002-mg",
+      "name": "Gundam Exia",
+      "modelNumber": "GN-001",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2009-07",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Exia (GN-001) is represented by 7 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam 00, Mobile Suit Gundam 00V: Battlefield Record. The earliest controlled grade evidence is 2009-07. Supported presentation names include Mobile Suit Gundam 00, Mobile Suit Gundam 00V: Battlefield Record. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being close-combat Gundam built around a true GN Drive, combining high mobility with the GN Sword family of weapons.",
+      "aliases": "Gundam Exia | Exia Repair I | Exia Repair II | Exia Repair III | Exia Repair IV | Avalanche Exia | Avalanche Exia Dash | Gundam Exia Roll Out Color Ver. | GN Arms Type-E + Gundam Exia | Gundam Exia Trans-Am Mode | Gundam Exia Repair II | Gundam Exia Trans-Am Mode Gloss Injection | Gundam Avalanche Exia Dash | Gundam Avalanche Exia | Gundam Exia Roll Out Color | Gundam Exia Clear Color | Gundam Exia Trans-Am Clear Color | Gundam Exia Ignition Mode | Gundam Exia Repair III | Gundam Exia Recirculation Color Neon Purple | Gundam Exia Repair IV | Gundam Exia Trans-Am Gloss Injection | Mobile Suit Gundam 00 | Mobile Suit Gundam 00V: Battlefield Record | Mobile Suit Gundam 00V | Gundam 00 Festival 10 Re:vision",
+      "imageKey": "ad-0002"
+    },
+    {
+      "id": "ad-0002-pg",
+      "name": "Gundam Exia",
+      "modelNumber": "GN-001",
+      "grade": "Perfect Grade",
+      "availableGrades": [
+        "Perfect Grade"
+      ],
+      "scale": "1/60",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2017-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Exia (GN-001) is represented by 1 certified Perfect Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2017-12. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being close-combat Gundam built around a true GN Drive, combining high mobility with the GN Sword family of weapons.",
+      "aliases": "Gundam Exia | Exia Repair I | Exia Repair II | Exia Repair III | Exia Repair IV | Avalanche Exia | Avalanche Exia Dash | Gundam Exia Roll Out Color Ver. | GN Arms Type-E + Gundam Exia | Gundam Exia Trans-Am Mode | Gundam Exia Repair II | Gundam Exia Trans-Am Mode Gloss Injection | Gundam Avalanche Exia Dash | Gundam Avalanche Exia | Gundam Exia Roll Out Color | Gundam Exia Clear Color | Gundam Exia Trans-Am Clear Color | Gundam Exia Ignition Mode | Gundam Exia Repair III | Gundam Exia Recirculation Color Neon Purple | Gundam Exia Repair IV | Gundam Exia Trans-Am Gloss Injection | Mobile Suit Gundam 00 | Mobile Suit Gundam 00V: Battlefield Record | Mobile Suit Gundam 00V | Gundam 00 Festival 10 Re:vision",
+      "imageKey": "ad-0002"
+    },
+    {
+      "id": "ad-0002-ng",
+      "name": "Gundam Exia",
+      "modelNumber": "GN-001",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2007-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Exia (GN-001) is represented by 7 certified No Grade physical presentation(s) associated with Mobile Suit Gundam 00, Mobile Suit Gundam 00V. The earliest controlled grade evidence is 2007-11. Supported presentation names include Mobile Suit Gundam 00, Mobile Suit Gundam 00V. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being close-combat Gundam built around a true GN Drive, combining high mobility with the GN Sword family of weapons.",
+      "aliases": "Gundam Exia | Exia Repair I | Exia Repair II | Exia Repair III | Exia Repair IV | Avalanche Exia | Avalanche Exia Dash | Gundam Exia Roll Out Color Ver. | GN Arms Type-E + Gundam Exia | Gundam Exia Trans-Am Mode | Gundam Exia Repair II | Gundam Exia Trans-Am Mode Gloss Injection | Gundam Avalanche Exia Dash | Gundam Avalanche Exia | Gundam Exia Roll Out Color | Gundam Exia Clear Color | Gundam Exia Trans-Am Clear Color | Gundam Exia Ignition Mode | Gundam Exia Repair III | Gundam Exia Recirculation Color Neon Purple | Gundam Exia Repair IV | Gundam Exia Trans-Am Gloss Injection | Mobile Suit Gundam 00 | Mobile Suit Gundam 00V: Battlefield Record | Mobile Suit Gundam 00V | Gundam 00 Festival 10 Re:vision",
+      "imageKey": "ad-0002"
+    },
+    {
+      "id": "ad-0003",
+      "name": "Gundam Kyrios",
+      "modelNumber": "GN-003",
+      "grade": "First Grade",
+      "availableGrades": [
+        "First Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2007-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Kyrios (GN-003) is represented by 1 certified First Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2007-09. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A transformable Celestial Being Gundam optimized for high-speed interception, aerial mobility and rapid assault.",
+      "aliases": "Gundam Kyrios | Gundam Kyrios Trans-Am Mode | Gundam Kyrios Clear Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0003"
+    },
+    {
+      "id": "ad-0003-hg",
+      "name": "Gundam Kyrios",
+      "modelNumber": "GN-003",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2007-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Kyrios (GN-003) is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2007-11. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A transformable Celestial Being Gundam optimized for high-speed interception, aerial mobility and rapid assault.",
+      "aliases": "Gundam Kyrios | Gundam Kyrios Trans-Am Mode | Gundam Kyrios Clear Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0003"
+    },
+    {
+      "id": "ad-0003-mg",
+      "name": "Gundam Kyrios",
+      "modelNumber": "GN-003",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2020-05",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Kyrios (GN-003) is represented by 2 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2020-05. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A transformable Celestial Being Gundam optimized for high-speed interception, aerial mobility and rapid assault.",
+      "aliases": "Gundam Kyrios | Gundam Kyrios Trans-Am Mode | Gundam Kyrios Clear Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0003"
+    },
+    {
+      "id": "ad-0003-ng",
+      "name": "Gundam Kyrios",
+      "modelNumber": "GN-003",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Kyrios (GN-003) is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2008-01. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A transformable Celestial Being Gundam optimized for high-speed interception, aerial mobility and rapid assault.",
+      "aliases": "Gundam Kyrios | Gundam Kyrios Trans-Am Mode | Gundam Kyrios Clear Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0003"
+    },
+    {
+      "id": "ad-0010",
+      "name": "Gundam Throne Drei",
+      "modelNumber": "GNW-003",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-04",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Throne Drei (GNW-003) is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2008-04. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A Team Trinity support Gundam equipped for GN particle distribution, jamming and coordinated operations.",
+      "aliases": "Gundam Throne Drei | Mobile Suit Gundam 00",
+      "imageKey": "ad-0010"
+    },
+    {
+      "id": "ad-0007",
+      "name": "Gundam Throne Eins",
+      "modelNumber": "GNW-001",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-02",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Throne Eins (GNW-001) is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2008-02. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A Team Trinity Gundam specialized for long-range bombardment through its large GN launcher.",
+      "aliases": "Gundam Throne Eins | Mobile Suit Gundam 00",
+      "imageKey": "ad-0007"
+    },
+    {
+      "id": "ad-0008",
+      "name": "Gundam Throne Zwei",
+      "modelNumber": "GNW-002",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-03",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Throne Zwei (GNW-002) is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2008-03. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A Team Trinity Gundam designed for aggressive close combat and remote GN Fang attacks.",
+      "aliases": "Gundam Throne Zwei | Mobile Suit Gundam 00",
+      "imageKey": "ad-0008"
+    },
+    {
+      "id": "ad-0004",
+      "name": "Gundam Virtue / Gundam Nadleeh",
+      "modelNumber": "GN-005 / GN-004",
+      "grade": "First Grade",
+      "availableGrades": [
+        "First Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2007-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Virtue / Gundam Nadleeh (GN-005 / GN-004) is represented by 1 certified First Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2007-10. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Virtue is a heavily armed Celestial Being Gundam whose external armor conceals the lighter Nadleeh configuration.",
+      "aliases": "Gundam Virtue / Gundam Nadleeh | Gundam Virtue | Gundam Nadleeh | Virtue/Nadleeh | Gundam Virtue Trans-Am Mode | Gundam Virtue Clear Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0004"
+    },
+    {
+      "id": "ad-0004-hg",
+      "name": "Gundam Virtue / Gundam Nadleeh",
+      "modelNumber": "GN-005 / GN-004",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2007-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Virtue / Gundam Nadleeh (GN-005 / GN-004) is represented by 3 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2007-12. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Virtue is a heavily armed Celestial Being Gundam whose external armor conceals the lighter Nadleeh configuration.",
+      "aliases": "Gundam Virtue / Gundam Nadleeh | Gundam Virtue | Gundam Nadleeh | Virtue/Nadleeh | Gundam Virtue Trans-Am Mode | Gundam Virtue Clear Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0004"
+    },
+    {
+      "id": "ad-0004-mg",
+      "name": "Gundam Virtue / Gundam Nadleeh",
+      "modelNumber": "GN-005 / GN-004",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2021-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Virtue / Gundam Nadleeh (GN-005 / GN-004) is represented by 3 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2021-11. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Virtue is a heavily armed Celestial Being Gundam whose external armor conceals the lighter Nadleeh configuration.",
+      "aliases": "Gundam Virtue / Gundam Nadleeh | Gundam Virtue | Gundam Nadleeh | Virtue/Nadleeh | Gundam Virtue Trans-Am Mode | Gundam Virtue Clear Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0004"
+    },
+    {
+      "id": "ad-0004-ng",
+      "name": "Gundam Virtue / Gundam Nadleeh",
+      "modelNumber": "GN-005 / GN-004",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-02",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Virtue / Gundam Nadleeh (GN-005 / GN-004) is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2008-02. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Virtue is a heavily armed Celestial Being Gundam whose external armor conceals the lighter Nadleeh configuration.",
+      "aliases": "Gundam Virtue / Gundam Nadleeh | Gundam Virtue | Gundam Nadleeh | Virtue/Nadleeh | Gundam Virtue Trans-Am Mode | Gundam Virtue Clear Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0004"
+    },
+    {
+      "id": "ad-0026",
+      "name": "Masurao / Susanowo",
+      "modelNumber": "GNX-U02X / GNX-Y901TW",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2009-06",
+      "releaseType": "Retail",
+      "kitSummary": "Masurao / Susanowo (GNX-U02X / GNX-Y901TW) is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2009-06. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A high-performance close-combat lineage created for Mr. Bushido from Flag and GN Tau Drive technology.",
+      "aliases": "Masurao / Susanowo | Masurao | Susanowo | Mobile Suit Gundam 00",
+      "imageKey": "ad-0026"
+    },
+    {
+      "id": "ad-0028",
+      "name": "Reborns Gundam",
+      "modelNumber": "CB-0000G/C",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2009-09",
+      "releaseType": "Retail",
+      "kitSummary": "Reborns Gundam (CB-0000G/C) is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2009-09. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A transformable Innovator mobile suit that shifts between Reborns Gundam and Reborns Cannon combat modes.",
+      "aliases": "Reborns Gundam | Mobile Suit Gundam 00",
+      "imageKey": "ad-0028"
+    },
+    {
+      "id": "ad-0022",
+      "name": "Seraphim Gundam",
+      "modelNumber": "GN-009",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2009-02",
+      "releaseType": "Retail",
+      "kitSummary": "Seraphim Gundam (GN-009) is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2009-02. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A compact Celestial Being Gundam concealed on Seravee and able to operate as an independent combat unit.",
+      "aliases": "Seraphim Gundam | Mobile Suit Gundam 00",
+      "imageKey": "ad-0022"
+    },
+    {
+      "id": "ad-0017",
+      "name": "Seravee Gundam",
+      "modelNumber": "GN-008",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Seravee Gundam (GN-008) is represented by 3 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2008-11. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A heavy Celestial Being Gundam designed for overwhelming beam firepower and coordinated operation with Seraphim.",
+      "aliases": "Seravee Gundam | Seravee Gundam GNHW/B | Seravee Gundam Trans-Am Mode | Seravee Gundam with Seraphim | Seravee Designer's Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0017"
+    },
+    {
+      "id": "ad-0017-ng",
+      "name": "Seravee Gundam",
+      "modelNumber": "GN-008",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2009-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Seravee Gundam (GN-008) is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2009-03. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A heavy Celestial Being Gundam designed for overwhelming beam firepower and coordinated operation with Seraphim.",
+      "aliases": "Seravee Gundam | Seravee Gundam GNHW/B | Seravee Gundam Trans-Am Mode | Seravee Gundam with Seraphim | Seravee Designer's Color | Mobile Suit Gundam 00",
+      "imageKey": "ad-0017"
+    },
+    {
+      "id": "ad-0006",
+      "name": "Tieren",
+      "modelNumber": "MSJ-06II",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2007-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Tieren (MSJ-06II) is represented by 5 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2007-11. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Human Reform League Tieren is a durable mass-production mobile suit fielded in specialized ground and space configurations.",
+      "aliases": "Tieren | Tieren Taozi | Space Tieren | Ground Tieren | Tieren Ground Type | Tieren Space Type | Tieren Space Commander Type | Sergei's Tieren Taozi | Mobile Suit Gundam 00",
+      "imageKey": "ad-0006"
+    },
+    {
+      "id": "ad-0006-ng",
+      "name": "Tieren",
+      "modelNumber": "MSJ-06II",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Tieren (MSJ-06II) is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2008-06. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Human Reform League Tieren is a durable mass-production mobile suit fielded in specialized ground and space configurations.",
+      "aliases": "Tieren | Tieren Taozi | Space Tieren | Ground Tieren | Tieren Ground Type | Tieren Space Type | Tieren Space Commander Type | Sergei's Tieren Taozi | Mobile Suit Gundam 00",
+      "imageKey": "ad-0006"
+    },
+    {
+      "id": "ad-0005",
+      "name": "Union Flag",
+      "modelNumber": "SVMS-01",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2007-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Union Flag (SVMS-01) is represented by 4 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2007-10. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Union Flag is a transformable Union mobile suit whose light airframe and flight mode support rapid-response combat.",
+      "aliases": "Union Flag | Graham Flag | Over Flag | GN Flag | Union Flag Custom II | Graham's Union Flag Custom | Graham Union Flag Custom II GN Flag | Mobile Suit Gundam 00",
+      "imageKey": "ad-0005"
+    },
+    {
+      "id": "ad-0005-ng",
+      "name": "Union Flag",
+      "modelNumber": "SVMS-01",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam 00",
+      "releaseDate": "2008-05",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Union Flag (SVMS-01) is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam 00. The earliest controlled grade evidence is 2008-05. Supported presentation names include Mobile Suit Gundam 00. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Union Flag is a transformable Union mobile suit whose light airframe and flight mode support rapid-response combat.",
+      "aliases": "Union Flag | Graham Flag | Over Flag | GN Flag | Union Flag Custom II | Graham's Union Flag Custom | Graham Union Flag Custom II GN Flag | Mobile Suit Gundam 00",
+      "imageKey": "ad-0005"
+    },
+    {
+      "id": "ad-0030",
+      "name": "00 Qan[T]",
+      "modelNumber": "GNT-0000",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "releaseDate": "2010-08",
+      "releaseType": "Verified presentations",
+      "kitSummary": "00 Qan[T] (GNT-0000) is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer. The earliest controlled grade evidence is 2010-08. Supported presentation names include Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being dialogue-oriented Twin Drive Gundam developed for Setsuna after the Innovator conflict.",
+      "aliases": "00 Qan[T] | 00 QanT | 00 Qan[T] Full Saber | Double O QanT | Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer | Mobile Suit Gundam 00V: Battlefield Record",
+      "imageKey": "ad-0030"
+    },
+    {
+      "id": "ad-0030-rg",
+      "name": "00 Qan[T]",
+      "modelNumber": "GNT-0000",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "releaseDate": "2016-05",
+      "releaseType": "Verified presentations",
+      "kitSummary": "00 Qan[T] (GNT-0000) is represented by 2 certified Real Grade physical presentation(s) associated with Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer, Mobile Suit Gundam 00V: Battlefield Record. The earliest controlled grade evidence is 2016-05. Supported presentation names include Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer, Mobile Suit Gundam 00V: Battlefield Record. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being dialogue-oriented Twin Drive Gundam developed for Setsuna after the Innovator conflict.",
+      "aliases": "00 Qan[T] | 00 QanT | 00 Qan[T] Full Saber | Double O QanT | Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer | Mobile Suit Gundam 00V: Battlefield Record",
+      "imageKey": "ad-0030"
+    },
+    {
+      "id": "ad-0030-mg",
+      "name": "00 Qan[T]",
+      "modelNumber": "GNT-0000",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "releaseDate": "2010-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "00 Qan[T] (GNT-0000) is represented by 2 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer, Mobile Suit Gundam 00V: Battlefield Record. The earliest controlled grade evidence is 2010-11. Supported presentation names include Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer, Mobile Suit Gundam 00V: Battlefield Record. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Celestial Being dialogue-oriented Twin Drive Gundam developed for Setsuna after the Innovator conflict.",
+      "aliases": "00 Qan[T] | 00 QanT | 00 Qan[T] Full Saber | Double O QanT | Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer | Mobile Suit Gundam 00V: Battlefield Record",
+      "imageKey": "ad-0030"
+    },
+    {
+      "id": "ad-0034",
+      "name": "Brave",
+      "modelNumber": "GNX-903VS / GNX-903VW",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "releaseDate": "2010-10",
+      "releaseType": "Retail",
+      "kitSummary": "Brave (GNX-903VS / GNX-903VW) is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer. The earliest controlled grade evidence is 2010-10. Supported presentation names include Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "An advanced transformable Earth Sphere Federation mobile suit developed from the Union Flag and GN-X lineages.",
+      "aliases": "Brave | Brave Commander Test Type | Brave Standard Test Type | Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "imageKey": "ad-0034"
+    },
+    {
+      "id": "ad-0035",
+      "name": "GN-X IV",
+      "modelNumber": "GNX-803T",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "releaseDate": "2018-03",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "GN-X IV (GNX-803T) is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer. The earliest controlled grade evidence is 2018-03. Supported presentation names include Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The film-era fourth-generation GN-X standardizes advanced GN Tau Drive technology for Federation forces.",
+      "aliases": "GN-X IV | GN-XIV Commander Type | GN-XIV Mass Production Type | GN-X IV Commander Type | GN-X IV Mass Production Type | Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "imageKey": "ad-0035"
+    },
+    {
+      "id": "ad-0032",
+      "name": "Gundam Harute",
+      "modelNumber": "GN-011",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "releaseDate": "2010-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Harute (GN-011) is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer. The earliest controlled grade evidence is 2010-09. Supported presentation names include Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A film-era transformable Celestial Being Gundam with high-speed flight, pincer weapons and a dual-pilot operating system.",
+      "aliases": "Gundam Harute | Gundam Harute Final Battle Specification | Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "imageKey": "ad-0032"
+    },
+    {
+      "id": "ad-0031",
+      "name": "Gundam Zabanya",
+      "modelNumber": "GN-010",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "releaseDate": "2010-08",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Zabanya (GN-010) is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer. The earliest controlled grade evidence is 2010-08. Supported presentation names include Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A film-era Celestial Being ranged-combat Gundam using numerous rifle bits and holster bits for layered offense and defense.",
+      "aliases": "Gundam Zabanya | Gundam Zabanya Final Battle Specification | Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "imageKey": "ad-0031"
+    },
+    {
+      "id": "ad-0033",
+      "name": "Raphael Gundam",
+      "modelNumber": "CB-002",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "releaseDate": "2010-09",
+      "releaseType": "Retail",
+      "kitSummary": "Raphael Gundam (CB-002) is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer. The earliest controlled grade evidence is 2010-09. Supported presentation names include Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A film-era Gundam operated by Tieria, combining a compact mobile-suit body with a large remote upper structure.",
+      "aliases": "Raphael Gundam | Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "imageKey": "ad-0033"
+    },
+    {
+      "id": "ad-0019",
+      "name": "Gundam Rasiel",
+      "modelNumber": "GN-XXX",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00F",
+      "releaseDate": "2008-12",
+      "releaseType": "Magazine supplement",
+      "kitSummary": "Gundam Rasiel (GN-XXX) is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam 00F. The earliest controlled grade evidence is 2008-12. Supported presentation names include Mobile Suit Gundam 00F. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A Fereshte Gundam developed for reconnaissance and operation with the GN Sefer support system.",
+      "aliases": "Gundam Rasiel | Mobile Suit Gundam 00F",
+      "imageKey": "ad-0019"
+    },
+    {
+      "id": "ad-0029",
+      "name": "1 Gundam / 1.5 Gundam",
+      "modelNumber": "CB-001 / CB-001.5",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00I",
+      "releaseDate": "2010-05",
+      "releaseType": "Retail",
+      "kitSummary": "1 Gundam / 1.5 Gundam (CB-001 / CB-001.5) is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00F. The earliest controlled grade evidence is 2010-05. Supported presentation names include Mobile Suit Gundam 00F. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "An Innovade mobile suit lineage built from Veda-held Gundam technology and later enhanced as the 1.5 Gundam.",
+      "aliases": "1 Gundam / 1.5 Gundam | 1 Gundam | 1.5 Gundam | I Gundam | Mobile Suit Gundam 00F",
+      "imageKey": "ad-0029"
+    },
+    {
+      "id": "ad-0009",
+      "name": "Gundam Astraea",
+      "modelNumber": "GNY-001",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00P",
+      "releaseDate": "2010-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astraea (GNY-001) is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00F. The earliest controlled grade evidence is 2010-04. Supported presentation names include Mobile Suit Gundam 00F. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A second-generation Celestial Being Gundam used to develop technologies later refined in Gundam Exia.",
+      "aliases": "Gundam Astraea | Gundam Astraea Type F | Astraea Type F2 | Avalanche Astraea Type F | Gundam Astraea Type F Full Weapon Set | Gundam Astraea + Proto GN Twin Broad Blade | Mobile Suit Gundam 00F | Mobile Suit Gundam 00P | Mobile Suit Gundam 00 Revealed Chronicle",
+      "imageKey": "ad-0009"
+    },
+    {
+      "id": "ad-0009-rg",
+      "name": "Gundam Astraea",
+      "modelNumber": "GNY-001",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00P",
+      "releaseDate": "2014-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astraea (GNY-001) is represented by 1 certified Real Grade physical presentation(s) associated with Mobile Suit Gundam 00F. The earliest controlled grade evidence is 2014-10. Supported presentation names include Mobile Suit Gundam 00F. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A second-generation Celestial Being Gundam used to develop technologies later refined in Gundam Exia.",
+      "aliases": "Gundam Astraea | Gundam Astraea Type F | Astraea Type F2 | Avalanche Astraea Type F | Gundam Astraea Type F Full Weapon Set | Gundam Astraea + Proto GN Twin Broad Blade | Mobile Suit Gundam 00F | Mobile Suit Gundam 00P | Mobile Suit Gundam 00 Revealed Chronicle",
+      "imageKey": "ad-0009"
+    },
+    {
+      "id": "ad-0009-mg",
+      "name": "Gundam Astraea",
+      "modelNumber": "GNY-001",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam 00P",
+      "releaseDate": "2022-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astraea (GNY-001) is represented by 2 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam 00F, Mobile Suit Gundam 00 Revealed Chronicle. The earliest controlled grade evidence is 2022-04. Supported presentation names include Mobile Suit Gundam 00F, Mobile Suit Gundam 00 Revealed Chronicle. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A second-generation Celestial Being Gundam used to develop technologies later refined in Gundam Exia.",
+      "aliases": "Gundam Astraea | Gundam Astraea Type F | Astraea Type F2 | Avalanche Astraea Type F | Gundam Astraea Type F Full Weapon Set | Gundam Astraea + Proto GN Twin Broad Blade | Mobile Suit Gundam 00F | Mobile Suit Gundam 00P | Mobile Suit Gundam 00 Revealed Chronicle",
+      "imageKey": "ad-0009"
+    },
+    {
+      "id": "ad-0009-ng",
+      "name": "Gundam Astraea",
+      "modelNumber": "GNY-001",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam 00P",
+      "releaseDate": "2008-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astraea (GNY-001) is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam 00P. The earliest controlled grade evidence is 2008-04. Supported presentation names include Mobile Suit Gundam 00P. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A second-generation Celestial Being Gundam used to develop technologies later refined in Gundam Exia.",
+      "aliases": "Gundam Astraea | Gundam Astraea Type F | Astraea Type F2 | Avalanche Astraea Type F | Gundam Astraea Type F Full Weapon Set | Gundam Astraea + Proto GN Twin Broad Blade | Mobile Suit Gundam 00F | Mobile Suit Gundam 00P | Mobile Suit Gundam 00 Revealed Chronicle",
+      "imageKey": "ad-0009"
+    },
+    {
+      "id": "ad-0036",
+      "name": "Gundam Plutone",
+      "modelNumber": "GNY-004",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam 00P",
+      "releaseDate": "2020-09",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "Gundam Plutone (GNY-004) is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam 00P, Mobile Suit Gundam 00F. The earliest controlled grade evidence is 2020-09. Supported presentation names include Mobile Suit Gundam 00P, Mobile Suit Gundam 00F. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "A second-generation Celestial Being Gundam with a core fighter and experimental systems that influenced Virtue and Nadleeh.",
+      "aliases": "Gundam Plutone | Gundam Plutone Black | Mobile Suit Gundam 00P | Mobile Suit Gundam 00F",
+      "imageKey": "ad-0036"
+    }
+  ]
+}

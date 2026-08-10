@@ -1,0 +1,444 @@
+{
+  "format": "hangar-bay-catalog-pack",
+  "schemaVersion": 1,
+  "id": "witch-from-mercury",
+  "name": "The Witch from Mercury",
+  "shortName": "WFM",
+  "description": "Grade-specific The Witch from Mercury catalog. Each entry represents one mech and normalized grade; configurations, tooling iterations, editions, scale choices, and accessories remain owned-copy attributes.",
+  "version": 5,
+  "updatedAt": "2026-08-05",
+  "sortOrder": 20,
+  "kitCount": 25,
+  "series": [
+    "Mobile Suit Gundam: The Witch from Mercury",
+    "Mobile Suit Gundam: The Witch from Mercury - Vanadis Heart",
+    "Mobile Suit Gundam: The Witch from Mercury PROLOGUE"
+  ],
+  "kits": [
+    {
+      "id": "wfm-0009",
+      "name": "Beguir-Pente",
+      "modelNumber": "CEK-077",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2023-01",
+      "releaseType": "Retail",
+      "kitSummary": "Beguir-Pente (CEK-077) is represented by 1 certified High Grade presentation(s) beginning 2023-01. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Beguir-Pente is a successor to Beguir-Beu fielded by Dominicus and Grassley House as an anti-GUND combat mobile suit.",
+      "aliases": "Beguir Pente",
+      "imageKey": "wfm-0009"
+    },
+    {
+      "id": "wfm-0006",
+      "name": "Darilbalde",
+      "modelNumber": "MD-0064",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2022-12",
+      "releaseType": "Retail",
+      "kitSummary": "Darilbalde (MD-0064) is represented by 1 certified High Grade presentation(s) beginning 2022-12. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Darilbalde is Jeturk Heavy Machinery's advanced duel machine, developed around remote weapons and decision-support technology for high-level combat.",
+      "aliases": "Daril Balde",
+      "imageKey": "wfm-0006"
+    },
+    {
+      "id": "wfm-0014",
+      "name": "Demi Barding",
+      "modelNumber": "MSJ-R122",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2023-06",
+      "releaseType": "Retail",
+      "kitSummary": "Demi Barding (MSJ-R122) is represented by 1 certified High Grade presentation(s) beginning 2023-06. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Demi Barding is a heavily revised Demi-series combat machine whose armor, backpack, and equipment move it beyond the school-use Demi Trainer configuration family.",
+      "aliases": "Demi Barding | Baori Pack",
+      "imageKey": "wfm-0014"
+    },
+    {
+      "id": "wfm-0005",
+      "name": "Demi Trainer",
+      "modelNumber": "MSJ-105CC",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2022-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Demi Trainer (MSJ-105CC) is represented by 3 certified High Grade presentation(s) beginning 2022-11. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Supported presentations include Chuchu's Demi Trainer, Demi Garrison. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Demi Trainer is Burion's school training mobile suit. Chuchu's customized unit and the Demi Garrison military presentation remain configurations of the common Demi platform.",
+      "aliases": "Chuchu's Demi Trainer | Demi Garrison | Chuchu Demi Trainer | Chuatury's Demi Trainer | Standard Demi Trainer | Garrison Demi",
+      "imageKey": "wfm-0005"
+    },
+    {
+      "id": "wfm-0019",
+      "name": "Desultor",
+      "modelNumber": "MD-0021",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2025-02",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "Desultor (MD-0021) is represented by 1 certified High Grade presentation(s) beginning 2025-02. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Desultor is an older Jeturk mobile suit represented by the certified physical-kit source as a distinct Ad Stella machine.",
+      "aliases": "MD-0021",
+      "imageKey": "wfm-0019"
+    },
+    {
+      "id": "wfm-0004",
+      "name": "Dilanza",
+      "modelNumber": "MD-0032G",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2022-10",
+      "releaseType": "Retail",
+      "kitSummary": "Dilanza (MD-0032G) is represented by 3 certified High Grade presentation(s) beginning 2022-10. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Supported presentations include Guel's Dilanza, Dilanza Standard Type / Lauda's Dilanza, Dilanza Sol. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Dilanza is Jeturk Heavy Machinery's heavyweight mobile-suit platform. Standard, Lauda, Guel, and Sol presentations are equipment and assignment configurations of the same family.",
+      "aliases": "Guel's Dilanza | Dilanza Standard Type / Lauda's Dilanza | Dilanza Sol | Guel Dilanza | Standard Dilanza | Lauda's Dilanza | Lauda Dilanza | Military Dilanza | Combat Dilanza",
+      "imageKey": "wfm-0004"
+    },
+    {
+      "id": "wfm-0003",
+      "name": "Gundam Aerial",
+      "modelNumber": "XVX-016",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2022-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Aerial (XVX-016) is represented by 2 certified High Grade presentation(s) beginning 2022-10. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Supported presentations include Gundam Aerial Rebuild. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Aerial is Suletta Mercury's GUND-ARM and operates a network of remote GUND-BIT weapons; Aerial Rebuild is the repaired and refitted state of that same machine.",
+      "aliases": "Gundam Aerial Rebuild | WFM Aerial | Aerial Rebuild | Rebuild Aerial | FM Aerial",
+      "imageKey": "wfm-0003"
+    },
+    {
+      "id": "wfm-0003-fm",
+      "name": "Gundam Aerial",
+      "modelNumber": "XVX-016",
+      "grade": "Full Mechanics",
+      "availableGrades": [
+        "Full Mechanics"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2023-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Aerial (XVX-016) is represented by 1 certified Full Mechanics presentation(s) beginning 2023-04. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Aerial is Suletta Mercury's GUND-ARM and operates a network of remote GUND-BIT weapons; Aerial Rebuild is the repaired and refitted state of that same machine.",
+      "aliases": "Gundam Aerial Rebuild | WFM Aerial | Aerial Rebuild | Rebuild Aerial | FM Aerial",
+      "imageKey": "wfm-0003"
+    },
+    {
+      "id": "wfm-0017",
+      "name": "Gundam Calibarn",
+      "modelNumber": "X-EX01",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2023-07",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Calibarn (X-EX01) is represented by 1 certified High Grade presentation(s) beginning 2023-07. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Calibarn is a high-risk early GUND-ARM prototype whose lack of a protective data-storm filter demands exceptional pilot tolerance.",
+      "aliases": "Calibarn",
+      "imageKey": "wfm-0017"
+    },
+    {
+      "id": "wfm-0013",
+      "name": "Gundam Lfrith Thorn",
+      "modelNumber": "EDM-GA-02",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2023-03",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Lfrith Thorn (EDM-GA-02) is represented by 1 certified High Grade presentation(s) beginning 2023-03. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Lfrith Thorn is a Dawn of Fold GUND-ARM optimized around a compact profile and specialized ranged combat equipment.",
+      "aliases": "Lfrith Thorn",
+      "imageKey": "wfm-0013"
+    },
+    {
+      "id": "wfm-0012",
+      "name": "Gundam Lfrith Ur",
+      "modelNumber": "EDM-GA-01",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2023-03",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Lfrith Ur (EDM-GA-01) is represented by 1 certified High Grade presentation(s) beginning 2023-03. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Lfrith Ur is a Dawn of Fold Gundam derived from the Lfrith Pre-Production Model and enlarged for heavy frontline combat.",
+      "aliases": "Lfrith Ur",
+      "imageKey": "wfm-0012"
+    },
+    {
+      "id": "wfm-0007",
+      "name": "Gundam Pharact",
+      "modelNumber": "FP/A-77",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2022-12",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Pharact (FP/A-77) is represented by 1 certified High Grade presentation(s) beginning 2022-12. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Pharact is Peil Technologies' GUND-ARM, a fast long-range machine that employs remote units while imposing a severe data-storm burden on its pilot.",
+      "aliases": "Pharact",
+      "imageKey": "wfm-0007"
+    },
+    {
+      "id": "wfm-0016",
+      "name": "Gundam Schwarzette",
+      "modelNumber": "MDX-0003",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2023-07",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Schwarzette (MDX-0003) is represented by 1 certified High Grade presentation(s) beginning 2023-07. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Schwarzette combines Jeturk development work with GUND technology and a broad sword that separates into remote weapon components.",
+      "aliases": "Schwarzette",
+      "imageKey": "wfm-0016"
+    },
+    {
+      "id": "wfm-0018",
+      "name": "Gundnode",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2024-06",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "Gundnode is represented by 1 certified High Grade presentation(s) beginning 2024-06. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundnode is an unmanned GUND-format combat node designed to operate as part of a distributed machine network.",
+      "aliases": "Gund Node",
+      "imageKey": "wfm-0018"
+    },
+    {
+      "id": "wfm-0015",
+      "name": "Gundvolva",
+      "modelNumber": "EDM-GB",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2023-06",
+      "releaseType": "Retail",
+      "kitSummary": "Gundvolva (EDM-GB) is represented by 1 certified High Grade presentation(s) beginning 2023-06. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundvolva is an unmanned mobile suit remotely controlled through GUND-BIT technology, allowing a Gundam to command it as an extension of its weapon system.",
+      "aliases": "Gundvölva | Gundvolva",
+      "imageKey": "wfm-0015"
+    },
+    {
+      "id": "wfm-0011",
+      "name": "Heindree",
+      "modelNumber": "CFP-010",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2023-02",
+      "releaseType": "Retail",
+      "kitSummary": "Heindree (CFP-010) is represented by 2 certified High Grade presentation(s) beginning 2023-02. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Supported presentations include Heindree Sturm. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Heindree is a compact Grassley general-purpose mobile suit. Heindree Sturm is the combat-oriented configuration of the same machine family.",
+      "aliases": "Heindree Sturm | CFP-010 | Combat Heindree",
+      "imageKey": "wfm-0011"
+    },
+    {
+      "id": "wfm-0008",
+      "name": "Michaelis",
+      "modelNumber": "CFK-029",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2023-01",
+      "releaseType": "Retail",
+      "kitSummary": "Michaelis (CFK-029) is represented by 1 certified High Grade presentation(s) beginning 2023-01. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Michaelis is Shaddiq Zenelli's Grassley mobile suit, combining high mobility with an asymmetric integrated armament designed for decisive dueling attacks.",
+      "aliases": "CFK-029",
+      "imageKey": "wfm-0008"
+    },
+    {
+      "id": "wfm-0010",
+      "name": "Zowort",
+      "modelNumber": "F/D-19",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury",
+      "releaseDate": "2023-02",
+      "releaseType": "Retail",
+      "kitSummary": "Zowort (F/D-19) is represented by 2 certified High Grade presentation(s) beginning 2023-02. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Supported presentations include Zowort Heavy. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Zowort is Peil Technologies' general-purpose mobile suit; Zowort Heavy is its combat-support equipment configuration rather than another catalog identity.",
+      "aliases": "Zowort Heavy | Standard Zowort | WFM Zowort Heavy",
+      "imageKey": "wfm-0010"
+    },
+    {
+      "id": "wfm-0023",
+      "name": "Gundam Lfrith Anavata",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury - Vanadis Heart",
+      "releaseDate": "2023-12",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "Gundam Lfrith Anavata is represented by 1 certified High Grade presentation(s) beginning 2023-12. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Lfrith Anavata is a Vanadis Heart GUND-ARM represented by its own complete physical kit and distinct machine identity.",
+      "aliases": "Lfrith Anavata",
+      "imageKey": "wfm-0023"
+    },
+    {
+      "id": "wfm-0022",
+      "name": "Gundam Lfrith Jiu",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury - Vanadis Heart",
+      "releaseDate": "2023-07",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "Gundam Lfrith Jiu is represented by 1 certified High Grade presentation(s) beginning 2023-07. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Lfrith Jiu is a Vanadis Heart GUND-ARM represented by its own complete physical kit and distinct machine identity.",
+      "aliases": "Lfrith Jiu",
+      "imageKey": "wfm-0022"
+    },
+    {
+      "id": "wfm-0024",
+      "name": "Gundam Naion",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury - Vanadis Heart",
+      "releaseDate": "2025-09",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "Gundam Naion is represented by 1 certified High Grade presentation(s) beginning 2025-09. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Naion is a later Vanadis Heart GUND-ARM represented by the certified source ledger as a distinct complete machine.",
+      "aliases": "Naion",
+      "imageKey": "wfm-0024"
+    },
+    {
+      "id": "wfm-0002",
+      "name": "Beguir-Beu",
+      "modelNumber": "CEK-040",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury PROLOGUE",
+      "releaseDate": "2022-08",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Beguir-Beu (CEK-040) is represented by 2 certified High Grade presentation(s) beginning 2022-08. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Supported presentations include Beguir-Beu Torche - Kenanji / Ridrick Units. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Beguir-Beu is a high-performance Grassley mobile suit assigned to Dominicus during the Fólkvangr attack; the later Torche presentations remain configurations of the same anti-GUND machine family.",
+      "aliases": "Beguir-Beu Torche - Kenanji / Ridrick Units | Beguir Beu | Beguir Beu Torche | Kenanji Team | Ridrick Team",
+      "imageKey": "wfm-0002"
+    },
+    {
+      "id": "wfm-0001",
+      "name": "Gundam Lfrith",
+      "modelNumber": "XGF-02",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury PROLOGUE",
+      "releaseDate": "2022-08",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Lfrith (XGF-02) is represented by 1 certified High Grade presentation(s) beginning 2022-08. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Lfrith is an Ochs Earth prototype that applies the Vanadis Institute's GUND Format and controls a shield assembled from remote GUND-BIT weapons.",
+      "aliases": "WFM Lfrith",
+      "imageKey": "wfm-0001"
+    },
+    {
+      "id": "wfm-0020",
+      "name": "Gundam Lfrith Pre-Production Model",
+      "modelNumber": "XGF-01",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury PROLOGUE",
+      "releaseDate": "2024-05",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "Gundam Lfrith Pre-Production Model (XGF-01) is represented by 1 certified High Grade presentation(s) beginning 2024-05. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Lfrith Pre-Production Model is the mass-production-oriented predecessor used by Ochs Earth before the refined XGF-02 Lfrith prototype.",
+      "aliases": "Mass Production Lfrith | XGF-01",
+      "imageKey": "wfm-0020"
+    },
+    {
+      "id": "wfm-0021",
+      "name": "Heingra",
+      "modelNumber": "CCP-068",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: The Witch from Mercury PROLOGUE",
+      "releaseDate": "2024-05",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "Heingra (CCP-068) is represented by 1 certified High Grade presentation(s) beginning 2024-05. This grade-specific entry is supported by the mounted Witch from Mercury source reconciliation. Tooling revisions, colors, limited editions, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Heingra is a Dominicus escort mobile suit deployed alongside Beguir-Beu during the Fólkvangr operation.",
+      "aliases": "Hain Gla | CCP-068",
+      "imageKey": "wfm-0021"
+    }
+  ]
+}

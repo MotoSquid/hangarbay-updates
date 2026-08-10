@@ -1,0 +1,683 @@
+{
+  "format": "hangar-bay-catalog-pack",
+  "schemaVersion": 1,
+  "id": "post-disaster",
+  "name": "Post Disaster",
+  "shortName": "PD",
+  "description": "Grade-specific Post Disaster catalog. Each entry represents one mech and normalized grade; configurations, tooling iterations, editions, scale choices, and accessories remain owned-copy attributes.",
+  "version": 4,
+  "updatedAt": "2026-08-05",
+  "sortOrder": 50,
+  "kitCount": 39,
+  "series": [
+    "Mobile Suit Gundam: Iron-Blooded Orphans Gekko",
+    "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+    "Mobile Suit Gundam: Iron-Blooded Orphans Season 2",
+    "Mobile Suit Gundam: Iron-Blooded Orphans Urdr-Hunt"
+  ],
+  "kits": [
+    {
+      "id": "pd-0011",
+      "name": "Gundam Astaroth",
+      "modelNumber": "ASW-G-29",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Gekko",
+      "releaseDate": "2016-05",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Astaroth (ASW-G-29) is represented by 3 certified High Grade Post Disaster presentation(s) beginning 2016-05. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Gundam Astaroth Origin, Gundam Astaroth Rinascimento. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Astaroth is the ASW-G-29 Gundam Frame central to Iron-Blooded Orphans Gekko. Origin and Rinascimento are restoration states of the same machine.",
+      "aliases": "Gundam Astaroth Origin | Gundam Astaroth Rinascimento",
+      "imageKey": "pd-0011"
+    },
+    {
+      "id": "pd-0021",
+      "name": "Gundam Dantalion",
+      "modelNumber": "ASW-G-71",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Gekko",
+      "releaseDate": "2017-06",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Dantalion (ASW-G-71) is represented by 1 certified High Grade Post Disaster presentation(s) beginning 2017-06. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Dantalion is the ASW-G-71 Gundam Frame; its cowl and booster equipment remain configurations and accessories of the same underlying machine.",
+      "aliases": "",
+      "imageKey": "pd-0021"
+    },
+    {
+      "id": "pd-0023",
+      "name": "Gundam Gremory",
+      "modelNumber": "ASW-G-56",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Gekko",
+      "releaseDate": "2021-10",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Gremory (ASW-G-56) is represented by 1 certified High Grade Post Disaster presentation(s) beginning 2021-10. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Gremory is the ASW-G-56 Gundam Frame represented in Gekko with a hooded armor profile and a large anchor-like weapon.",
+      "aliases": "",
+      "imageKey": "pd-0023"
+    },
+    {
+      "id": "pd-0026",
+      "name": "Gundam Oltlinde",
+      "modelNumber": "V03-0907",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Gekko",
+      "releaseDate": "2023-09",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "Gundam Oltlinde (V03-0907) is represented by 1 certified High Grade Post Disaster presentation(s) beginning 2023-09. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Oltlinde is a Valkyrja Frame machine represented in the Gekko material by its own complete physical kit.",
+      "aliases": "",
+      "imageKey": "pd-0026"
+    },
+    {
+      "id": "pd-0020",
+      "name": "Gundam Vual",
+      "modelNumber": "ASW-G-47",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Gekko",
+      "releaseDate": "2017-04",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Vual (ASW-G-47) is represented by 1 certified High Grade Post Disaster presentation(s) beginning 2017-04. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Vual is the ASW-G-47 Gundam Frame represented in the Gekko source material by its own complete physical kit.",
+      "aliases": "",
+      "imageKey": "pd-0020"
+    },
+    {
+      "id": "pd-0002",
+      "name": "Graze",
+      "modelNumber": "EB-06",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2015-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Graze (EB-06) is represented by 11 certified High Grade Post Disaster presentation(s) beginning 2015-10. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Graze (Standard Type / Commander Type), Graze Custom, Ryusei-Go (Graze Custom II), Graze Ritter (Carta Custom). Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Graze is Gjallarhorn's standard mass-production mobile suit. Commander, custom, Ryusei-Go, Ritter, ground, Schild, Arianrhod, and Dainsleif presentations remain configurations of the Graze family.",
+      "aliases": "Graze (Standard Type / Commander Type) | Graze Custom | Ryusei-Go (Graze Custom II) | Graze Ritter (Carta Custom) | Graze Ground Type Twin Set | Arianrhod Fleet Complete Set | Graze Schild & Graze (Arianrhod Fleet) Set",
+      "imageKey": "pd-0002"
+    },
+    {
+      "id": "pd-0002-ng",
+      "name": "Graze",
+      "modelNumber": "EB-06",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2015-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Graze (EB-06) is represented by 2 certified No Grade Post Disaster presentation(s) beginning 2015-12. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Graze (Standard Type / Commander Type), Graze Custom. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Graze is Gjallarhorn's standard mass-production mobile suit. Commander, custom, Ryusei-Go, Ritter, ground, Schild, Arianrhod, and Dainsleif presentations remain configurations of the Graze family.",
+      "aliases": "Graze (Standard Type / Commander Type) | Graze Custom | Ryusei-Go (Graze Custom II) | Graze Ritter (Carta Custom) | Graze Ground Type Twin Set | Arianrhod Fleet Complete Set | Graze Schild & Graze (Arianrhod Fleet) Set",
+      "imageKey": "pd-0002"
+    },
+    {
+      "id": "pd-0010",
+      "name": "Graze Ein",
+      "modelNumber": "EB-AX2",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2016-04",
+      "releaseType": "Retail",
+      "kitSummary": "Graze Ein (EB-AX2) is represented by 1 certified High Grade Post Disaster presentation(s) beginning 2016-04. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Graze Ein is an enlarged experimental Gjallarhorn mobile suit that integrates Ein Dalton into its control system; its scale and structure distinguish it from ordinary Graze configurations.",
+      "aliases": "",
+      "imageKey": "pd-0010"
+    },
+    {
+      "id": "pd-0009",
+      "name": "Grimgerde",
+      "modelNumber": "V08-1228",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2016-02",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Grimgerde (V08-1228) is represented by 2 certified High Grade Post Disaster presentation(s) beginning 2016-02. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Helmwige Reincar. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Grimgerde is a Valkyrja Frame machine operated by McGillis Fareed and later rebuilt into the heavily armored Helmwige Reincar configuration.",
+      "aliases": "Helmwige Reincar",
+      "imageKey": "pd-0009"
+    },
+    {
+      "id": "pd-0009-ng",
+      "name": "Grimgerde",
+      "modelNumber": "V08-1228",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2016-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Grimgerde (V08-1228) is represented by 1 certified No Grade Post Disaster presentation(s) beginning 2016-04. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Grimgerde is a Valkyrja Frame machine operated by McGillis Fareed and later rebuilt into the heavily armored Helmwige Reincar configuration.",
+      "aliases": "Helmwige Reincar",
+      "imageKey": "pd-0009"
+    },
+    {
+      "id": "pd-0001",
+      "name": "Gundam Barbatos",
+      "modelNumber": "ASW-G-08",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2015-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Barbatos (ASW-G-08) is represented by 8 certified High Grade Post Disaster presentation(s) beginning 2015-10. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Gundam Barbatos & Long-Distance Transport Booster Kutan Type-III, Gundam Barbatos 6th Form, Gundam Barbatos Complete Set, Gundam Barbatos Lupus. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Barbatos is a surviving Gundam Frame reactivated by Tekkadan and piloted through the Alaya-Vijnana System. Its Sixth Form, Lupus, Lupus Rex, and Adapt states are successive configurations of the same ASW-G-08 machine.",
+      "aliases": "Gundam Barbatos & Long-Distance Transport Booster Kutan Type-III | Gundam Barbatos 6th Form | Gundam Barbatos Complete Set | Gundam Barbatos Lupus | Gundam Barbatos Lupus Rex | Tekkadan Complete Set | Gundam Barbatos Adapt",
+      "imageKey": "pd-0001"
+    },
+    {
+      "id": "pd-0001-mg",
+      "name": "Gundam Barbatos",
+      "modelNumber": "ASW-G-08",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2019-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Barbatos (ASW-G-08) is represented by 2 certified Master Grade Post Disaster presentation(s) beginning 2019-12. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Gundam Barbatos Lupus. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Barbatos is a surviving Gundam Frame reactivated by Tekkadan and piloted through the Alaya-Vijnana System. Its Sixth Form, Lupus, Lupus Rex, and Adapt states are successive configurations of the same ASW-G-08 machine.",
+      "aliases": "Gundam Barbatos & Long-Distance Transport Booster Kutan Type-III | Gundam Barbatos 6th Form | Gundam Barbatos Complete Set | Gundam Barbatos Lupus | Gundam Barbatos Lupus Rex | Tekkadan Complete Set | Gundam Barbatos Adapt",
+      "imageKey": "pd-0001"
+    },
+    {
+      "id": "pd-0001-fm",
+      "name": "Gundam Barbatos",
+      "modelNumber": "ASW-G-08",
+      "grade": "Full Mechanics",
+      "availableGrades": [
+        "Full Mechanics"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2016-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Barbatos (ASW-G-08) is represented by 2 certified Full Mechanics Post Disaster presentation(s) beginning 2016-11. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Gundam Barbatos Lupus, Gundam Barbatos Lupus Rex. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Barbatos is a surviving Gundam Frame reactivated by Tekkadan and piloted through the Alaya-Vijnana System. Its Sixth Form, Lupus, Lupus Rex, and Adapt states are successive configurations of the same ASW-G-08 machine.",
+      "aliases": "Gundam Barbatos & Long-Distance Transport Booster Kutan Type-III | Gundam Barbatos 6th Form | Gundam Barbatos Complete Set | Gundam Barbatos Lupus | Gundam Barbatos Lupus Rex | Tekkadan Complete Set | Gundam Barbatos Adapt",
+      "imageKey": "pd-0001"
+    },
+    {
+      "id": "pd-0001-hirm",
+      "name": "Gundam Barbatos",
+      "modelNumber": "ASW-G-08",
+      "grade": "Hi-Resolution Model",
+      "availableGrades": [
+        "Hi-Resolution Model"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2016-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Barbatos (ASW-G-08) is represented by 2 certified Hi-Resolution Model Post Disaster presentation(s) beginning 2016-03. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Gundam Barbatos 6th Form. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Barbatos is a surviving Gundam Frame reactivated by Tekkadan and piloted through the Alaya-Vijnana System. Its Sixth Form, Lupus, Lupus Rex, and Adapt states are successive configurations of the same ASW-G-08 machine.",
+      "aliases": "Gundam Barbatos & Long-Distance Transport Booster Kutan Type-III | Gundam Barbatos 6th Form | Gundam Barbatos Complete Set | Gundam Barbatos Lupus | Gundam Barbatos Lupus Rex | Tekkadan Complete Set | Gundam Barbatos Adapt",
+      "imageKey": "pd-0001"
+    },
+    {
+      "id": "pd-0001-ng",
+      "name": "Gundam Barbatos",
+      "modelNumber": "ASW-G-08",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2015-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Barbatos (ASW-G-08) is represented by 2 certified No Grade Post Disaster presentation(s) beginning 2015-11. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Gundam Barbatos 6th Form. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Barbatos is a surviving Gundam Frame reactivated by Tekkadan and piloted through the Alaya-Vijnana System. Its Sixth Form, Lupus, Lupus Rex, and Adapt states are successive configurations of the same ASW-G-08 machine.",
+      "aliases": "Gundam Barbatos & Long-Distance Transport Booster Kutan Type-III | Gundam Barbatos 6th Form | Gundam Barbatos Complete Set | Gundam Barbatos Lupus | Gundam Barbatos Lupus Rex | Tekkadan Complete Set | Gundam Barbatos Adapt",
+      "imageKey": "pd-0001"
+    },
+    {
+      "id": "pd-0006",
+      "name": "Gundam Gusion",
+      "modelNumber": "ASW-G-11",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2015-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Gusion (ASW-G-11) is represented by 4 certified High Grade Post Disaster presentation(s) beginning 2015-12. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Gundam Gusion Rebake, Gundam Gusion Rebake Full City, Tekkadan Complete Set. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Gusion is the ASW-G-11 Gundam Frame captured from the Brewers and rebuilt by Tekkadan as Gusion Rebake and later Rebake Full City.",
+      "aliases": "Gundam Gusion Rebake | Gundam Gusion / Gundam Gusion Rebake | Gundam Gusion Rebake Full City | Tekkadan Complete Set",
+      "imageKey": "pd-0006"
+    },
+    {
+      "id": "pd-0006-ng",
+      "name": "Gundam Gusion",
+      "modelNumber": "ASW-G-11",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2016-02",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Gusion (ASW-G-11) is represented by 1 certified No Grade Post Disaster presentation(s) beginning 2016-02. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Gundam Gusion / Gundam Gusion Rebake. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Gusion is the ASW-G-11 Gundam Frame captured from the Brewers and rebuilt by Tekkadan as Gusion Rebake and later Rebake Full City.",
+      "aliases": "Gundam Gusion Rebake | Gundam Gusion / Gundam Gusion Rebake | Gundam Gusion Rebake Full City | Tekkadan Complete Set",
+      "imageKey": "pd-0006"
+    },
+    {
+      "id": "pd-0008",
+      "name": "Gundam Kimaris",
+      "modelNumber": "ASW-G-66",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2016-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Kimaris (ASW-G-66) is represented by 4 certified High Grade Post Disaster presentation(s) beginning 2016-01. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Gundam Kimaris Trooper, Gundam Vidar, Gundam Kimaris Vidar. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Kimaris is the ASW-G-66 Gundam Frame associated with the Bauduin family. Kimaris, Trooper, Vidar, and Kimaris Vidar are successive configurations of the same machine.",
+      "aliases": "Gundam Kimaris (Booster Unit Type) | Gundam Kimaris Trooper | Gundam Vidar | Gundam Kimaris Vidar",
+      "imageKey": "pd-0008"
+    },
+    {
+      "id": "pd-0008-mg",
+      "name": "Gundam Kimaris",
+      "modelNumber": "ASW-G-66",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2025-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Kimaris (ASW-G-66) is represented by 1 certified Master Grade Post Disaster presentation(s) beginning 2025-03. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Gundam Vidar. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Kimaris is the ASW-G-66 Gundam Frame associated with the Bauduin family. Kimaris, Trooper, Vidar, and Kimaris Vidar are successive configurations of the same machine.",
+      "aliases": "Gundam Kimaris (Booster Unit Type) | Gundam Kimaris Trooper | Gundam Vidar | Gundam Kimaris Vidar",
+      "imageKey": "pd-0008"
+    },
+    {
+      "id": "pd-0008-fm",
+      "name": "Gundam Kimaris",
+      "modelNumber": "ASW-G-66",
+      "grade": "Full Mechanics",
+      "availableGrades": [
+        "Full Mechanics"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2016-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Kimaris (ASW-G-66) is represented by 1 certified Full Mechanics Post Disaster presentation(s) beginning 2016-12. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Gundam Vidar. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Kimaris is the ASW-G-66 Gundam Frame associated with the Bauduin family. Kimaris, Trooper, Vidar, and Kimaris Vidar are successive configurations of the same machine.",
+      "aliases": "Gundam Kimaris (Booster Unit Type) | Gundam Kimaris Trooper | Gundam Vidar | Gundam Kimaris Vidar",
+      "imageKey": "pd-0008"
+    },
+    {
+      "id": "pd-0008-ng",
+      "name": "Gundam Kimaris",
+      "modelNumber": "ASW-G-66",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2016-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Kimaris (ASW-G-66) is represented by 2 certified No Grade Post Disaster presentation(s) beginning 2016-03. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Gundam Kimaris (Booster Unit Type), Gundam Kimaris Trooper. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Kimaris is the ASW-G-66 Gundam Frame associated with the Bauduin family. Kimaris, Trooper, Vidar, and Kimaris Vidar are successive configurations of the same machine.",
+      "aliases": "Gundam Kimaris (Booster Unit Type) | Gundam Kimaris Trooper | Gundam Vidar | Gundam Kimaris Vidar",
+      "imageKey": "pd-0008"
+    },
+    {
+      "id": "pd-0005",
+      "name": "Hyakuren",
+      "modelNumber": "STH-05",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2015-11",
+      "releaseType": "Retail",
+      "kitSummary": "Hyakuren (STH-05) is represented by 3 certified High Grade Post Disaster presentation(s) beginning 2015-11. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Hyakuren (Amida Custom), Rouei. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Hyakuren is Teiwaz's general-purpose mobile suit. Amida's custom and the disguised Rouei rebuild remain configurations of the same machine lineage.",
+      "aliases": "Hyakuren (Amida Custom) | Rouei",
+      "imageKey": "pd-0005"
+    },
+    {
+      "id": "pd-0004",
+      "name": "Hyakuri",
+      "modelNumber": "STH-14S",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2015-11",
+      "releaseType": "Retail",
+      "kitSummary": "Hyakuri (STH-14S) is represented by 1 certified High Grade Post Disaster presentation(s) beginning 2015-11. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Hyakuri is a Teiwaz high-mobility mobile suit with a flight-oriented silhouette and equipment layout distinct from the Hyakuren line.",
+      "aliases": "",
+      "imageKey": "pd-0004"
+    },
+    {
+      "id": "pd-0007",
+      "name": "Rodi",
+      "modelNumber": "UGY-R38 / UGY-R41",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2015-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Rodi (UGY-R38 / UGY-R41) is represented by 4 certified High Grade Post Disaster presentation(s) beginning 2015-12. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Man Rodi, Tekkadan Complete Set, Geirail Scharfrichter & Landman Rodi Set, Monkey Rodi (598) / Monkey Crab Rodi. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Rodi is the heavy mobile-suit family represented by Man Rodi, Landman Rodi, Monkey Rodi, and Monkey Crab Rodi configurations.",
+      "aliases": "Man Rodi | Tekkadan Complete Set | Geirail Scharfrichter & Landman Rodi Set | Monkey Rodi (598) / Monkey Crab Rodi",
+      "imageKey": "pd-0007"
+    },
+    {
+      "id": "pd-0003",
+      "name": "Schwalbe Graze",
+      "modelNumber": "EB-05S",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2015-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Schwalbe Graze (EB-05S) is represented by 3 certified High Grade Post Disaster presentation(s) beginning 2015-10. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Schwalbe Graze (McGillis Custom), Schwalbe Graze (Gaelio Custom), Schwalbe Custom (Cyclase's Custom). Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Schwalbe Graze is a high-mobility officer-use relative of the Graze. McGillis, Gaelio, and Cyclase presentations are assignment and equipment configurations of the same machine family.",
+      "aliases": "Schwalbe Graze (McGillis Custom) | Schwalbe Graze (Gaelio Custom) | Schwalbe Custom (Cyclase's Custom)",
+      "imageKey": "pd-0003"
+    },
+    {
+      "id": "pd-0003-ng",
+      "name": "Schwalbe Graze",
+      "modelNumber": "EB-05S",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 1",
+      "releaseDate": "2016-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Schwalbe Graze (EB-05S) is represented by 1 certified No Grade Post Disaster presentation(s) beginning 2016-01. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Schwalbe Graze (McGillis Custom). Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Schwalbe Graze is a high-mobility officer-use relative of the Graze. McGillis, Gaelio, and Cyclase presentations are assignment and equipment configurations of the same machine family.",
+      "aliases": "Schwalbe Graze (McGillis Custom) | Schwalbe Graze (Gaelio Custom) | Schwalbe Custom (Cyclase's Custom)",
+      "imageKey": "pd-0003"
+    },
+    {
+      "id": "pd-0015",
+      "name": "Geirail",
+      "modelNumber": "EB-04",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 2",
+      "releaseDate": "2016-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Geirail (EB-04) is represented by 2 certified High Grade Post Disaster presentation(s) beginning 2016-11. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Geirail Scharfrichter & Landman Rodi Set. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Geirail is an earlier Gjallarhorn machine in the developmental lineage that led to the Graze. Scharfrichter is its specialized ground-combat configuration.",
+      "aliases": "Geirail Scharfrichter & Landman Rodi Set",
+      "imageKey": "pd-0015"
+    },
+    {
+      "id": "pd-0019-hg",
+      "name": "Gundam Bael",
+      "modelNumber": "ASW-G-01",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 2",
+      "releaseDate": "2017-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Bael (ASW-G-01) is represented by 1 certified High Grade Post Disaster presentation(s) beginning 2017-03. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Bael is the ASW-G-01 Gundam Frame and a symbolic machine at the center of Gjallarhorn's founding history.",
+      "aliases": "",
+      "imageKey": "pd-0019"
+    },
+    {
+      "id": "pd-0019",
+      "name": "Gundam Bael",
+      "modelNumber": "ASW-G-01",
+      "grade": "Full Mechanics",
+      "availableGrades": [
+        "Full Mechanics"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 2",
+      "releaseDate": "2017-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Bael (ASW-G-01) is represented by 1 certified Full Mechanics Post Disaster presentation(s) beginning 2017-03. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Bael is the ASW-G-01 Gundam Frame and a symbolic machine at the center of Gjallarhorn's founding history.",
+      "aliases": "",
+      "imageKey": "pd-0019"
+    },
+    {
+      "id": "pd-0016",
+      "name": "Gundam Flauros",
+      "modelNumber": "ASW-G-64",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 2",
+      "releaseDate": "2016-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Flauros (ASW-G-64) is represented by 2 certified High Grade Post Disaster presentation(s) beginning 2016-12. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Gundam Flauros (Ryusei-Go), Tekkadan Complete Set. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Flauros is the ASW-G-64 Gundam Frame recovered and operated by Tekkadan, capable of transforming into a quadrupedal shelling mode.",
+      "aliases": "Gundam Flauros (Ryusei-Go) | Tekkadan Complete Set",
+      "imageKey": "pd-0016"
+    },
+    {
+      "id": "pd-0017",
+      "name": "Hashmal",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 2",
+      "releaseDate": "2016-12",
+      "releaseType": "Retail",
+      "kitSummary": "Hashmal is represented by 1 certified High Grade Post Disaster presentation(s) beginning 2016-12. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Mobile Armor Hashmal. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Hashmal is an autonomous mobile armor left from the Calamity War and represented by a complete physical model rather than an accessory or support vehicle.",
+      "aliases": "Mobile Armor Hashmal",
+      "imageKey": "pd-0017"
+    },
+    {
+      "id": "pd-0018",
+      "name": "Hekija",
+      "modelNumber": "STH-20",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 2",
+      "releaseDate": "2017-01",
+      "releaseType": "Retail",
+      "kitSummary": "Hekija (STH-20) is represented by 1 certified High Grade Post Disaster presentation(s) beginning 2017-01. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Hekija is a Teiwaz mobile suit represented by its own complete physical kit and distinct machine identity.",
+      "aliases": "",
+      "imageKey": "pd-0018"
+    },
+    {
+      "id": "pd-0012",
+      "name": "Hugo",
+      "modelNumber": "IPP-66305",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 2",
+      "releaseDate": "2016-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Hugo (IPP-66305) is represented by 3 certified High Grade Post Disaster presentation(s) beginning 2016-10. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Hugo (Dawn Horizon Corps Twin Set). Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Hugo is a Dawn Horizon Corps mobile suit represented by a complete twin-set presentation and its distinctive close-combat equipment.",
+      "aliases": "Hugo (Dawn Horizon Corps Twin Set)",
+      "imageKey": "pd-0012"
+    },
+    {
+      "id": "pd-0014",
+      "name": "IO Frame Shiden",
+      "modelNumber": "STH-16",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 2",
+      "releaseDate": "2016-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "IO Frame Shiden (STH-16) is represented by 3 certified High Grade Post Disaster presentation(s) beginning 2016-11. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include IO Frame Shiden Custom (Ryusei-Go), IO Frame Shiden Custom (Orga's Unit). Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "IO Frame Shiden is Teiwaz's mass-production mobile suit supplied to Tekkadan. Standard, Ryusei-Go, and Orga command presentations are configurations of the same frame.",
+      "aliases": "IO Frame Shiden Custom (Ryusei-Go) | IO Frame Shiden Custom (Orga's Unit)",
+      "imageKey": "pd-0014"
+    },
+    {
+      "id": "pd-0013",
+      "name": "Reginlaze",
+      "modelNumber": "EB-08",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Season 2",
+      "releaseDate": "2016-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Reginlaze (EB-08) is represented by 4 certified High Grade Post Disaster presentation(s) beginning 2016-10. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Reginlaze (Julieta Custom), Reginlaze Julia, Reginlaze (Iok Custom), Arianrhod Fleet Complete Set. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Reginlaze is Gjallarhorn's successor mass-production platform to the Graze. Julieta, Iok, and Reginlaze Julia are custom configurations within the same family.",
+      "aliases": "Reginlaze (Julieta Custom) | Reginlaze Julia | Reginlaze (Iok Custom) | Arianrhod Fleet Complete Set",
+      "imageKey": "pd-0013"
+    },
+    {
+      "id": "pd-0024",
+      "name": "Gundam Asmoday",
+      "modelNumber": "ASW-G-32",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Urdr-Hunt",
+      "releaseDate": "2022-04",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Asmoday (ASW-G-32) is represented by 1 certified High Grade Post Disaster presentation(s) beginning 2022-04. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Asmoday is the ASW-G-32 Gundam Frame recovered in the Urdr-Hunt setting and represented by its own complete physical kit.",
+      "aliases": "",
+      "imageKey": "pd-0024"
+    },
+    {
+      "id": "pd-0022",
+      "name": "Gundam Marchosias",
+      "modelNumber": "ASW-G-35",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Urdr-Hunt",
+      "releaseDate": "2020-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Marchosias (ASW-G-35) is represented by 3 certified High Grade Post Disaster presentation(s) beginning 2020-03. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Supported presentations include Gundam Hajiroboshi, Gundam Hajiroboshi 2nd Form. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Marchosias is the ASW-G-35 Gundam Frame later restored as Gundam Hajiroboshi. Hajiroboshi and its Second Form are configurations of that same machine lineage.",
+      "aliases": "Gundam Hajiroboshi | Gundam Hajiroboshi 2nd Form",
+      "imageKey": "pd-0022"
+    },
+    {
+      "id": "pd-0025",
+      "name": "Gundam Sigrun",
+      "modelNumber": "V07-0126",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Urdr-Hunt",
+      "releaseDate": "2022-06",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Sigrun (V07-0126) is represented by 1 certified High Grade Post Disaster presentation(s) beginning 2022-06. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Sigrun is a Valkyrja Frame machine represented in Urdr-Hunt by its own complete physical kit and distinct identity.",
+      "aliases": "",
+      "imageKey": "pd-0025"
+    },
+    {
+      "id": "pd-0027",
+      "name": "Gundam Zagan",
+      "modelNumber": "ASW-G-61",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam: Iron-Blooded Orphans Urdr-Hunt",
+      "releaseDate": "2025-12",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Zagan (ASW-G-61) is represented by 1 certified High Grade Post Disaster presentation(s) beginning 2025-12. The evidence fixes this entry to its authoritative grade and preserves supported machine configurations within the entry. Tooling revisions, colors, boxed-set context, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Zagan is the ASW-G-61 Gundam Frame represented in Urdr-Hunt by its own complete physical kit and distinct identity.",
+      "aliases": "",
+      "imageKey": "pd-0027"
+    }
+  ]
+}

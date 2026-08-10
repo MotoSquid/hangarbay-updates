@@ -1,0 +1,510 @@
+{
+  "format": "hangar-bay-catalog-pack",
+  "schemaVersion": 1,
+  "id": "future-century",
+  "name": "Future Century / G Gundam",
+  "shortName": "FC",
+  "description": "Production-certified grade-specific Future Century catalog. One entry represents one qualifying mech in one authoritative grade; configurations, iterations, editions and accessories remain presentation or owned-copy data.",
+  "version": 1,
+  "updatedAt": "2026-08-05",
+  "sortOrder": 55,
+  "kitCount": 29,
+  "series": [
+    "Mobile Fighter G Gundam"
+  ],
+  "kits": [
+    {
+      "id": "fc-0007",
+      "name": "Bolt Gundam",
+      "modelNumber": "GF13-013NR",
+      "grade": "No Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-07",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Bolt Gundam, supported by 1 certified physical presentation. Supported configurations include Standard, Graviton Hammer, Custom / Other.",
+      "unitLore": "Neo Russia’s heavily armored mobile fighter is piloted by Argo Gulskii. Its immense strength, defensive mass and Graviton Hammer make it a close-range power fighter.",
+      "aliases": "Bolt Gundam | Mobile Fighter G Gundam | Neo Russia | Argo Gulskii",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "imageKey": "fc-0007"
+    },
+    {
+      "id": "fc-0012",
+      "name": "Death Army",
+      "modelNumber": "JDG-009X",
+      "grade": "High Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "2019-11",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Death Army, supported by 2 certified physical presentations. Supported configurations include Standard Death Army, Death Beast, Flight Form, Custom / Other.",
+      "unitLore": "Death Army units are mass-produced DG-cell combat machines created by Devil Gundam. Their adaptable bodies support multiple battlefield forms, including the four-legged Death Beast configuration.",
+      "aliases": "Death Army | Dark Army | Death Beast | Mobile Fighter G Gundam | DG Cells",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "imageKey": "fc-0012"
+    },
+    {
+      "id": "fc-0010",
+      "name": "Devil Gundam",
+      "modelNumber": "JDG-00X",
+      "grade": "No Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1995-01",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Devil Gundam, supported by 1 certified physical presentation. Supported configurations include Ultimate Gundam, Devil Gundam, Final Form, Custom / Other.",
+      "unitLore": "Originally developed as the Ultimate Gundam, the machine is corrupted by its self-evolving DG cells and becomes Devil Gundam. Its regeneration, multiplication and environmental-control functions drive the conflict of the series.",
+      "aliases": "Devil Gundam | Dark Gundam | Ultimate Gundam | JDG-00X | Mobile Fighter G Gundam",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "imageKey": "fc-0010"
+    },
+    {
+      "id": "fc-0004-hg",
+      "name": "Dragon Gundam",
+      "modelNumber": "GF13-011NC",
+      "grade": "High Grade",
+      "scale": "1/100",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-07",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Dragon Gundam, supported by 2 certified physical presentations. Supported configurations include Standard, Dragon Claws Extended, Core Lander Detached, Custom / Other.",
+      "unitLore": "Neo China’s mobile fighter is piloted by Sai Saici. Its extending Dragon Claws, Feilong Flags and agile martial-arts style culminate in the True Meteor Butterfly Sword technique.",
+      "aliases": "Dragon Gundam | Mobile Fighter G Gundam | Neo China | Sai Saici",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "imageKey": "fc-0004"
+    },
+    {
+      "id": "fc-0004",
+      "name": "Dragon Gundam",
+      "modelNumber": "GF13-011NC",
+      "grade": "No Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-05",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Dragon Gundam, supported by 1 certified physical presentation. Supported configurations include Standard, Dragon Claws Extended, Core Lander Detached, Custom / Other.",
+      "unitLore": "Neo China’s mobile fighter is piloted by Sai Saici. Its extending Dragon Claws, Feilong Flags and agile martial-arts style culminate in the True Meteor Butterfly Sword technique.",
+      "aliases": "Dragon Gundam | Mobile Fighter G Gundam | Neo China | Sai Saici",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "imageKey": "fc-0004"
+    },
+    {
+      "id": "fc-0002-hirm",
+      "name": "God Gundam",
+      "modelNumber": "GF13-017NJII",
+      "grade": "Hi-Resolution Model",
+      "scale": "1/100",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "2019-10",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Hi-Resolution Model catalog entry for God Gundam, supported by 1 certified physical presentation. Supported configurations include Normal Mode, Hyper Mode, Custom / Other.",
+      "unitLore": "God Gundam succeeds Shining Gundam as Domon Kasshu’s decisive mobile fighter. Its highly mobile frame, Core Lander and Hyper Mode support Domon’s martial-arts attacks, including the God Finger and Sekiha Tenkyoken.",
+      "aliases": "God Gundam | Burning Gundam | G Gundam | Neo Japan",
+      "availableGrades": [
+        "Hi-Resolution Model"
+      ],
+      "imageKey": "fc-0002"
+    },
+    {
+      "id": "fc-0002-hg",
+      "name": "God Gundam",
+      "modelNumber": "GF13-017NJII",
+      "grade": "High Grade",
+      "scale": "1/100",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-10",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for God Gundam, supported by 2 certified physical presentations. Supported configurations include Normal Mode, Hyper Mode, Custom / Other.",
+      "unitLore": "God Gundam succeeds Shining Gundam as Domon Kasshu’s decisive mobile fighter. Its highly mobile frame, Core Lander and Hyper Mode support Domon’s martial-arts attacks, including the God Finger and Sekiha Tenkyoken.",
+      "aliases": "God Gundam | Burning Gundam | G Gundam | Neo Japan",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "imageKey": "fc-0002"
+    },
+    {
+      "id": "fc-0002-hgex",
+      "name": "God Gundam",
+      "modelNumber": "GF13-017NJII",
+      "grade": "High Grade-Ex",
+      "scale": "1/60",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-10",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade-Ex catalog entry for God Gundam, supported by 1 certified physical presentation. Supported configurations include Normal Mode, Hyper Mode, Custom / Other.",
+      "unitLore": "God Gundam succeeds Shining Gundam as Domon Kasshu’s decisive mobile fighter. Its highly mobile frame, Core Lander and Hyper Mode support Domon’s martial-arts attacks, including the God Finger and Sekiha Tenkyoken.",
+      "aliases": "God Gundam | Burning Gundam | G Gundam | Neo Japan",
+      "availableGrades": [
+        "High Grade-Ex"
+      ],
+      "imageKey": "fc-0002"
+    },
+    {
+      "id": "fc-0002-mg",
+      "name": "God Gundam",
+      "modelNumber": "GF13-017NJII",
+      "grade": "Master Grade",
+      "scale": "1/100",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "2001-11",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Master Grade catalog entry for God Gundam, supported by 1 certified physical presentation. Supported configurations include Normal Mode, Hyper Mode, Custom / Other.",
+      "unitLore": "God Gundam succeeds Shining Gundam as Domon Kasshu’s decisive mobile fighter. Its highly mobile frame, Core Lander and Hyper Mode support Domon’s martial-arts attacks, including the God Finger and Sekiha Tenkyoken.",
+      "aliases": "God Gundam | Burning Gundam | G Gundam | Neo Japan",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "imageKey": "fc-0002"
+    },
+    {
+      "id": "fc-0002",
+      "name": "God Gundam",
+      "modelNumber": "GF13-017NJII",
+      "grade": "No Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-09",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for God Gundam, supported by 1 certified physical presentation. Supported configurations include Normal Mode, Hyper Mode, Custom / Other.",
+      "unitLore": "God Gundam succeeds Shining Gundam as Domon Kasshu’s decisive mobile fighter. Its highly mobile frame, Core Lander and Hyper Mode support Domon’s martial-arts attacks, including the God Finger and Sekiha Tenkyoken.",
+      "aliases": "God Gundam | Burning Gundam | G Gundam | Neo Japan",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "imageKey": "fc-0002"
+    },
+    {
+      "id": "fc-0002-rg",
+      "name": "God Gundam",
+      "modelNumber": "GF13-017NJII",
+      "grade": "Real Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "2022-08",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Real Grade catalog entry for God Gundam, supported by 1 certified physical presentation. Supported configurations include Normal Mode, Hyper Mode, Custom / Other.",
+      "unitLore": "God Gundam succeeds Shining Gundam as Domon Kasshu’s decisive mobile fighter. Its highly mobile frame, Core Lander and Hyper Mode support Domon’s martial-arts attacks, including the God Finger and Sekiha Tenkyoken.",
+      "aliases": "God Gundam | Burning Gundam | G Gundam | Neo Japan",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "imageKey": "fc-0002"
+    },
+    {
+      "id": "fc-0005-hg",
+      "name": "Gundam Maxter",
+      "modelNumber": "GF13-006NA",
+      "grade": "High Grade",
+      "scale": "1/100",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-08",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Gundam Maxter, supported by 2 certified physical presentations. Supported configurations include Heavy Armor, Boxer Mode, Armor Purged, Custom / Other.",
+      "unitLore": "Neo America’s mobile fighter is piloted by Chibodee Crocket. Its football-inspired outer armor can be removed for a fast boxer configuration centered on powerful punches and twin magnums.",
+      "aliases": "Gundam Maxter | Maxter Gundam | Mobile Fighter G Gundam | Neo America | Chibodee Crocket",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "imageKey": "fc-0005"
+    },
+    {
+      "id": "fc-0005",
+      "name": "Gundam Maxter",
+      "modelNumber": "GF13-006NA",
+      "grade": "No Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-05",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Gundam Maxter, supported by 1 certified physical presentation. Supported configurations include Heavy Armor, Boxer Mode, Armor Purged, Custom / Other.",
+      "unitLore": "Neo America’s mobile fighter is piloted by Chibodee Crocket. Its football-inspired outer armor can be removed for a fast boxer configuration centered on powerful punches and twin magnums.",
+      "aliases": "Gundam Maxter | Maxter Gundam | Mobile Fighter G Gundam | Neo America | Chibodee Crocket",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "imageKey": "fc-0005"
+    },
+    {
+      "id": "fc-0006-hg",
+      "name": "Gundam Rose",
+      "modelNumber": "GF13-009NF",
+      "grade": "High Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "2023-02",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Gundam Rose, supported by 1 certified physical presentation. Supported configurations include Standard, Cape Shield Deployed, Rose Bits Deployed, Custom / Other.",
+      "unitLore": "Neo France’s elegant mobile fighter is piloted by George de Sand. It combines fencing-inspired close combat with remotely controlled Rose Bits deployed from its cape-like shield.",
+      "aliases": "Gundam Rose | Rose Gundam | Mobile Fighter G Gundam | Neo France | George de Sand",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "imageKey": "fc-0006"
+    },
+    {
+      "id": "fc-0006",
+      "name": "Gundam Rose",
+      "modelNumber": "GF13-009NF",
+      "grade": "No Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-05",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Gundam Rose, supported by 1 certified physical presentation. Supported configurations include Standard, Cape Shield Deployed, Rose Bits Deployed, Custom / Other.",
+      "unitLore": "Neo France’s elegant mobile fighter is piloted by George de Sand. It combines fencing-inspired close combat with remotely controlled Rose Bits deployed from its cape-like shield.",
+      "aliases": "Gundam Rose | Rose Gundam | Mobile Fighter G Gundam | Neo France | George de Sand",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "imageKey": "fc-0006"
+    },
+    {
+      "id": "fc-0008-mg",
+      "name": "Gundam Spiegel",
+      "modelNumber": "GF13-021NG",
+      "grade": "Master Grade",
+      "scale": "1/100",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "2002-08",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Master Grade catalog entry for Gundam Spiegel, supported by 1 certified physical presentation. Supported configurations include Standard, Stealth / Ninja Combat, Custom / Other.",
+      "unitLore": "Neo Germany’s mobile fighter is piloted by Schwarz Bruder. Its stealth systems, bladed armaments and ninjutsu-inspired mobility specialize it for deception and precise close combat.",
+      "aliases": "Gundam Spiegel | Shadow Gundam | Spiegel Gundam | Mobile Fighter G Gundam | Neo Germany | Schwarz Bruder",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "imageKey": "fc-0008"
+    },
+    {
+      "id": "fc-0008",
+      "name": "Gundam Spiegel",
+      "modelNumber": "GF13-021NG",
+      "grade": "No Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-07",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Gundam Spiegel, supported by 1 certified physical presentation. Supported configurations include Standard, Stealth / Ninja Combat, Custom / Other.",
+      "unitLore": "Neo Germany’s mobile fighter is piloted by Schwarz Bruder. Its stealth systems, bladed armaments and ninjutsu-inspired mobility specialize it for deception and precise close combat.",
+      "aliases": "Gundam Spiegel | Shadow Gundam | Spiegel Gundam | Mobile Fighter G Gundam | Neo Germany | Schwarz Bruder",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "imageKey": "fc-0008"
+    },
+    {
+      "id": "fc-0013",
+      "name": "Mandor Gundam",
+      "modelNumber": "GF13-044NNP",
+      "grade": "High Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "2025-11",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Mandor Gundam, supported by 1 certified physical presentation. Supported configurations include Standard, Custom / Other.",
+      "unitLore": "Neo Nepal’s mobile fighter is piloted by Kiral Mekirel. Its distinctive prayer-wheel silhouette and chained weapon support an unconventional fighting style shaped by the veteran fighter’s experience.",
+      "aliases": "Mandor Gundam | Mandala Gundam | Mobile Fighter G Gundam | Neo Nepal | Kiral Mekirel",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "imageKey": "fc-0013"
+    },
+    {
+      "id": "fc-0009-hg",
+      "name": "Master Gundam",
+      "modelNumber": "GF13-001NHII",
+      "grade": "High Grade",
+      "scale": "1/100",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-08",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Master Gundam, supported by 2 certified physical presentations. Supported configurations include Standard, Wing Cloak Deployed, Hyper Mode, Custom / Other.",
+      "unitLore": "Master Asia’s mobile fighter combines exceptional martial-arts performance with a wing-like cloak and DG-cell-enhanced resilience. It is Domon Kasshu’s principal rival machine during the thirteenth Gundam Fight.",
+      "aliases": "Master Gundam | Mobile Fighter G Gundam | Neo Hong Kong | Master Asia | Master Gundam & Fuunsaiki",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "imageKey": "fc-0009"
+    },
+    {
+      "id": "fc-0009-mg",
+      "name": "Master Gundam",
+      "modelNumber": "GF13-001NHII",
+      "grade": "Master Grade",
+      "scale": "1/100",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "2002-03",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Master Grade catalog entry for Master Gundam, supported by 1 certified physical presentation. Supported configurations include Standard, Wing Cloak Deployed, Hyper Mode, Custom / Other.",
+      "unitLore": "Master Asia’s mobile fighter combines exceptional martial-arts performance with a wing-like cloak and DG-cell-enhanced resilience. It is Domon Kasshu’s principal rival machine during the thirteenth Gundam Fight.",
+      "aliases": "Master Gundam | Mobile Fighter G Gundam | Neo Hong Kong | Master Asia",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "imageKey": "fc-0009"
+    },
+    {
+      "id": "fc-0009",
+      "name": "Master Gundam",
+      "modelNumber": "GF13-001NHII",
+      "grade": "No Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-07",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Master Gundam, supported by 1 certified physical presentation. Supported configurations include Standard, Wing Cloak Deployed, Hyper Mode, Custom / Other.",
+      "unitLore": "Master Asia’s mobile fighter combines exceptional martial-arts performance with a wing-like cloak and DG-cell-enhanced resilience. It is Domon Kasshu’s principal rival machine during the thirteenth Gundam Fight.",
+      "aliases": "Master Gundam | Mobile Fighter G Gundam | Neo Hong Kong | Master Asia",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "imageKey": "fc-0009"
+    },
+    {
+      "id": "fc-0011",
+      "name": "Nobel Gundam",
+      "modelNumber": "GF13-050NSW",
+      "grade": "High Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "2011-01",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Nobel Gundam, supported by 2 certified physical presentations. Supported configurations include Standard, Berserker Mode, Custom / Other.",
+      "unitLore": "Neo Sweden’s mobile fighter is piloted by Allenby Beardsley. Its agile beam-ribbon fighting style can be overridden by the externally induced Berserker System, producing a violent high-output state.",
+      "aliases": "Nobel Gundam | Noble Gundam | Mobile Fighter G Gundam | Neo Sweden | Allenby Beardsley | Nobel Gundam Berserker Mode",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "imageKey": "fc-0011"
+    },
+    {
+      "id": "fc-0003-hg",
+      "name": "Rising Gundam",
+      "modelNumber": "JMF1336R",
+      "grade": "High Grade",
+      "scale": "1/100",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-12",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Rising Gundam, supported by 1 certified physical presentation. Supported configurations include Standard, Beam Bow, Heat Naginata, Custom / Other.",
+      "unitLore": "Rising Gundam is a Neo Japan mobile fighter derived from Shining Gundam technology and later piloted by Rain Mikamura. It combines a heat naginata and beam bow with balanced close- and long-range combat ability.",
+      "aliases": "Rising Gundam | Mobile Fighter G Gundam | Neo Japan | Rain Mikamura",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "imageKey": "fc-0003"
+    },
+    {
+      "id": "fc-0003",
+      "name": "Rising Gundam",
+      "modelNumber": "JMF1336R",
+      "grade": "No Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-12",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Rising Gundam, supported by 1 certified physical presentation. Supported configurations include Standard, Beam Bow, Heat Naginata, Custom / Other.",
+      "unitLore": "Rising Gundam is a Neo Japan mobile fighter derived from Shining Gundam technology and later piloted by Rain Mikamura. It combines a heat naginata and beam bow with balanced close- and long-range combat ability.",
+      "aliases": "Rising Gundam | Mobile Fighter G Gundam | Neo Japan | Rain Mikamura",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "imageKey": "fc-0003"
+    },
+    {
+      "id": "fc-0001-hg",
+      "name": "Shining Gundam",
+      "modelNumber": "GF13-017NJ",
+      "grade": "High Grade",
+      "scale": "1/100",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-04",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Shining Gundam, supported by 2 certified physical presentations. Supported configurations include Normal Mode, Battle Mode, Super Mode, Custom / Other.",
+      "unitLore": "Neo Japan’s thirteenth Gundam Fight mobile fighter is piloted by Domon Kasshu. Its battle and Super Mode transformations focus the machine’s energy into close-range martial-arts techniques and the Shining Finger.",
+      "aliases": "Shining Gundam | Mobile Fighter G Gundam | Neo Japan",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "imageKey": "fc-0001"
+    },
+    {
+      "id": "fc-0001-hgex",
+      "name": "Shining Gundam",
+      "modelNumber": "GF13-017NJ",
+      "grade": "High Grade-Ex",
+      "scale": "1/60",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-06",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade-Ex catalog entry for Shining Gundam, supported by 1 certified physical presentation. Supported configurations include Normal Mode, Battle Mode, Super Mode, Custom / Other.",
+      "unitLore": "Neo Japan’s thirteenth Gundam Fight mobile fighter is piloted by Domon Kasshu. Its battle and Super Mode transformations focus the machine’s energy into close-range martial-arts techniques and the Shining Finger.",
+      "aliases": "Shining Gundam | Mobile Fighter G Gundam | Neo Japan",
+      "availableGrades": [
+        "High Grade-Ex"
+      ],
+      "imageKey": "fc-0001"
+    },
+    {
+      "id": "fc-0001-mg",
+      "name": "Shining Gundam",
+      "modelNumber": "GF13-017NJ",
+      "grade": "Master Grade",
+      "scale": "1/100",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "2002-05",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Master Grade catalog entry for Shining Gundam, supported by 1 certified physical presentation. Supported configurations include Normal Mode, Battle Mode, Super Mode, Custom / Other.",
+      "unitLore": "Neo Japan’s thirteenth Gundam Fight mobile fighter is piloted by Domon Kasshu. Its battle and Super Mode transformations focus the machine’s energy into close-range martial-arts techniques and the Shining Finger.",
+      "aliases": "Shining Gundam | Mobile Fighter G Gundam | Neo Japan",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "imageKey": "fc-0001"
+    },
+    {
+      "id": "fc-0001",
+      "name": "Shining Gundam",
+      "modelNumber": "GF13-017NJ",
+      "grade": "No Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "1994-04",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Shining Gundam, supported by 1 certified physical presentation. Supported configurations include Normal Mode, Battle Mode, Super Mode, Custom / Other.",
+      "unitLore": "Neo Japan’s thirteenth Gundam Fight mobile fighter is piloted by Domon Kasshu. Its battle and Super Mode transformations focus the machine’s energy into close-range martial-arts techniques and the Shining Finger.",
+      "aliases": "Shining Gundam | Mobile Fighter G Gundam | Neo Japan",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "imageKey": "fc-0001"
+    },
+    {
+      "id": "fc-0001-rg",
+      "name": "Shining Gundam",
+      "modelNumber": "GF13-017NJ",
+      "grade": "Real Grade",
+      "scale": "1/144",
+      "series": "Mobile Fighter G Gundam",
+      "releaseDate": "2025-06",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Real Grade catalog entry for Shining Gundam, supported by 1 certified physical presentation. Supported configurations include Normal Mode, Battle Mode, Super Mode, Custom / Other.",
+      "unitLore": "Neo Japan’s thirteenth Gundam Fight mobile fighter is piloted by Domon Kasshu. Its battle and Super Mode transformations focus the machine’s energy into close-range martial-arts techniques and the Shining Finger.",
+      "aliases": "Shining Gundam | Mobile Fighter G Gundam | Neo Japan",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "imageKey": "fc-0001"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "format": "hangar-bay-catalog-pack",
+  "schemaVersion": 1,
+  "id": "third-party-motor-nuclear",
+  "name": "Third Party - Motor Nuclear",
+  "shortName": "MotorNuclear",
+  "description": "Grade-specific Third Party - Motor Nuclear catalog. Each entry represents one mech and normalized grade; configurations, tooling iterations, editions, scale choices, and accessories remain owned-copy attributes.",
+  "version": 3,
+  "updatedAt": "2026-08-09",
+  "sortOrder": 81,
+  "kitCount": 15,
+  "series": [
+    "Blazing Stars",
+    "I’m a Great Hero",
+    "Legend of Star General"
+  ],
+  "kits": [
+    {
+      "id": "tp-motor-nuclear-0013",
+      "name": "Huan Ci",
+      "modelNumber": "MNP-CR01",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "Non-scale",
+      "series": "Blazing Stars",
+      "releaseDate": "2025-09",
+      "releaseType": "Retail",
+      "kitSummary": "The first certified Blazing Stars identity, represented by MNP-CR01. Its equipment and display states remain owned-copy details.",
+      "unitLore": "Huan Ci is a military-science-fiction mecha with modular flight equipment and multiple display configurations. No verified evidence places it in the Legend grade hierarchy.",
+      "aliases": "Fan Two (machine translation); 幻刺 | MNP-CR01 | Blazing Stars | 赤热五星 | Motor Nuclear | Third Party | Third Party — Blazing Stars class unverified",
+      "imageKey": "tp-motor-nuclear-0013"
+    },
+    {
+      "id": "tp-motor-nuclear-0014",
+      "name": "Type-65 JiHu-II",
+      "modelNumber": "MNP-CR02A",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "Non-scale",
+      "series": "Blazing Stars",
+      "releaseDate": "2026-07",
+      "releaseType": "Retail",
+      "kitSummary": "The second certified Blazing Stars identity, represented by the July 2026 MNP-CR02A Assault Type release.",
+      "unitLore": "Type-65 JiHu-II is a tank-influenced assault mecha with deployable armor and a dense modular weapon system. It uses the Third Party fallback because the Blazing Stars class system is not verified.",
+      "aliases": "JiHu Mark II Assault Type; JiHu-II Assault Ver.; 65式·疾虎机二型 | MNP-CR02A | Blazing Stars | 赤热五星 | Motor Nuclear | Third Party | Third Party — Blazing Stars class unverified",
+      "imageKey": "tp-motor-nuclear-0014"
+    },
+    {
+      "id": "tp-motor-nuclear-0015",
+      "name": "Rhino Rider",
+      "modelNumber": "",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "Non-scale",
+      "series": "I’m a Great Hero",
+      "releaseDate": "2026-02",
+      "releaseType": "Retail / Blind Box",
+      "kitSummary": "The only new named identity in the known normal I’m a Great Hero Vol. 1 assortment. Gray/orange and brown products are edition choices for one Rhino Rider record.",
+      "unitLore": "Rhino Rider is a compact rhinoceros-themed mecha from Motor Nuclear’s trading plastic-model line. The unnamed secret design remains a controlled non-record.",
+      "aliases": "Xi Qi; Rhinoceros Rider; 犀骑 | I’m a Great Hero Vol.1 blind-box presentation | I’m a Great Hero | 摩动核我是大英雄 / 俺は大英雄だ | Motor Nuclear | Third Party | Third Party — Trading Plastic Model",
+      "imageKey": "tp-motor-nuclear-0015"
+    },
+    {
+      "id": "tp-motor-nuclear-0003",
+      "name": "Ao Bing",
+      "modelNumber": "MNP-XH03",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "Non-scale",
+      "series": "Legend of Star General",
+      "releaseDate": "2022-09",
+      "releaseType": "Retail",
+      "kitSummary": "Motor Nuclear’s earliest documented Legend of Star General assembly-kit identity. Standard, transparent, Refined, Majestic/Valiant-color, and Great Hero presentations all map to this one Ao Bing record.",
+      "unitLore": "Ao Bing is a dragon-themed warrior mecha in Motor Nuclear’s original Legend of Star General line. The physical design combines armored humanoid construction with dragon motifs and is packaged with a separately buildable Blue Dragon combat companion.",
+      "aliases": "地会星-寒龙子-敖丙 | Cold Dragon Child Ao Bing; Aobing; 地会星-寒龙子-敖丙 | MNP-XH03 | MNP-XH03T | MNP-XH03E | Legend of Star General | 星甲魂将传 | Motor Nuclear | Third Party | Loyal Grade (secondary taxonomy)",
+      "imageKey": "tp-motor-nuclear-0003"
+    },
+    {
+      "id": "tp-motor-nuclear-0004",
+      "name": "Ao Bing Blue Dragon",
+      "modelNumber": "",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "Non-scale",
+      "series": "Legend of Star General",
+      "releaseDate": "2022-09",
+      "releaseType": "Retail",
+      "kitSummary": "The separately buildable Blue Dragon included with Ao Bing. Stage 3 determined that its articulated independent construction and stated combat-support role meet Hangar Bay’s autonomous-combat-mech threshold.",
+      "unitLore": "Blue Dragon is a long articulated mechanical dragon presented as Ao Bing’s combat-support droid. It receives its own catalog identity while remaining linked to the Ao Bing product presentation in the reconciliation ledger.",
+      "aliases": "青龙 | Blue Dragon; Cold Killing Dragon; battle support droid; 青龙 | Included with MNP-XH03 | Legend of Star General | 星甲魂将传 | Motor Nuclear | Third Party | Third Party — autonomous companion mech",
+      "imageKey": "tp-motor-nuclear-0004"
+    },
+    {
+      "id": "tp-motor-nuclear-0001",
+      "name": "Bai Qi",
+      "modelNumber": "MNP-XH01",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "Non-scale",
+      "series": "Legend of Star General",
+      "releaseDate": "2023-09",
+      "releaseType": "Retail",
+      "kitSummary": "A canonical Legend of Star General mech identity covering the standard MNP-XH01 and Refined MNP-XH01E presentations. The record keeps the observed product codes searchable while treating Refined as an owned-copy edition.",
+      "unitLore": "Bai Qi is a heavily armored Chinese-warrior-inspired mecha associated with the historical general. The available source set supports its armor, weapon, and presentation design, but does not establish a complete authoritative fictional biography.",
+      "aliases": "天暴星-琥珀炎黄-白起 | Amber Yanhuang Bai Qi; Hakuki; 天暴星-琥珀炎黄-白起 | MNP-XH01 | MNP-XH01E | Legend of Star General | 星甲魂将传 | Motor Nuclear | Third Party | Loyal Grade (secondary taxonomy)",
+      "imageKey": "tp-motor-nuclear-0001"
+    },
+    {
+      "id": "tp-motor-nuclear-0002",
+      "name": "Cao Ren",
+      "modelNumber": "MNP-XH02",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "Non-scale",
+      "series": "Legend of Star General",
+      "releaseDate": "2023-07",
+      "releaseType": "Retail",
+      "kitSummary": "A canonical Cao Ren identity covering the standard, Refined, and Star-Color Refined releases. Its Phoenix assembly remains a selectable Cao Ren configuration rather than a separate catalog identity.",
+      "unitLore": "Cao Ren is a winged general-themed combat mecha with transformable rear armor that can form a Phoenix presentation. Manufacturer and retailer evidence supports the alternate physical form, not an independently marketed Phoenix machine.",
+      "aliases": "天速星-玉罗刹-曹仁 | Jade Rakshasa Cao Ren; 玉罗刹-曹仁 | MNP-XH02 | MNP-XH02A | MNP-XH02E | MNP-XH02CE | Legend of Star General | 星甲魂将传 | Motor Nuclear | Third Party | Loyal Grade (secondary taxonomy)",
+      "imageKey": "tp-motor-nuclear-0002"
+    },
+    {
+      "id": "tp-motor-nuclear-0009",
+      "name": "Gan Jiang",
+      "modelNumber": "MNPQ-XH04",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "Non-scale",
+      "series": "Legend of Star General",
+      "releaseDate": "2024-07",
+      "releaseType": "Retail",
+      "kitSummary": "A cross-format Gan Jiang identity spanning the Q/SD MNPQ-XH04 and full-size MNP-XH12 releases. Black Dragon and Majestic/Weiwu colors are edition choices rather than new records.",
+      "unitLore": "Gan Jiang is a sword-focused warrior mecha offered in both compact and full-size assembly formats. Its multiple blade systems and format changes are tracked through owned-copy attributes.",
+      "aliases": "地威星-封刃灵-干将 | Dragon-Sealing Spirit Gan Jiang; GanJiang; 干将; 地威星-封刃灵 | MNPQ-XH04 | MNP-XH12 | Legend of Star General | 星甲魂将传 | Motor Nuclear | Third Party | Third Party — format-dependent class",
+      "imageKey": "tp-motor-nuclear-0009"
+    },
+    {
+      "id": "tp-motor-nuclear-0011",
+      "name": "Lu Bu",
+      "modelNumber": "MNP-XH15",
+      "grade": "Brave Grade",
+      "availableGrades": [
+        "Brave Grade"
+      ],
+      "scale": "Non-scale",
+      "series": "Legend of Star General",
+      "releaseDate": "2026-06",
+      "releaseType": "Retail",
+      "kitSummary": "A Brave Grade Lu Bu identity covering the large MNP-XH15 kit and its smaller Great Hero presentation. Scale and presentation are owned-copy attributes.",
+      "unitLore": "Lu Bu is a heavily armed war-god-themed mecha with modular weapon combinations. The catalog records the verified product design and does not invent narrative details not present in the source package.",
+      "aliases": "摇光宫-破军星君-吕布 | Lü Bu; God of War Lu Bu; 吕布 | MNP-XH15 | Great Hero presentation | Legend of Star General | 星甲魂将传 | Motor Nuclear | Brave Grade | Brave Grade / Yingyong class",
+      "imageKey": "tp-motor-nuclear-0011"
+    },
+    {
+      "id": "tp-motor-nuclear-0010",
+      "name": "Mo Li Qing",
+      "modelNumber": "MNP-XH14",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "Non-scale",
+      "series": "Legend of Star General",
+      "releaseDate": "2026-02",
+      "releaseType": "Retail",
+      "kitSummary": "A canonical Mo Li Qing identity for the MNP-XH14 family. The standard presentation and any package-code variation remain attached to one mech record.",
+      "unitLore": "Mo Li Qing is a Four Demon Generals-inspired combat mecha centered on an oversized transforming sword array and a large armored silhouette.",
+      "aliases": "魔礼青 | Mo Liqing; Blue Magic; Four Demon Generals Mo Li Qing; 魔礼青 | MNP-XH14 | MNP-XH14A | Legend of Star General | 星甲魂将传 | Motor Nuclear | Third Party | Third Party — class unverified",
+      "imageKey": "tp-motor-nuclear-0010"
+    },
+    {
+      "id": "tp-motor-nuclear-0005",
+      "name": "Ne Zha",
+      "modelNumber": "MNP-XH04",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "Non-scale",
+      "series": "Legend of Star General",
+      "releaseDate": "2024-07",
+      "releaseType": "Retail",
+      "kitSummary": "A canonical Ne Zha identity covering the standard MNP-XH04 and Majestic/Valiant-color presentation. The six-arm arrangement is stored as an owned-copy configuration rather than another mech ID.",
+      "unitLore": "Ne Zha is a mythic-warrior mecha capable of a six-arm display and equipped with multiple signature weapon forms. The catalog describes the verified physical design without adding unsupported story details.",
+      "aliases": "天英星-三坛海会-哪吒 | Nezha; Nata; Three Altars Sea Assembly Ne Zha; 天英星-三坛海会-哪吒 | MNP-XH04 | Legend of Star General | 星甲魂将传 | Motor Nuclear | Third Party | Loyal Grade (secondary taxonomy)",
+      "imageKey": "tp-motor-nuclear-0005"
+    },
+    {
+      "id": "tp-motor-nuclear-0007",
+      "name": "Wei Yuan",
+      "modelNumber": "MNP-XH06",
+      "grade": "Loyal Grade",
+      "availableGrades": [
+        "Loyal Grade"
+      ],
+      "scale": "Non-scale",
+      "series": "Legend of Star General",
+      "releaseDate": "2024-01",
+      "releaseType": "Retail",
+      "kitSummary": "One modular Wei Yuan identity covering Trainee, Sword-Fighting, Imperial Guard, and Heavy-Weapon configurations plus the Great Hero presentation. Product codes remain aliases rather than separate IDs.",
+      "unitLore": "Wei Yuan is Motor Nuclear’s modular standard-machine family. Its releases change equipment and presentation while retaining the same underlying machine identity, making configuration selection the appropriate Hangar Bay treatment.",
+      "aliases": "威远式 | Wei Yuan Type; Weiyuan; 威远式 | MNP-XH06 | MNP-XH07 | MNP-XH08 | MNP-XH13 | Great Hero presentation | Legend of Star General | 星甲魂将传 | Motor Nuclear | Loyal Grade | Loyal Grade / Zhongyong class",
+      "imageKey": "tp-motor-nuclear-0007"
+    },
+    {
+      "id": "tp-motor-nuclear-0008",
+      "name": "Wen Zhong",
+      "modelNumber": "BV-XH02",
+      "grade": "Valiant Grade",
+      "availableGrades": [
+        "Valiant Grade"
+      ],
+      "scale": "Non-scale",
+      "series": "Legend of Star General",
+      "releaseDate": "2026-07",
+      "releaseType": "Retail",
+      "kitSummary": "The freeze-eligible Wen Zhong identity represented by the July 2026 Valiant Grade BV-XH02 release. The announced full-size MNP-XH11 and Black Qilin remain future-controlled and are not active copy options.",
+      "unitLore": "Wen Zhong is a thunder-general-themed mecha whose verified pre-freeze product is the Valiant Grade assembly kit. The later full-size presentation remains outside this certification freeze.",
+      "aliases": "天立星-雷声普化-闻仲 | Leisheng Puhua Wen Zhong; 闻仲; 雷声普化 | BV-XH02 | BV-XH02A | MNP-XH11 | Legend of Star General | 星甲魂将传 | Motor Nuclear | Valiant Grade | Valiant Grade / Xunyong class",
+      "imageKey": "tp-motor-nuclear-0008"
+    },
+    {
+      "id": "tp-motor-nuclear-0012",
+      "name": "Xiang Yu",
+      "modelNumber": "BV-XH01",
+      "grade": "Valiant Grade",
+      "availableGrades": [
+        "Valiant Grade"
+      ],
+      "scale": "Non-scale",
+      "series": "Legend of Star General",
+      "releaseDate": "2026-06",
+      "releaseType": "Retail",
+      "kitSummary": "The launch Valiant Grade identity represented by BV-XH01 and BV-XH01A. Both observed codes map to one Xiang Yu mech identity.",
+      "unitLore": "Xiang Yu is a compact warrior mecha positioned as an entry point to Motor Nuclear’s Valiant Grade assembly engineering.",
+      "aliases": "项羽 | Hegemon-King of Western Chu Xiang Yu; 项羽 | BV-XH01 | BV-XH01A | Legend of Star General | 星甲魂将传 | Motor Nuclear | Valiant Grade | Valiant Grade / Xunyong class",
+      "imageKey": "tp-motor-nuclear-0012"
+    },
+    {
+      "id": "tp-motor-nuclear-0006",
+      "name": "Zhao Yun",
+      "modelNumber": "MNP-XH05",
+      "grade": "Gallant Grade",
+      "availableGrades": [
+        "Gallant Grade"
+      ],
+      "scale": "Non-scale",
+      "series": "Legend of Star General",
+      "releaseDate": "2025-06",
+      "releaseType": "Retail",
+      "kitSummary": "A Gallant Grade Zhao Yun identity sold with the mechanical White Dragon Horse. Mounted and unmounted states are owned-copy configurations; the horse remains support equipment rather than a separate catalog mech.",
+      "unitLore": "Zhao Yun is a dragon-armored warrior mecha designed for independent or mounted display. Official-channel product presentation supports the Gallant Grade classification and the included mechanical mount.",
+      "aliases": "天佑星-龙胆虎将-赵云 | Zilong Zhao Yun; 赵云 | MNP-XH05 | Legend of Star General | 星甲魂将传 | Motor Nuclear | Gallant Grade | Gallant Grade / Xiaoyong class",
+      "imageKey": "tp-motor-nuclear-0006"
+    }
+  ]
+}

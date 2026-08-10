@@ -1,0 +1,663 @@
+{
+  "format": "hangar-bay-catalog-pack",
+  "schemaVersion": 1,
+  "id": "advanced-generation",
+  "name": "Advanced Generation / Gundam AGE",
+  "shortName": "AGE",
+  "description": "Grade-specific Advanced Generation / Gundam AGE catalog. Each entry represents one mech and normalized grade; configurations, tooling iterations, editions, scale choices, and accessories remain owned-copy attributes.",
+  "version": 3,
+  "updatedAt": "2026-08-05",
+  "sortOrder": 70,
+  "kitCount": 38,
+  "series": [
+    "Mobile Suit Gundam AGE"
+  ],
+  "kits": [
+    {
+      "id": "age-0009-hg",
+      "name": "Adele",
+      "modelNumber": "RGE-G1100",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-02",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Adele, supported by 2 certified physical presentations. Supported configurations include Standard, Diva Colors, Custom / Other.",
+      "unitLore": "The Adele is a Federation mass-production mobile suit derived from Gundam AGE-1 data. Its compatibility with Wear equipment gives ordinary forces access to capabilities developed by the AGE System.",
+      "aliases": "Adele | Adele Diva Colors | RGE-G1100 Adele | Advanced Generation | Gundam AGE | HG 1/144 Adele | HG 1/144 Adele Diva Colors",
+      "imageKey": "age-0009"
+    },
+    {
+      "id": "age-0009",
+      "name": "Adele",
+      "modelNumber": "RGE-G1100",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-01",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for Adele, supported by 1 certified physical presentation. Supported configurations include Standard, Diva Colors, Custom / Other.",
+      "unitLore": "The Adele is a Federation mass-production mobile suit derived from Gundam AGE-1 data. Its compatibility with Wear equipment gives ordinary forces access to capabilities developed by the AGE System.",
+      "aliases": "Adele | Adele Diva Colors | RGE-G1100 Adele | Advanced Generation | Gundam AGE | AG 1/144 Adele",
+      "imageKey": "age-0009"
+    },
+    {
+      "id": "age-0005",
+      "name": "Baqto",
+      "modelNumber": "ovv-a",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2011-12",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Baqto, supported by 1 certified physical presentation. Supported configurations include Standard, Custom / Other.",
+      "unitLore": "The Baqto is a heavily armored Vagan mobile suit designed to withstand conventional Federation fire. Its strength and defensive construction force the AGE-1 to adopt the power-oriented Titus Wear.",
+      "aliases": "Baqto | Bakto | Advanced Generation | Gundam AGE | HG 1/144 Baqto",
+      "imageKey": "age-0005"
+    },
+    {
+      "id": "age-0019",
+      "name": "Clanche",
+      "modelNumber": "RGE-G2100 family",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-09",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Clanche, supported by 2 certified physical presentations. Supported configurations include Standard, Clanche Custom, Custom / Other.",
+      "unitLore": "The Clanche is a transformable Federation mass-production mobile suit derived from AGE-2 technology. The Clanche Custom improves performance and command capability without leaving the same machine family.",
+      "aliases": "Clanche | Clanche Custom | RGE-G2100 Clanche | RGE-G2100C Clanche Custom | Advanced Generation | Gundam AGE | HG 1/144 Clanche | HG 1/144 Clanche Custom",
+      "imageKey": "age-0019"
+    },
+    {
+      "id": "age-0016",
+      "name": "Danazine",
+      "modelNumber": "ovv-af",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-05",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Danazine, supported by 2 certified physical presentations. Supported configurations include Standard, Purple Color, Custom / Other.",
+      "unitLore": "The Danazine is a large Vagan mobile suit with a bestial silhouette and powerful close-range attacks. Its tail, claws, and flight capability support destructive assaults against fixed positions and mobile suits.",
+      "aliases": "Danazine | ovv-af Danazine | Advanced Generation | Gundam AGE | HG 1/144 Danazine | HG 1/144 Danazine Purple Color",
+      "imageKey": "age-0016"
+    },
+    {
+      "id": "age-0008",
+      "name": "Dorado",
+      "modelNumber": "ovm-e",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-01",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Dorado, supported by 1 certified physical presentation. Supported configurations include Standard, Custom / Other.",
+      "unitLore": "The Dorado succeeds the Gafran as a Vagan mass-production unit. It emphasizes humanoid combat performance while retaining the advanced beam technology and mobility characteristic of Vagan designs.",
+      "aliases": "Dorado | ovm-e Dorado | Advanced Generation | Gundam AGE | HG 1/144 Dorado",
+      "imageKey": "age-0008"
+    },
+    {
+      "id": "age-0008-ag",
+      "name": "Dorado",
+      "modelNumber": "ovm-e",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-04",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for Dorado, supported by 1 certified physical presentation. Supported configurations include Standard, Custom / Other.",
+      "unitLore": "The Dorado succeeds the Gafran as a Vagan mass-production unit. It emphasizes humanoid combat performance while retaining the advanced beam technology and mobility characteristic of Vagan designs.",
+      "aliases": "Dorado | ovm-e Dorado | Advanced Generation | Gundam AGE | AG 1/144 Dorado",
+      "imageKey": "age-0008"
+    },
+    {
+      "id": "age-0014",
+      "name": "Farsia",
+      "modelNumber": "xvb-xd / xvb-fnc",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-04",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Farsia, supported by 2 certified physical presentations. Supported configurations include Farsia, Fawn Farsia, Custom / Other.",
+      "unitLore": "The Farsia is a Vagan X-Rounder-use mobile suit equipped for remote beam attacks. Fawn Farsia develops the same concept with revised armor and weapons while remaining within the Farsia machine family.",
+      "aliases": "Farsia | Fawn Farsia | xvb-xd Farsia | xvb-fnc Fawn Farsia | Advanced Generation | Gundam AGE | HG 1/144 Farsia | HG 1/144 Fawn Farsia",
+      "imageKey": "age-0014"
+    },
+    {
+      "id": "age-0010",
+      "name": "G-Bouncer",
+      "modelNumber": "WMS-GB5 / BMS-005",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-02",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for G-Bouncer, supported by 2 certified physical presentations. Supported configurations include G-Bouncer, G-Xiphos, Custom / Other.",
+      "unitLore": "The G-Bouncer is Woolf Enneacle’s agile white custom suit, built for speed and precision. The pirate G-Xiphos reworks the same development base with Bisidian weapons and close-combat equipment.",
+      "aliases": "WMS-GB5 G-Bouncer | BMS-005 G-Xiphos | G-Xiphos | Advanced Generation | Gundam AGE | HG 1/144 G-Bouncer | HG 1/144 G-Xiphos",
+      "imageKey": "age-0010"
+    },
+    {
+      "id": "age-0010-ag",
+      "name": "G-Bouncer",
+      "modelNumber": "WMS-GB5 / BMS-005",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-03",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for G-Bouncer, supported by 1 certified physical presentation. Supported configurations include G-Bouncer, G-Xiphos, Custom / Other.",
+      "unitLore": "The G-Bouncer is Woolf Enneacle’s agile white custom suit, built for speed and precision. The pirate G-Xiphos reworks the same development base with Bisidian weapons and close-combat equipment.",
+      "aliases": "WMS-GB5 G-Bouncer | BMS-005 G-Xiphos | G-Xiphos | Advanced Generation | Gundam AGE | AG 1/144 G-Bouncer",
+      "imageKey": "age-0010"
+    },
+    {
+      "id": "age-0006",
+      "name": "G-Exes",
+      "modelNumber": "WMS-GEX1 / BMS-004",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2011-12",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for G-Exes, supported by 2 certified physical presentations. Supported configurations include G-Exes, G-Exes Jackedge, Custom / Other.",
+      "unitLore": "The G-Exes is Woolf Enneacle’s high-performance custom mobile suit, built with data and technology related to the AGE-1. The later Jackedge converts the design for Bisidian pirate operations with altered equipment and styling.",
+      "aliases": "WMS-GEX1 G-Exes | BMS-004 G-Exes Jackedge | G-Exes Jackedge | Advanced Generation | Gundam AGE | HG 1/144 G-Exes | HG 1/144 G-Exes Jackedge",
+      "imageKey": "age-0006"
+    },
+    {
+      "id": "age-0006-ag",
+      "name": "G-Exes",
+      "modelNumber": "WMS-GEX1 / BMS-004",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2011-12",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for G-Exes, supported by 2 certified physical presentations. Supported configurations include G-Exes, G-Exes Jackedge, Custom / Other.",
+      "unitLore": "The G-Exes is Woolf Enneacle’s high-performance custom mobile suit, built with data and technology related to the AGE-1. The later Jackedge converts the design for Bisidian pirate operations with altered equipment and styling.",
+      "aliases": "WMS-GEX1 G-Exes | BMS-004 G-Exes Jackedge | G-Exes Jackedge | Advanced Generation | Gundam AGE | AG 1/144 G-Exes | AG 1/144 G-Exes Jackedge",
+      "imageKey": "age-0006"
+    },
+    {
+      "id": "age-0002",
+      "name": "Gafran",
+      "modelNumber": "ovv-f",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2011-10",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Gafran, supported by 1 certified physical presentation. Supported configurations include Standard, Mobile Armor Mode, Custom / Other.",
+      "unitLore": "The Gafran is an early mass-produced Vagan mobile suit capable of transforming into a high-speed flight form. Its beam weapons and mobility overwhelm Federation forces at the opening of the conflict.",
+      "aliases": "Gafran | UE Gafran | Advanced Generation | Gundam AGE | HG 1/144 Gafran",
+      "imageKey": "age-0002"
+    },
+    {
+      "id": "age-0002-ag",
+      "name": "Gafran",
+      "modelNumber": "ovv-f",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2011-10",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for Gafran, supported by 1 certified physical presentation. Supported configurations include Standard, Mobile Armor Mode, Custom / Other.",
+      "unitLore": "The Gafran is an early mass-produced Vagan mobile suit capable of transforming into a high-speed flight form. Its beam weapons and mobility overwhelm Federation forces at the opening of the conflict.",
+      "aliases": "Gafran | UE Gafran | Advanced Generation | Gundam AGE | AG 1/144 Gafran",
+      "imageKey": "age-0002"
+    },
+    {
+      "id": "age-0003",
+      "name": "Genoace",
+      "modelNumber": "RGE-B790 family",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2011-10",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Genoace, supported by 4 certified physical presentations. Supported configurations include Standard, Genoace Custom, Genoace II, Genoace O-Custom, Custom / Other.",
+      "unitLore": "The Genoace line forms the Federation’s dependable general-purpose force. Successive Custom, II, and O-Custom versions improve weapons, armor, and control systems while retaining the same basic development lineage.",
+      "aliases": "RGE-B790 Genoace | RGE-B790CW Genoace Custom | RGE-B890 Genoace II | RGE-B893CO Genoace O-Custom | Advanced Generation | Gundam AGE | HG 1/144 Genoace | HG 1/144 Genoace Custom | HG 1/144 Genoace II | HG 1/144 Genoace O-Custom",
+      "imageKey": "age-0003"
+    },
+    {
+      "id": "age-0003-ag",
+      "name": "Genoace",
+      "modelNumber": "RGE-B790 family",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2011-10",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for Genoace, supported by 3 certified physical presentations. Supported configurations include Standard, Genoace Custom, Genoace II, Genoace O-Custom, Custom / Other.",
+      "unitLore": "The Genoace line forms the Federation’s dependable general-purpose force. Successive Custom, II, and O-Custom versions improve weapons, armor, and control systems while retaining the same basic development lineage.",
+      "aliases": "RGE-B790 Genoace | RGE-B790CW Genoace Custom | RGE-B890 Genoace II | RGE-B893CO Genoace O-Custom | Advanced Generation | Gundam AGE | AG 1/144 Genoace | AG 1/144 Genoace Custom | AG 1/144 Genoace II",
+      "imageKey": "age-0003"
+    },
+    {
+      "id": "age-0017-hg",
+      "name": "Ghirarga",
+      "modelNumber": "xvt-zgc",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-06",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Ghirarga, supported by 1 certified physical presentation. Supported configurations include Standard, Custom / Other.",
+      "unitLore": "The Ghirarga is an advanced Vagan X-Rounder mobile suit built for Zeheart Galette. It combines high mobility, a beam spear, and remote beam-bit attacks in a machine intended to contest the AGE-3.",
+      "aliases": "Ghirarga | xvt-zgc Ghirarga | Advanced Generation | Gundam AGE | HG 1/144 Ghirarga",
+      "imageKey": "age-0017"
+    },
+    {
+      "id": "age-0017",
+      "name": "Ghirarga",
+      "modelNumber": "xvt-zgc",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-05",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for Ghirarga, supported by 1 certified physical presentation. Supported configurations include Standard, Custom / Other.",
+      "unitLore": "The Ghirarga is an advanced Vagan X-Rounder mobile suit built for Zeheart Galette. It combines high mobility, a beam spear, and remote beam-bit attacks in a machine intended to contest the AGE-3.",
+      "aliases": "Ghirarga | xvt-zgc Ghirarga | Advanced Generation | Gundam AGE | AG 1/144 Ghirarga",
+      "imageKey": "age-0017"
+    },
+    {
+      "id": "age-0001",
+      "name": "Gundam AGE-1",
+      "modelNumber": "AGE-1",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2011-09",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Gundam AGE-1, supported by 7 certified physical presentations. Supported configurations include Normal, Titus, Spallow, Razor, Flat, Full Glansa.",
+      "unitLore": "Flit Asuno’s AGE System mobile suit adapts to changing battles through interchangeable Wear equipment. It later serves in Flat and heavily armed Glansa forms as Flit continues the war against Vagan.",
+      "aliases": "AGE-1 Normal | AGE-1 Titus | AGE-1 Spallow | AGE-1 Razor | AGE-1 Flat | AGE-1 Full Glansa | Gundam AGE-1 Unit 2 | Advanced Generation | Gundam AGE | HG 1/144 Gundam AGE-1 Normal | HG 1/144 Gundam AGE-1 Titus | HG 1/144 Gundam AGE-1 Spallow | HG 1/144 Gundam AGE-1 Full Glansa | HG 1/144 Gundam AGE-1 Normal Full Color Plated Ver. | HG 1/144 Mobile Suit Gundam AGE MS Set Clear Color Ver. | HG 1/144 Gundam AGE-1 Razor & Gundam AGE-2 Artimes Set",
+      "imageKey": "age-0001"
+    },
+    {
+      "id": "age-0001-mg",
+      "name": "Gundam AGE-1",
+      "modelNumber": "AGE-1",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-02",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Master Grade catalog entry for Gundam AGE-1, supported by 6 certified physical presentations. Supported configurations include Normal, Titus, Spallow, Razor, Flat, Full Glansa.",
+      "unitLore": "Flit Asuno’s AGE System mobile suit adapts to changing battles through interchangeable Wear equipment. It later serves in Flat and heavily armed Glansa forms as Flit continues the war against Vagan.",
+      "aliases": "AGE-1 Normal | AGE-1 Titus | AGE-1 Spallow | AGE-1 Razor | AGE-1 Flat | AGE-1 Full Glansa | Gundam AGE-1 Unit 2 | Advanced Generation | Gundam AGE | MG 1/100 Gundam AGE-1 Normal | MG 1/100 Gundam AGE-1 Titus | MG 1/100 Gundam AGE-1 Spallow | MG 1/100 Gundam AGE-1 Unit 2 | MG 1/100 Gundam AGE-1 Wear System Set Clear Color | MG 1/100 Gundam AGE-1 Full Glansa Designers Color",
+      "imageKey": "age-0001"
+    },
+    {
+      "id": "age-0001-mega",
+      "name": "Gundam AGE-1",
+      "modelNumber": "AGE-1",
+      "grade": "Mega Size Model",
+      "availableGrades": [
+        "Mega Size Model"
+      ],
+      "scale": "1/48",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2011-12",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Mega Size Model catalog entry for Gundam AGE-1, supported by 1 certified physical presentation. Supported configurations include Normal, Titus, Spallow, Razor, Flat, Full Glansa.",
+      "unitLore": "Flit Asuno’s AGE System mobile suit adapts to changing battles through interchangeable Wear equipment. It later serves in Flat and heavily armed Glansa forms as Flit continues the war against Vagan.",
+      "aliases": "AGE-1 Normal | AGE-1 Titus | AGE-1 Spallow | AGE-1 Razor | AGE-1 Flat | AGE-1 Full Glansa | Gundam AGE-1 Unit 2 | Advanced Generation | Gundam AGE | Mega Size Model 1/48 Gundam AGE-1 Normal",
+      "imageKey": "age-0001"
+    },
+    {
+      "id": "age-0001-ag",
+      "name": "Gundam AGE-1",
+      "modelNumber": "AGE-1",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2011-10",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for Gundam AGE-1, supported by 6 certified physical presentations. Supported configurations include Normal, Titus, Spallow, Razor, Flat, Full Glansa.",
+      "unitLore": "Flit Asuno’s AGE System mobile suit adapts to changing battles through interchangeable Wear equipment. It later serves in Flat and heavily armed Glansa forms as Flit continues the war against Vagan.",
+      "aliases": "AGE-1 Normal | AGE-1 Titus | AGE-1 Spallow | AGE-1 Razor | AGE-1 Flat | AGE-1 Full Glansa | Gundam AGE-1 Unit 2 | Advanced Generation | Gundam AGE | AG 1/144 Gundam AGE-1 Normal | AG 1/144 Gundam AGE-1 Titus | AG 1/144 Gundam AGE-1 Spallow | AG 1/144 Gundam AGE-1 Normal Super Clear Ver. | AG 1/144 Gundam AGE-1 Titus Super Clear Ver. | AG 1/144 Gundam AGE-1 Spallow Super Clear Ver.",
+      "imageKey": "age-0001"
+    },
+    {
+      "id": "age-0007",
+      "name": "Gundam AGE-2",
+      "modelNumber": "AGE-2",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-01",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Gundam AGE-2, supported by 8 certified physical presentations. Supported configurations include Normal, Double Bullet, Dark Hound, Artimes, Special Forces, SP.",
+      "unitLore": "Asemu Asuno’s transformable AGE Gundam combines high mobility with the AGE System’s adaptive equipment. Its history spans Double Bullet firepower, Artimes equipment, and the Bisidian Dark Hound conversion.",
+      "aliases": "AGE-2 Normal | AGE-2 Double Bullet | AGE-2 Dark Hound | AGE-2 Artimes | AGE-2 Special Forces | Advanced Generation | Gundam AGE | HG 1/144 Gundam AGE-2 Normal | HG 1/144 Gundam AGE-2 Double Bullet | HG 1/144 Gundam AGE-2 Dark Hound | HG 1/144 Gundam AGE-2 SP Ver. | HG 1/144 Gundam AGE-2 Normal Full Color Plated Ver. | HG 1/144 Gundam AGE-2 Artimes Color Clear Ver. | HG 1/144 Mobile Suit Gundam AGE MS Set Clear Color Ver. | HG 1/144 Gundam AGE-1 Razor & Gundam AGE-2 Artimes Set",
+      "imageKey": "age-0007"
+    },
+    {
+      "id": "age-0007-mg",
+      "name": "Gundam AGE-2",
+      "modelNumber": "AGE-2",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-08",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Master Grade catalog entry for Gundam AGE-2, supported by 4 certified physical presentations. Supported configurations include Normal, Double Bullet, Dark Hound, Artimes, Special Forces, SP.",
+      "unitLore": "Asemu Asuno’s transformable AGE Gundam combines high mobility with the AGE System’s adaptive equipment. Its history spans Double Bullet firepower, Artimes equipment, and the Bisidian Dark Hound conversion.",
+      "aliases": "AGE-2 Normal | AGE-2 Double Bullet | AGE-2 Dark Hound | AGE-2 Artimes | AGE-2 Special Forces | Advanced Generation | Gundam AGE | MG 1/100 Gundam AGE-2 Normal | MG 1/100 Gundam AGE-2 Dark Hound | MG 1/100 Gundam AGE-2 Double Bullet | MG 1/100 Gundam AGE-2 Normal Special Forces",
+      "imageKey": "age-0007"
+    },
+    {
+      "id": "age-0007-mega",
+      "name": "Gundam AGE-2",
+      "modelNumber": "AGE-2",
+      "grade": "Mega Size Model",
+      "availableGrades": [
+        "Mega Size Model"
+      ],
+      "scale": "1/48",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-03",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Mega Size Model catalog entry for Gundam AGE-2, supported by 1 certified physical presentation. Supported configurations include Normal, Double Bullet, Dark Hound, Artimes, Special Forces, SP.",
+      "unitLore": "Asemu Asuno’s transformable AGE Gundam combines high mobility with the AGE System’s adaptive equipment. Its history spans Double Bullet firepower, Artimes equipment, and the Bisidian Dark Hound conversion.",
+      "aliases": "AGE-2 Normal | AGE-2 Double Bullet | AGE-2 Dark Hound | AGE-2 Artimes | AGE-2 Special Forces | Advanced Generation | Gundam AGE | Mega Size Model 1/48 Gundam AGE-2 Normal",
+      "imageKey": "age-0007"
+    },
+    {
+      "id": "age-0007-ag",
+      "name": "Gundam AGE-2",
+      "modelNumber": "AGE-2",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-01",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for Gundam AGE-2, supported by 4 certified physical presentations. Supported configurations include Normal, Double Bullet, Dark Hound, Artimes, Special Forces, SP.",
+      "unitLore": "Asemu Asuno’s transformable AGE Gundam combines high mobility with the AGE System’s adaptive equipment. Its history spans Double Bullet firepower, Artimes equipment, and the Bisidian Dark Hound conversion.",
+      "aliases": "AGE-2 Normal | AGE-2 Double Bullet | AGE-2 Dark Hound | AGE-2 Artimes | AGE-2 Special Forces | Advanced Generation | Gundam AGE | AG 1/144 Gundam AGE-2 Normal | AG 1/144 Gundam AGE-2 Double Bullet | AG 1/144 Gundam AGE-2 Dark Hound | AG 1/144 Gundam AGE-2 Double Bullet Super Clear Ver.",
+      "imageKey": "age-0007"
+    },
+    {
+      "id": "age-0015-hg",
+      "name": "Gundam AGE-3",
+      "modelNumber": "AGE-3",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-05",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Gundam AGE-3, supported by 5 certified physical presentations. Supported configurations include Normal, Orbital, Fortress, Custom / Other.",
+      "unitLore": "Kio Asuno’s AGE-3 uses a Core Fighter and interchangeable G-Wear sections. Normal balances capabilities, Orbital specializes in space maneuvering, and Fortress supplies heavy ground-combat firepower.",
+      "aliases": "AGE-3 Normal | AGE-3 Orbital | AGE-3 Fortress | Advanced Generation | Gundam AGE | HG 1/144 Gundam AGE-3 Normal | HG 1/144 Gundam AGE-3 Orbital | HG 1/144 Gundam AGE-3 Fortress | HG 1/144 Gundam AGE-3 Normal Full Color Plated Ver. | HG 1/144 Mobile Suit Gundam AGE MS Set Clear Color Ver.",
+      "imageKey": "age-0015"
+    },
+    {
+      "id": "age-0015",
+      "name": "Gundam AGE-3",
+      "modelNumber": "AGE-3",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-04",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for Gundam AGE-3, supported by 6 certified physical presentations. Supported configurations include Normal, Orbital, Fortress, Custom / Other.",
+      "unitLore": "Kio Asuno’s AGE-3 uses a Core Fighter and interchangeable G-Wear sections. Normal balances capabilities, Orbital specializes in space maneuvering, and Fortress supplies heavy ground-combat firepower.",
+      "aliases": "AGE-3 Normal | AGE-3 Orbital | AGE-3 Fortress | Advanced Generation | Gundam AGE | AG 1/144 Gundam AGE-3 Normal | AG 1/144 Gundam AGE-3 Orbital | AG 1/144 Gundam AGE-3 Fortress | AG 1/144 Gundam AGE-3 Normal Super Clear Ver. | AG 1/144 Gundam AGE-3 Orbital Super Clear Ver. | AG 1/144 Gundam AGE-3 Fortress Super Clear Ver.",
+      "imageKey": "age-0015"
+    },
+    {
+      "id": "age-0018-hg",
+      "name": "Gundam AGE-FX",
+      "modelNumber": "AGE-FX",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-08",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Gundam AGE-FX, supported by 3 certified physical presentations. Supported configurations include Standard, Burst Mode, A-Funnel Equipment, Custom / Other.",
+      "unitLore": "The AGE-FX is the AGE-3’s successor and the final principal AGE System Gundam. Its C-Funnels provide offense and defense, while Burst Mode releases the machine’s full close-combat potential.",
+      "aliases": "AGE-FX | Gundam AGE-FX | AGE-FX Burst Mode | Advanced Generation | Gundam AGE | HG 1/144 Gundam AGE-FX | HG 1/144 Gundam AGE-FX Burst Mode | HG 1/144 Mobile Suit Gundam AGE MS Set Clear Color Ver.",
+      "imageKey": "age-0018"
+    },
+    {
+      "id": "age-0018",
+      "name": "Gundam AGE-FX",
+      "modelNumber": "AGE-FX",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-07",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for Gundam AGE-FX, supported by 2 certified physical presentations. Supported configurations include Standard, Burst Mode, A-Funnel Equipment, Custom / Other.",
+      "unitLore": "The AGE-FX is the AGE-3’s successor and the final principal AGE System Gundam. Its C-Funnels provide offense and defense, while Burst Mode releases the machine’s full close-combat potential.",
+      "aliases": "AGE-FX | Gundam AGE-FX | AGE-FX Burst Mode | Advanced Generation | Gundam AGE | AG 1/144 Gundam AGE-FX | AG 1/144 Gundam AGE-FX Super Clear Ver.",
+      "imageKey": "age-0018"
+    },
+    {
+      "id": "age-0020-hg",
+      "name": "Gundam Legilis",
+      "modelNumber": "xvm-fzc",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-10",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Gundam Legilis, supported by 2 certified physical presentations. Supported configurations include Standard, Memory of Eden, Custom / Other.",
+      "unitLore": "Gundam Legilis combines Vagan technology with data derived from captured AGE System machines. Its Legilis Bits and high mobility make it one of the conflict’s most advanced mobile suits.",
+      "aliases": "Gundam Legilis | Legilis | Gundam Legilis Memory of Eden | Advanced Generation | Gundam AGE | HG 1/144 Gundam Legilis | HG 1/144 Gundam Legilis Memory of Eden Ver.",
+      "imageKey": "age-0020"
+    },
+    {
+      "id": "age-0020",
+      "name": "Gundam Legilis",
+      "modelNumber": "xvm-fzc",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-07",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for Gundam Legilis, supported by 1 certified physical presentation. Supported configurations include Standard, Memory of Eden, Custom / Other.",
+      "unitLore": "Gundam Legilis combines Vagan technology with data derived from captured AGE System machines. Its Legilis Bits and high mobility make it one of the conflict’s most advanced mobile suits.",
+      "aliases": "Gundam Legilis | Legilis | Gundam Legilis Memory of Eden | Advanced Generation | Gundam AGE | AG 1/144 Gundam Legilis",
+      "imageKey": "age-0020"
+    },
+    {
+      "id": "age-0012",
+      "name": "Khronos",
+      "modelNumber": "xvm-dgc",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-03",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for Khronos, supported by 1 certified physical presentation. Supported configurations include Standard, Custom / Other.",
+      "unitLore": "The Khronos is a distinct Vagan X-Rounder mobile suit optimized for heavy ranged firepower. Although related in development era and technology to the Zeydra, its structure, role, and armament establish a separate machine identity.",
+      "aliases": "Khronos | xvm-dgc Khronos | Advanced Generation | Gundam AGE | AG 1/144 Khronos",
+      "imageKey": "age-0012"
+    },
+    {
+      "id": "age-0013",
+      "name": "Shaldoll",
+      "modelNumber": "RGE-C350 / BMS-003",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-04",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Shaldoll, supported by 2 certified physical presentations. Supported configurations include Shaldoll Custom, Shaldoll Rogue, Custom / Other.",
+      "unitLore": "The Shaldoll Custom adapts the civilian Shaldoll frame for Federation combat service. The later Shaldoll Rogue is a Bisidian conversion with pirate equipment and presentation rather than an unrelated machine.",
+      "aliases": "Shaldoll Custom | Shaldoll Rogue | RGE-C350 Shaldoll Custom | BMS-003 Shaldoll Rogue | Advanced Generation | Gundam AGE | HG 1/144 Shaldoll Custom | HG 1/144 Shaldoll Rogue",
+      "imageKey": "age-0013"
+    },
+    {
+      "id": "age-0004",
+      "name": "Zedas",
+      "modelNumber": "xvv-xc family",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2011-11",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Zedas, supported by 2 certified physical presentations. Supported configurations include Zedas, Zedas R, Zedas M, Custom / Other.",
+      "unitLore": "The Zedas is a high-performance Vagan transformable mobile suit used by elite pilots. Its speed, beam weapons, and aggressive close-combat profile make it a recurring threat to AGE System machines.",
+      "aliases": "xvv-xc Zedas | xvv-xcr Zedas R | Zedas M | Advanced Generation | Gundam AGE | HG 1/144 Zedas | HG 1/144 Zedas R",
+      "imageKey": "age-0004"
+    },
+    {
+      "id": "age-0004-ag",
+      "name": "Zedas",
+      "modelNumber": "xvv-xc family",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2011-11",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for Zedas, supported by 1 certified physical presentation. Supported configurations include Zedas, Zedas R, Zedas M, Custom / Other.",
+      "unitLore": "The Zedas is a high-performance Vagan transformable mobile suit used by elite pilots. Its speed, beam weapons, and aggressive close-combat profile make it a recurring threat to AGE System machines.",
+      "aliases": "xvv-xc Zedas | xvv-xcr Zedas R | Zedas M | Advanced Generation | Gundam AGE | AG 1/144 Zedas",
+      "imageKey": "age-0004"
+    },
+    {
+      "id": "age-0011",
+      "name": "Zeydra",
+      "modelNumber": "xvm-zgc",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-02",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Zeydra, supported by 1 certified physical presentation. Supported configurations include Standard, Custom / Other.",
+      "unitLore": "The Zeydra is a high-performance Vagan X-Rounder machine assigned to Zeheart Galette. Its speed, beam buster, and tail weapon support aggressive all-range combat without making it the same machine as the heavier Khronos.",
+      "aliases": "Zeydra | xvm-zgc Zeydra | Advanced Generation | Gundam AGE | HG 1/144 Zeydra",
+      "imageKey": "age-0011"
+    },
+    {
+      "id": "age-0011-ag",
+      "name": "Zeydra",
+      "modelNumber": "xvm-zgc",
+      "grade": "Advanced Grade",
+      "availableGrades": [
+        "Advanced Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam AGE",
+      "releaseDate": "2012-02",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Advanced Grade catalog entry for Zeydra, supported by 1 certified physical presentation. Supported configurations include Standard, Custom / Other.",
+      "unitLore": "The Zeydra is a high-performance Vagan X-Rounder machine assigned to Zeheart Galette. Its speed, beam buster, and tail weapon support aggressive all-range combat without making it the same machine as the heavier Khronos.",
+      "aliases": "Zeydra | xvm-zgc Zeydra | Advanced Generation | Gundam AGE | AG 1/144 Zeydra",
+      "imageKey": "age-0011"
+    }
+  ]
+}

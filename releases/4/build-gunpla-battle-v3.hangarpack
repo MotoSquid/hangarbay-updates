@@ -1,0 +1,2277 @@
+{
+  "format": "hangar-bay-catalog-pack",
+  "schemaVersion": 1,
+  "id": "build-gunpla-battle",
+  "name": "Build and Gunpla Battle",
+  "shortName": "BUILD",
+  "description": "Grade-specific Build and Gunpla Battle catalog. Each entry represents one mech and normalized grade; configurations, tooling iterations, editions, scale choices, and accessories remain owned-copy attributes.",
+  "version": 3,
+  "updatedAt": "2026-08-05",
+  "sortOrder": 35,
+  "kitCount": 132,
+  "series": [
+    "Gundam Breaker 4",
+    "Gundam Breaker Battlogue",
+    "Gundam Build Diver Rize",
+    "Gundam Build Divers",
+    "Gundam Build Divers Break",
+    "Gundam Build Divers Re:RISE",
+    "Gundam Build Fighters",
+    "Gundam Build Fighters Amazing",
+    "Gundam Build Fighters Amazing Ready",
+    "Gundam Build Fighters Battlogue",
+    "Gundam Build Fighters Honoo",
+    "Gundam Build Fighters Try",
+    "Gundam Build Fighters Try Island Wars",
+    "Gundam Build Fighters: GM Counterattack",
+    "Gundam Build Metaverse",
+    "Model Suit Gunpla Builders Beginning G",
+    "Plamo-Kyoshiro"
+  ],
+  "kits": [
+    {
+      "id": "build-0120",
+      "name": "Gunbarrel Strike Gundam (Gundam Breaker Ver.)",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Breaker 4",
+      "releaseDate": "2024-08",
+      "releaseType": "Collector Edition limited",
+      "kitSummary": "Gunbarrel Strike Gundam (Gundam Breaker Ver.) is represented by 1 certified High Grade physical presentation(s) associated with Gunbarrel Strike Gundam (Gundam Breaker Ver.). The earliest controlled grade evidence is 2024-08. Supported presentation names include Gunbarrel Strike Gundam (Gundam Breaker Ver.). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gunbarrel Strike Gundam (Gundam Breaker Ver.) is the Build-origin customized machine documented for Gunbarrel Strike Gundam (Gundam Breaker Ver.). The certified ledger links this High Grade entry to 1 physical presentation(s), including Gunbarrel Strike Gundam (Gundam Breaker Ver.). Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gunbarrel Strike Gundam (Gundam Breaker Ver.) | Gundam Breaker 4",
+      "imageKey": "build-0120"
+    },
+    {
+      "id": "build-0114",
+      "name": "Blazing Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Breaker Battlogue",
+      "releaseDate": "2021-12",
+      "releaseType": "Retail / Premium Bandai regional",
+      "kitSummary": "Blazing Gundam is represented by 1 certified High Grade physical presentation(s) associated with Blazing Gundam. The earliest controlled grade evidence is 2021-12. Supported presentation names include Blazing Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Blazing Gundam is the Build-origin customized machine documented for Blazing Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Blazing Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Blazing Gundam | Gundam Breaker Battlogue",
+      "imageKey": "build-0114"
+    },
+    {
+      "id": "build-0116",
+      "name": "Gundam 00 Command Qan[T]",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Breaker Battlogue",
+      "releaseDate": "2022-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam 00 Command Qan[T] is represented by 2 certified High Grade physical presentation(s) associated with Gundam 00 Command Qan[T], Gundam 00 Command Qan[T] Desert Type. The earliest controlled grade evidence is 2022-01. Supported presentation names include Gundam 00 Command Qan[T], Gundam 00 Command Qan[T] Desert Type. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam 00 Command Qan[T] is the Build-origin customized machine documented for Gundam 00 Command Qan[T], Gundam 00 Command Qan[T] Desert Type. The certified ledger links this High Grade entry to 2 physical presentation(s), including Gundam 00 Command Qan[T], Gundam 00 Command Qan[T] Desert Type. Maintained configurations include Standard, Desert Type, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam 00 Command Qan[T] | Gundam 00 Command Qan[T] Desert Type | Gundam Breaker Battlogue | Gundam Build Metaverse",
+      "imageKey": "build-0116"
+    },
+    {
+      "id": "build-0117",
+      "name": "Gundam Barbataurus",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Breaker Battlogue",
+      "releaseDate": "2022-01",
+      "releaseType": "Retail / Premium Bandai regional",
+      "kitSummary": "Gundam Barbataurus is represented by 1 certified High Grade physical presentation(s) associated with Gundam Barbataurus. The earliest controlled grade evidence is 2022-01. Supported presentation names include Gundam Barbataurus. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Barbataurus is the Build-origin customized machine documented for Gundam Barbataurus. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Barbataurus. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Barbataurus | Gundam Breaker Battlogue",
+      "imageKey": "build-0117"
+    },
+    {
+      "id": "build-0112",
+      "name": "Gundam Helios",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Breaker Battlogue",
+      "releaseDate": "2021-11",
+      "releaseType": "Retail / Premium Bandai regional",
+      "kitSummary": "Gundam Helios is represented by 1 certified High Grade physical presentation(s) associated with Gundam Helios. The earliest controlled grade evidence is 2021-11. Supported presentation names include Gundam Helios. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Helios is the Build-origin customized machine documented for Gundam Helios. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Helios. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Helios | Gundam Breaker Battlogue",
+      "imageKey": "build-0112"
+    },
+    {
+      "id": "build-0113",
+      "name": "Gundam Livelance Heaven",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Breaker Battlogue",
+      "releaseDate": "2021-11",
+      "releaseType": "Retail / Premium Bandai regional",
+      "kitSummary": "Gundam Livelance Heaven is represented by 1 certified High Grade physical presentation(s) associated with Gundam Livelance Heaven. The earliest controlled grade evidence is 2021-11. Supported presentation names include Gundam Livelance Heaven. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Livelance Heaven is the Build-origin customized machine documented for Gundam Livelance Heaven. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Livelance Heaven. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Livelance Heaven | Gundam Breaker Battlogue",
+      "imageKey": "build-0113"
+    },
+    {
+      "id": "build-0115",
+      "name": "Gundam Perfect Strike Freedom",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Breaker Battlogue",
+      "releaseDate": "2021-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Perfect Strike Freedom is represented by 2 certified High Grade physical presentation(s) associated with Gundam Perfect Strike Freedom, Gundam Perfect Strike Freedom Rouge. The earliest controlled grade evidence is 2021-12. Supported presentation names include Gundam Perfect Strike Freedom, Gundam Perfect Strike Freedom Rouge. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Perfect Strike Freedom is the Build-origin customized machine documented for Gundam Perfect Strike Freedom, Gundam Perfect Strike Freedom Rouge. The certified ledger links this High Grade entry to 2 physical presentation(s), including Gundam Perfect Strike Freedom, Gundam Perfect Strike Freedom Rouge. Maintained configurations include Standard, Rouge, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Perfect Strike Freedom | Gundam Perfect Strike Freedom Rouge | Gundam Breaker Battlogue | Gundam Build Metaverse",
+      "imageKey": "build-0115"
+    },
+    {
+      "id": "build-0108",
+      "name": "Gundam Anima[Rize]",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Diver Rize",
+      "releaseDate": "2020-08",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Anima[Rize] is represented by 1 certified High Grade physical presentation(s) associated with Gundam Anima[Rize]. The earliest controlled grade evidence is 2020-08. Supported presentation names include Gundam Anima[Rize]. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Anima[Rize] is the Build-origin customized machine documented for Gundam Anima[Rize]. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Anima[Rize]. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Anima[Rize] | Gundam Build Diver Rize",
+      "imageKey": "build-0108"
+    },
+    {
+      "id": "build-0082",
+      "name": "Galbaldy Rebake",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-06",
+      "releaseType": "Retail",
+      "kitSummary": "Galbaldy Rebake is represented by 1 certified High Grade physical presentation(s) associated with Galbaldy Rebake. The earliest controlled grade evidence is 2018-06. Supported presentation names include Galbaldy Rebake. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Galbaldy Rebake is the Build-origin customized machine documented for Galbaldy Rebake. The certified ledger links this High Grade entry to 1 physical presentation(s), including Galbaldy Rebake. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Galbaldy Rebake | Gundam Build Divers",
+      "imageKey": "build-0082"
+    },
+    {
+      "id": "build-0093",
+      "name": "GBN-Base Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2019-01",
+      "releaseType": "Retail",
+      "kitSummary": "GBN-Base Gundam is represented by 1 certified High Grade physical presentation(s) associated with GBN-Base Gundam. The earliest controlled grade evidence is 2019-01. Supported presentation names include GBN-Base Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "GBN-Base Gundam is the Build-origin customized machine documented for GBN-Base Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including GBN-Base Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "GBN-Base Gundam | Gundam Build Divers",
+      "imageKey": "build-0093"
+    },
+    {
+      "id": "build-0090",
+      "name": "GBN-Guard Frame",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-11",
+      "releaseType": "Retail",
+      "kitSummary": "GBN-Guard Frame is represented by 1 certified High Grade physical presentation(s) associated with GBN-Guard Frame. The earliest controlled grade evidence is 2018-11. Supported presentation names include GBN-Guard Frame. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "GBN-Guard Frame is the Build-origin customized machine documented for GBN-Guard Frame. The certified ledger links this High Grade entry to 1 physical presentation(s), including GBN-Guard Frame. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "GBN-Guard Frame | Gundam Build Divers",
+      "imageKey": "build-0090"
+    },
+    {
+      "id": "build-0083",
+      "name": "Geara Ghirarga",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-06",
+      "releaseType": "Retail",
+      "kitSummary": "Geara Ghirarga is represented by 1 certified High Grade physical presentation(s) associated with Geara Ghirarga. The earliest controlled grade evidence is 2018-06. Supported presentation names include Geara Ghirarga. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Geara Ghirarga is the Build-origin customized machine documented for Geara Ghirarga. The certified ledger links this High Grade entry to 1 physical presentation(s), including Geara Ghirarga. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Geara Ghirarga | Gundam Build Divers",
+      "imageKey": "build-0083"
+    },
+    {
+      "id": "build-0075",
+      "name": "GM III Beam Master",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-04",
+      "releaseType": "Retail",
+      "kitSummary": "GM III Beam Master is represented by 1 certified High Grade physical presentation(s) associated with GM III Beam Master. The earliest controlled grade evidence is 2018-04. Supported presentation names include GM III Beam Master. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "GM III Beam Master is the Build-origin customized machine documented for GM III Beam Master. The certified ledger links this High Grade entry to 1 physical presentation(s), including GM III Beam Master. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "GM III Beam Master | Gundam Build Divers",
+      "imageKey": "build-0075"
+    },
+    {
+      "id": "build-0076",
+      "name": "Grimoire Red Beret",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-04",
+      "releaseType": "Retail",
+      "kitSummary": "Grimoire Red Beret is represented by 1 certified High Grade physical presentation(s) associated with Grimoire Red Beret. The earliest controlled grade evidence is 2018-04. Supported presentation names include Grimoire Red Beret. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Grimoire Red Beret is the Build-origin customized machine documented for Grimoire Red Beret. The certified ledger links this High Grade entry to 1 physical presentation(s), including Grimoire Red Beret. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Grimoire Red Beret | Gundam Build Divers",
+      "imageKey": "build-0076"
+    },
+    {
+      "id": "build-0077",
+      "name": "Gundam 00 Diver",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-04",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam 00 Diver is represented by 6 certified High Grade physical presentation(s) associated with Gundam 00 Diver, Gundam 00 Diver Ace. The earliest controlled grade evidence is 2018-04. Supported presentation names include Gundam 00 Diver, Gundam 00 Diver Ace, Gundam 00 Sky, Gundam 00 Sky HWS Trans-Am Infinity Mode. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam 00 Diver is the Build-origin customized machine documented for Gundam 00 Diver, Gundam 00 Diver Ace. The certified ledger links this High Grade entry to 6 physical presentation(s), including Gundam 00 Diver, Gundam 00 Diver Ace, Gundam 00 Sky, Gundam 00 Sky HWS Trans-Am Infinity Mode. Maintained configurations include 00 Diver, Diver Ace, 00 Sky, 00 Sky HWS, 00 Sky Moebius. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam 00 Diver | Gundam 00 Diver Ace | Gundam 00 Sky | Gundam 00 Sky HWS Trans-Am Infinity Mode | Gundam 00 Sky Moebius | Gundam 00 Diver Arc | Gundam Build Divers | Gundam Build Divers Re:RISE | Gundam Build Metaverse",
+      "imageKey": "build-0077"
+    },
+    {
+      "id": "build-0071",
+      "name": "Gundam AGEII Magnum",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam AGEII Magnum is represented by 2 certified High Grade physical presentation(s) associated with Gundam AGEII Magnum, Gundam AGEII Magnum SV ver.. The earliest controlled grade evidence is 2018-03. Supported presentation names include Gundam AGEII Magnum, Gundam AGEII Magnum SV ver.. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam AGEII Magnum is the Build-origin customized machine documented for Gundam AGEII Magnum, Gundam AGEII Magnum SV ver.. The certified ledger links this High Grade entry to 2 physical presentation(s), including Gundam AGEII Magnum, Gundam AGEII Magnum SV ver.. Maintained configurations include Standard, SV, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam AGEII Magnum | Gundam AGEII Magnum SV ver. | Gundam Build Divers",
+      "imageKey": "build-0071"
+    },
+    {
+      "id": "build-0071-mg",
+      "name": "Gundam AGEII Magnum",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2019-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam AGEII Magnum is represented by 1 certified Master Grade physical presentation(s) associated with Gundam AGEII Magnum. The earliest controlled grade evidence is 2019-03. Supported presentation names include Gundam AGEII Magnum. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam AGEII Magnum is the Build-origin customized machine documented for Gundam AGEII Magnum. The certified ledger links this Master Grade entry to 1 physical presentation(s), including Gundam AGEII Magnum. Maintained configurations include Standard, SV, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam AGEII Magnum | Gundam AGEII Magnum SV ver. | Gundam Build Divers",
+      "imageKey": "build-0071"
+    },
+    {
+      "id": "build-0086",
+      "name": "Gundam Astray No-Name",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-08",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Astray No-Name is represented by 1 certified High Grade physical presentation(s) associated with Gundam Astray No-Name. The earliest controlled grade evidence is 2018-08. Supported presentation names include Gundam Astray No-Name. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Astray No-Name is the Build-origin customized machine documented for Gundam Astray No-Name. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Astray No-Name. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Astray No-Name | Gundam Build Divers",
+      "imageKey": "build-0086"
+    },
+    {
+      "id": "build-0085",
+      "name": "Gundam Jiyan Altron",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-07",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Jiyan Altron is represented by 1 certified High Grade physical presentation(s) associated with Gundam Jiyan Altron. The earliest controlled grade evidence is 2018-07. Supported presentation names include Gundam Jiyan Altron. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Jiyan Altron is the Build-origin customized machine documented for Gundam Jiyan Altron. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Jiyan Altron. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Jiyan Altron | Gundam Build Divers",
+      "imageKey": "build-0085"
+    },
+    {
+      "id": "build-0089",
+      "name": "Gundam Love Phantom",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-10",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Love Phantom is represented by 1 certified High Grade physical presentation(s) associated with Gundam Love Phantom. The earliest controlled grade evidence is 2018-10. Supported presentation names include Gundam Love Phantom. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Love Phantom is the Build-origin customized machine documented for Gundam Love Phantom. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Love Phantom. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Love Phantom | Gundam Build Divers",
+      "imageKey": "build-0089"
+    },
+    {
+      "id": "build-0078",
+      "name": "Haro Build Variants",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Non-scale",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-05",
+      "releaseType": "Retail",
+      "kitSummary": "Haro Build Variants is represented by 6 certified No Grade physical presentation(s) associated with Momo Haro, Ball Haro. The earliest controlled grade evidence is 2018-05. Supported presentation names include Momo Haro, Ball Haro, Mobile Haro, Zakrello Haro. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Haro Build Variants is the Build-origin customized machine documented for Momo Haro, Ball Haro. The certified ledger links this No Grade entry to 6 physical presentation(s), including Momo Haro, Ball Haro, Mobile Haro, Zakrello Haro. Maintained configurations include Momo Haro, Ball Haro, Mobile Haro, Zakrello Haro, Haro Loader. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Momo Haro | Ball Haro | Mobile Haro | Zakrello Haro | Haro Loader | Haro Fitter | Gundam Build Divers | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0078"
+    },
+    {
+      "id": "build-0087",
+      "name": "Impulse Gundam Build Custom",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-09",
+      "releaseType": "Retail",
+      "kitSummary": "Impulse Gundam Build Custom is represented by 2 certified High Grade physical presentation(s) associated with Impulse Gundam Arc, Impulse Gundam Lancier. The earliest controlled grade evidence is 2018-09. Supported presentation names include Impulse Gundam Arc, Impulse Gundam Lancier. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Impulse Gundam Build Custom is the Build-origin customized machine documented for Impulse Gundam Arc, Impulse Gundam Lancier. The certified ledger links this High Grade entry to 2 physical presentation(s), including Impulse Gundam Arc, Impulse Gundam Lancier. Maintained configurations include Arc, Lancier, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Impulse Gundam Arc | Impulse Gundam Lancier | Gundam Build Divers",
+      "imageKey": "build-0087"
+    },
+    {
+      "id": "build-0088",
+      "name": "Jegan Blast Master",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-09",
+      "releaseType": "Retail",
+      "kitSummary": "Jegan Blast Master is represented by 1 certified High Grade physical presentation(s) associated with Jegan Blast Master. The earliest controlled grade evidence is 2018-09. Supported presentation names include Jegan Blast Master. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Jegan Blast Master is the Build-origin customized machine documented for Jegan Blast Master. The certified ledger links this High Grade entry to 1 physical presentation(s), including Jegan Blast Master. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Jegan Blast Master | Gundam Build Divers",
+      "imageKey": "build-0088"
+    },
+    {
+      "id": "build-0084",
+      "name": "Leo NPD",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-06",
+      "releaseType": "Retail",
+      "kitSummary": "Leo NPD is represented by 1 certified High Grade physical presentation(s) associated with Leo NPD. The earliest controlled grade evidence is 2018-06. Supported presentation names include Leo NPD. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Leo NPD is the Build-origin customized machine documented for Leo NPD. The certified ledger links this High Grade entry to 1 physical presentation(s), including Leo NPD. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Leo NPD | Gundam Build Divers",
+      "imageKey": "build-0084"
+    },
+    {
+      "id": "build-0092",
+      "name": "Mobile Doll Sarah",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-12",
+      "releaseType": "Retail",
+      "kitSummary": "Mobile Doll Sarah is represented by 1 certified High Grade physical presentation(s) associated with Mobile Doll Sarah. The earliest controlled grade evidence is 2018-12. Supported presentation names include Mobile Doll Sarah. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Mobile Doll Sarah is the Build-origin customized machine documented for Mobile Doll Sarah. The certified ledger links this High Grade entry to 1 physical presentation(s), including Mobile Doll Sarah. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Mobile Doll Sarah | Gundam Build Divers",
+      "imageKey": "build-0092"
+    },
+    {
+      "id": "build-0079",
+      "name": "Momokapool",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-05",
+      "releaseType": "Retail",
+      "kitSummary": "Momokapool is represented by 1 certified High Grade physical presentation(s) associated with Momokapool. The earliest controlled grade evidence is 2018-05. Supported presentation names include Momokapool. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Momokapool is the Build-origin customized machine documented for Momokapool. The certified ledger links this High Grade entry to 1 physical presentation(s), including Momokapool. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Momokapool | Gundam Build Divers",
+      "imageKey": "build-0079"
+    },
+    {
+      "id": "build-0080",
+      "name": "Ogre GN-X",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-05",
+      "releaseType": "Retail",
+      "kitSummary": "Ogre GN-X is represented by 1 certified High Grade physical presentation(s) associated with Ogre GN-X. The earliest controlled grade evidence is 2018-05. Supported presentation names include Ogre GN-X. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Ogre GN-X is the Build-origin customized machine documented for Ogre GN-X. The certified ledger links this High Grade entry to 1 physical presentation(s), including Ogre GN-X. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Ogre GN-X | Gundam Build Divers",
+      "imageKey": "build-0080"
+    },
+    {
+      "id": "build-0081",
+      "name": "Seravee Gundam Scheherazade",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers",
+      "releaseDate": "2018-05",
+      "releaseType": "Retail",
+      "kitSummary": "Seravee Gundam Scheherazade is represented by 1 certified High Grade physical presentation(s) associated with Seravee Gundam Scheherazade. The earliest controlled grade evidence is 2018-05. Supported presentation names include Seravee Gundam Scheherazade. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Seravee Gundam Scheherazade is the Build-origin customized machine documented for Seravee Gundam Scheherazade. The certified ledger links this High Grade entry to 1 physical presentation(s), including Seravee Gundam Scheherazade. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Seravee Gundam Scheherazade | Gundam Build Divers",
+      "imageKey": "build-0081"
+    },
+    {
+      "id": "build-0102",
+      "name": "Gundam G-Else",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Break",
+      "releaseDate": "2020-03",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam G-Else is represented by 1 certified High Grade physical presentation(s) associated with Gundam G-Else. The earliest controlled grade evidence is 2020-03. Supported presentation names include Gundam G-Else. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam G-Else is the Build-origin customized machine documented for Gundam G-Else. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam G-Else. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam G-Else | Gundam Build Divers Break",
+      "imageKey": "build-0102"
+    },
+    {
+      "id": "build-0091",
+      "name": "Gundam Shining Break",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Break",
+      "releaseDate": "2018-12",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Shining Break is represented by 1 certified High Grade physical presentation(s) associated with Gundam Shining Break. The earliest controlled grade evidence is 2018-12. Supported presentation names include Gundam Shining Break. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Shining Break is the Build-origin customized machine documented for Gundam Shining Break. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Shining Break. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Shining Break | Gundam Build Divers Break",
+      "imageKey": "build-0091"
+    },
+    {
+      "id": "build-0094",
+      "name": "Gundam Zerachiel",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Break",
+      "releaseDate": "2019-02",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Zerachiel is represented by 1 certified High Grade physical presentation(s) associated with Gundam Zerachiel. The earliest controlled grade evidence is 2019-02. Supported presentation names include Gundam Zerachiel. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Zerachiel is the Build-origin customized machine documented for Gundam Zerachiel. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Zerachiel. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Zerachiel | Gundam Build Divers Break",
+      "imageKey": "build-0094"
+    },
+    {
+      "id": "build-0103",
+      "name": "Alus Earthree Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2020-04",
+      "releaseType": "Retail",
+      "kitSummary": "Alus Earthree Gundam is represented by 1 certified High Grade physical presentation(s) associated with Alus Earthree Gundam. The earliest controlled grade evidence is 2020-04. Supported presentation names include Alus Earthree Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Alus Earthree Gundam is the Build-origin customized machine documented for Alus Earthree Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Alus Earthree Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Alus Earthree Gundam | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0103"
+    },
+    {
+      "id": "build-0095",
+      "name": "Core Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2019-10",
+      "releaseType": "Retail",
+      "kitSummary": "Core Gundam is represented by 6 certified High Grade physical presentation(s) associated with Earthree Gundam, Core Gundam (G3 Color) & Veetwo Unit. The earliest controlled grade evidence is 2019-10. Supported presentation names include Earthree Gundam, Core Gundam (G3 Color) & Veetwo Unit, Core Gundam (Real Type Color) & Marsfour Unit, Jupitive Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Core Gundam is the Build-origin customized machine documented for Earthree Gundam, Core Gundam (G3 Color) & Veetwo Unit. The certified ledger links this High Grade entry to 6 physical presentation(s), including Earthree Gundam, Core Gundam (G3 Color) & Veetwo Unit, Core Gundam (Real Type Color) & Marsfour Unit, Jupitive Gundam. Maintained configurations include Earthree, Veetwo, Marsfour, Jupitive, Uraven. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Earthree Gundam | Core Gundam (G3 Color) & Veetwo Unit | Core Gundam (Real Type Color) & Marsfour Unit | Jupitive Gundam | Uraven Gundam | Plutine Gundam | Gundam Build Divers Re:RISE | Gundam Build Metaverse",
+      "imageKey": "build-0095"
+    },
+    {
+      "id": "build-0098",
+      "name": "Eldora Brute",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2019-12",
+      "releaseType": "Retail",
+      "kitSummary": "Eldora Brute is represented by 1 certified High Grade physical presentation(s) associated with Eldora Brute. The earliest controlled grade evidence is 2019-12. Supported presentation names include Eldora Brute. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Eldora Brute is the Build-origin customized machine documented for Eldora Brute. The certified ledger links this High Grade entry to 1 physical presentation(s), including Eldora Brute. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Eldora Brute | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0098"
+    },
+    {
+      "id": "build-0101",
+      "name": "Eldora Daughtress",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2020-02",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "Eldora Daughtress is represented by 1 certified High Grade physical presentation(s) associated with Eldora Daughtress. The earliest controlled grade evidence is 2020-02. Supported presentation names include Eldora Daughtress. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Eldora Daughtress is the Build-origin customized machine documented for Eldora Daughtress. The certified ledger links this High Grade entry to 1 physical presentation(s), including Eldora Daughtress. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Eldora Daughtress | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0101"
+    },
+    {
+      "id": "build-0109",
+      "name": "Eldora Windam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2020-09",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "Eldora Windam is represented by 1 certified High Grade physical presentation(s) associated with Eldora Windam. The earliest controlled grade evidence is 2020-09. Supported presentation names include Eldora Windam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Eldora Windam is the Build-origin customized machine documented for Eldora Windam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Eldora Windam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Eldora Windam | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0109"
+    },
+    {
+      "id": "build-0107",
+      "name": "Gundam Aegis Knight",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2020-08",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Aegis Knight is represented by 1 certified High Grade physical presentation(s) associated with Gundam Aegis Knight. The earliest controlled grade evidence is 2020-08. Supported presentation names include Gundam Aegis Knight. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Aegis Knight is the Build-origin customized machine documented for Gundam Aegis Knight. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Aegis Knight. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Aegis Knight | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0107"
+    },
+    {
+      "id": "build-0104",
+      "name": "Gundam GP-Rase-Two-Ten",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2020-04",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam GP-Rase-Two-Ten is represented by 1 certified High Grade physical presentation(s) associated with Gundam GP-Rase-Two-Ten. The earliest controlled grade evidence is 2020-04. Supported presentation names include Gundam GP-Rase-Two-Ten. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam GP-Rase-Two-Ten is the Build-origin customized machine documented for Gundam GP-Rase-Two-Ten. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam GP-Rase-Two-Ten. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam GP-Rase-Two-Ten | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0104"
+    },
+    {
+      "id": "build-0096",
+      "name": "Gundam Justice Knight",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2019-10",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Justice Knight is represented by 1 certified High Grade physical presentation(s) associated with Gundam Justice Knight. The earliest controlled grade evidence is 2019-10. Supported presentation names include Gundam Justice Knight. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Justice Knight is the Build-origin customized machine documented for Gundam Justice Knight. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Justice Knight. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Justice Knight | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0096"
+    },
+    {
+      "id": "build-0099",
+      "name": "Gundam Seltsam / Tertium",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2019-12",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Seltsam / Tertium is represented by 2 certified High Grade physical presentation(s) associated with Gundam Seltsam, Gundam Tertium. The earliest controlled grade evidence is 2019-12. Supported presentation names include Gundam Seltsam, Gundam Tertium. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Seltsam / Tertium is the Build-origin customized machine documented for Gundam Seltsam, Gundam Tertium. The certified ledger links this High Grade entry to 2 physical presentation(s), including Gundam Seltsam, Gundam Tertium. Maintained configurations include Seltsam, Tertium, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Seltsam | Gundam Tertium | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0099"
+    },
+    {
+      "id": "build-0106",
+      "name": "Gundam TRY AGE Magnum",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2020-07",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam TRY AGE Magnum is represented by 1 certified High Grade physical presentation(s) associated with Gundam TRY AGE Magnum. The earliest controlled grade evidence is 2020-07. Supported presentation names include Gundam TRY AGE Magnum. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam TRY AGE Magnum is the Build-origin customized machine documented for Gundam TRY AGE Magnum. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam TRY AGE Magnum. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam TRY AGE Magnum | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0106"
+    },
+    {
+      "id": "build-0111",
+      "name": "Load Astray Double Rebake",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2020-11",
+      "releaseType": "Retail",
+      "kitSummary": "Load Astray Double Rebake is represented by 1 certified High Grade physical presentation(s) associated with Load Astray Double Rebake. The earliest controlled grade evidence is 2020-11. Supported presentation names include Load Astray Double Rebake. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Load Astray Double Rebake is the Build-origin customized machine documented for Load Astray Double Rebake. The certified ledger links this High Grade entry to 1 physical presentation(s), including Load Astray Double Rebake. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Load Astray Double Rebake | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0111"
+    },
+    {
+      "id": "build-0100",
+      "name": "Mobile Doll May",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2020-01",
+      "releaseType": "Retail",
+      "kitSummary": "Mobile Doll May is represented by 1 certified High Grade physical presentation(s) associated with Mobile Doll May. The earliest controlled grade evidence is 2020-01. Supported presentation names include Mobile Doll May. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Mobile Doll May is the Build-origin customized machine documented for Mobile Doll May. The certified ledger links this High Grade entry to 1 physical presentation(s), including Mobile Doll May. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Mobile Doll May | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0100"
+    },
+    {
+      "id": "build-0097",
+      "name": "Nu-Zeon Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2019-11",
+      "releaseType": "Retail",
+      "kitSummary": "Nu-Zeon Gundam is represented by 1 certified High Grade physical presentation(s) associated with Nu-Zeon Gundam. The earliest controlled grade evidence is 2019-11. Supported presentation names include Nu-Zeon Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Nu-Zeon Gundam is the Build-origin customized machine documented for Nu-Zeon Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Nu-Zeon Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Nu-Zeon Gundam | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0097"
+    },
+    {
+      "id": "build-0110",
+      "name": "Re:Rising Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2020-09",
+      "releaseType": "Retail",
+      "kitSummary": "Re:Rising Gundam is represented by 1 certified High Grade physical presentation(s) associated with Re:Rising Gundam. The earliest controlled grade evidence is 2020-09. Supported presentation names include Re:Rising Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Re:Rising Gundam is the Build-origin customized machine documented for Re:Rising Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Re:Rising Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Re:Rising Gundam | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0110"
+    },
+    {
+      "id": "build-0105",
+      "name": "Wodom Pod",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Divers Re:RISE",
+      "releaseDate": "2020-06",
+      "releaseType": "Retail",
+      "kitSummary": "Wodom Pod is represented by 1 certified High Grade physical presentation(s) associated with Wodom Pod. The earliest controlled grade evidence is 2020-06. Supported presentation names include Wodom Pod. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Wodom Pod is the Build-origin customized machine documented for Wodom Pod. The certified ledger links this High Grade entry to 1 physical presentation(s), including Wodom Pod. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Wodom Pod | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0105"
+    },
+    {
+      "id": "build-0011",
+      "name": "Build Akatsuki Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2013-12",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Build Akatsuki Gundam is represented by 1 certified High Grade physical presentation(s) associated with Build Akatsuki Gundam. The earliest controlled grade evidence is 2013-12. Supported presentation names include Build Akatsuki Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Build Akatsuki Gundam is the Build-origin customized machine documented for Build Akatsuki Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Build Akatsuki Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Build Akatsuki Gundam | Gundam Build Fighters",
+      "imageKey": "build-0011"
+    },
+    {
+      "id": "build-0009",
+      "name": "Build Gundam Mk-II",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2013-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Build Gundam Mk-II is represented by 1 certified High Grade physical presentation(s) associated with Build Gundam Mk-II. The earliest controlled grade evidence is 2013-11. Supported presentation names include Build Gundam Mk-II. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Build Gundam Mk-II is the Build-origin customized machine documented for Build Gundam Mk-II. The certified ledger links this High Grade entry to 1 physical presentation(s), including Build Gundam Mk-II. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Build Gundam Mk-II | Gundam Build Fighters",
+      "imageKey": "build-0009"
+    },
+    {
+      "id": "build-0009-mg",
+      "name": "Build Gundam Mk-II",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2014-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Build Gundam Mk-II is represented by 1 certified Master Grade physical presentation(s) associated with Build Gundam Mk-II. The earliest controlled grade evidence is 2014-03. Supported presentation names include Build Gundam Mk-II. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Build Gundam Mk-II is the Build-origin customized machine documented for Build Gundam Mk-II. The certified ledger links this Master Grade entry to 1 physical presentation(s), including Build Gundam Mk-II. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Build Gundam Mk-II | Gundam Build Fighters",
+      "imageKey": "build-0009"
+    },
+    {
+      "id": "build-0007-eg",
+      "name": "Build Strike Gundam",
+      "modelNumber": "",
+      "grade": "Entry Grade",
+      "availableGrades": [
+        "Entry Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2023-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Build Strike Gundam is represented by 1 certified Entry Grade physical presentation(s) associated with Build Strike Exceed Galaxy. The earliest controlled grade evidence is 2023-10. Supported presentation names include Build Strike Exceed Galaxy. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Build Strike Gundam is the Build-origin customized machine documented for Build Strike Exceed Galaxy. The certified ledger links this Entry Grade entry to 1 physical presentation(s), including Build Strike Exceed Galaxy. Maintained configurations include Full Package, Star Build / Plavsky Wing, Galaxy Cosmos, Exceed Galaxy, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Build Strike Gundam Full Package | Star Build Strike Gundam Plavsky Wing | Build Strike Galaxy Cosmos | Build Strike Exceed Galaxy | Gundam Build Fighters | Gundam Build Fighters: GM Counterattack | Gundam Build Metaverse",
+      "imageKey": "build-0007"
+    },
+    {
+      "id": "build-0007",
+      "name": "Build Strike Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2013-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Build Strike Gundam is represented by 3 certified High Grade physical presentation(s) associated with Build Strike Gundam Full Package, Star Build Strike Gundam Plavsky Wing. The earliest controlled grade evidence is 2013-10. Supported presentation names include Build Strike Gundam Full Package, Star Build Strike Gundam Plavsky Wing, Build Strike Galaxy Cosmos. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Build Strike Gundam is the Build-origin customized machine documented for Build Strike Gundam Full Package, Star Build Strike Gundam Plavsky Wing. The certified ledger links this High Grade entry to 3 physical presentation(s), including Build Strike Gundam Full Package, Star Build Strike Gundam Plavsky Wing, Build Strike Galaxy Cosmos. Maintained configurations include Full Package, Star Build / Plavsky Wing, Galaxy Cosmos, Exceed Galaxy, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Build Strike Gundam Full Package | Star Build Strike Gundam Plavsky Wing | Build Strike Galaxy Cosmos | Build Strike Exceed Galaxy | Gundam Build Fighters | Gundam Build Fighters: GM Counterattack | Gundam Build Metaverse",
+      "imageKey": "build-0007"
+    },
+    {
+      "id": "build-0007-rg",
+      "name": "Build Strike Gundam",
+      "modelNumber": "",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2016-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Build Strike Gundam is represented by 1 certified Real Grade physical presentation(s) associated with Build Strike Gundam Full Package. The earliest controlled grade evidence is 2016-12. Supported presentation names include Build Strike Gundam Full Package. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Build Strike Gundam is the Build-origin customized machine documented for Build Strike Gundam Full Package. The certified ledger links this Real Grade entry to 1 physical presentation(s), including Build Strike Gundam Full Package. Maintained configurations include Full Package, Star Build / Plavsky Wing, Galaxy Cosmos, Exceed Galaxy, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Build Strike Gundam Full Package | Star Build Strike Gundam Plavsky Wing | Build Strike Galaxy Cosmos | Build Strike Exceed Galaxy | Gundam Build Fighters | Gundam Build Fighters: GM Counterattack | Gundam Build Metaverse",
+      "imageKey": "build-0007"
+    },
+    {
+      "id": "build-0007-mg",
+      "name": "Build Strike Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2014-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Build Strike Gundam is represented by 1 certified Master Grade physical presentation(s) associated with Build Strike Gundam Full Package. The earliest controlled grade evidence is 2014-01. Supported presentation names include Build Strike Gundam Full Package. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Build Strike Gundam is the Build-origin customized machine documented for Build Strike Gundam Full Package. The certified ledger links this Master Grade entry to 1 physical presentation(s), including Build Strike Gundam Full Package. Maintained configurations include Full Package, Star Build / Plavsky Wing, Galaxy Cosmos, Exceed Galaxy, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Build Strike Gundam Full Package | Star Build Strike Gundam Plavsky Wing | Build Strike Galaxy Cosmos | Build Strike Exceed Galaxy | Gundam Build Fighters | Gundam Build Fighters: GM Counterattack | Gundam Build Metaverse",
+      "imageKey": "build-0007"
+    },
+    {
+      "id": "build-0019",
+      "name": "Crossbone Gundam Maoh",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2014-04",
+      "releaseType": "Retail",
+      "kitSummary": "Crossbone Gundam Maoh is represented by 1 certified High Grade physical presentation(s) associated with Crossbone Gundam Maoh. The earliest controlled grade evidence is 2014-04. Supported presentation names include Crossbone Gundam Maoh. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Crossbone Gundam Maoh is the Build-origin customized machine documented for Crossbone Gundam Maoh. The certified ledger links this High Grade entry to 1 physical presentation(s), including Crossbone Gundam Maoh. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Crossbone Gundam Maoh | Gundam Build Fighters",
+      "imageKey": "build-0019"
+    },
+    {
+      "id": "build-0015",
+      "name": "GM Sniper K9",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2014-02",
+      "releaseType": "Retail",
+      "kitSummary": "GM Sniper K9 is represented by 1 certified High Grade physical presentation(s) associated with GM Sniper K9. The earliest controlled grade evidence is 2014-02. Supported presentation names include GM Sniper K9. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "GM Sniper K9 is the Build-origin customized machine documented for GM Sniper K9. The certified ledger links this High Grade entry to 1 physical presentation(s), including GM Sniper K9. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "GM Sniper K9 | Gundam Build Fighters",
+      "imageKey": "build-0015"
+    },
+    {
+      "id": "build-0020",
+      "name": "Gouf R35",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2014-06",
+      "releaseType": "Retail",
+      "kitSummary": "Gouf R35 is represented by 1 certified High Grade physical presentation(s) associated with Gouf R35. The earliest controlled grade evidence is 2014-06. Supported presentation names include Gouf R35. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gouf R35 is the Build-origin customized machine documented for Gouf R35. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gouf R35. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gouf R35 | Gundam Build Fighters",
+      "imageKey": "build-0020"
+    },
+    {
+      "id": "build-0017",
+      "name": "Gundam Amazing Exia",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2014-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Amazing Exia is represented by 2 certified High Grade physical presentation(s) associated with Gundam Exia Dark Matter, Gundam Amazing Exia. The earliest controlled grade evidence is 2014-03. Supported presentation names include Gundam Exia Dark Matter, Gundam Amazing Exia. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Amazing Exia is the Build-origin customized machine documented for Gundam Exia Dark Matter, Gundam Amazing Exia. The certified ledger links this High Grade entry to 2 physical presentation(s), including Gundam Exia Dark Matter, Gundam Amazing Exia. Maintained configurations include Amazing Exia, Exia Dark Matter, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Exia Dark Matter | Gundam Amazing Exia | Gundam Build Fighters",
+      "imageKey": "build-0017"
+    },
+    {
+      "id": "build-0017-mg",
+      "name": "Gundam Amazing Exia",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2015-02",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Amazing Exia is represented by 1 certified Master Grade physical presentation(s) associated with Gundam Exia Dark Matter. The earliest controlled grade evidence is 2015-02. Supported presentation names include Gundam Exia Dark Matter. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Amazing Exia is the Build-origin customized machine documented for Gundam Exia Dark Matter. The certified ledger links this Master Grade entry to 1 physical presentation(s), including Gundam Exia Dark Matter. Maintained configurations include Amazing Exia, Exia Dark Matter, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Exia Dark Matter | Gundam Amazing Exia | Gundam Build Fighters",
+      "imageKey": "build-0017"
+    },
+    {
+      "id": "build-0026",
+      "name": "Gundam Dynames Arm Arms",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2014-12",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Gundam Dynames Arm Arms is represented by 1 certified High Grade physical presentation(s) associated with Gundam Dynames Arm Arms. The earliest controlled grade evidence is 2014-12. Supported presentation names include Gundam Dynames Arm Arms. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Dynames Arm Arms is the Build-origin customized machine documented for Gundam Dynames Arm Arms. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Dynames Arm Arms. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Dynames Arm Arms | Gundam Build Fighters",
+      "imageKey": "build-0026"
+    },
+    {
+      "id": "build-0010",
+      "name": "Gundam X Maoh",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2013-11",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam X Maoh is represented by 1 certified High Grade physical presentation(s) associated with Gundam X Maoh. The earliest controlled grade evidence is 2013-11. Supported presentation names include Gundam X Maoh. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam X Maoh is the Build-origin customized machine documented for Gundam X Maoh. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam X Maoh. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam X Maoh | Gundam Build Fighters",
+      "imageKey": "build-0010"
+    },
+    {
+      "id": "build-0024",
+      "name": "Gyan Gya Gyan",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2014-11",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Gyan Gya Gyan is represented by 1 certified High Grade physical presentation(s) associated with Gyan Gya Gyan. The earliest controlled grade evidence is 2014-11. Supported presentation names include Gyan Gya Gyan. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gyan Gya Gyan is the Build-origin customized machine documented for Gyan Gya Gyan. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gyan Gya Gyan. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gyan Gya Gyan | Gundam Build Fighters",
+      "imageKey": "build-0024"
+    },
+    {
+      "id": "build-0014",
+      "name": "Kampfer Amazing",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2014-01",
+      "releaseType": "Retail",
+      "kitSummary": "Kampfer Amazing is represented by 1 certified High Grade physical presentation(s) associated with Kampfer Amazing. The earliest controlled grade evidence is 2014-01. Supported presentation names include Kampfer Amazing. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Kampfer Amazing is the Build-origin customized machine documented for Kampfer Amazing. The certified ledger links this High Grade entry to 1 physical presentation(s), including Kampfer Amazing. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Kampfer Amazing | Gundam Build Fighters",
+      "imageKey": "build-0014"
+    },
+    {
+      "id": "build-0018",
+      "name": "Miss Sazabi",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2014-03",
+      "releaseType": "Retail",
+      "kitSummary": "Miss Sazabi is represented by 1 certified High Grade physical presentation(s) associated with Miss Sazabi. The earliest controlled grade evidence is 2014-03. Supported presentation names include Miss Sazabi. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Miss Sazabi is the Build-origin customized machine documented for Miss Sazabi. The certified ledger links this High Grade entry to 1 physical presentation(s), including Miss Sazabi. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Miss Sazabi | Gundam Build Fighters",
+      "imageKey": "build-0018"
+    },
+    {
+      "id": "build-0016",
+      "name": "Qubeley Papillon",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2014-02",
+      "releaseType": "Retail",
+      "kitSummary": "Qubeley Papillon is represented by 1 certified High Grade physical presentation(s) associated with Qubeley Papillon. The earliest controlled grade evidence is 2014-02. Supported presentation names include Qubeley Papillon. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Qubeley Papillon is the Build-origin customized machine documented for Qubeley Papillon. The certified ledger links this High Grade entry to 1 physical presentation(s), including Qubeley Papillon. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Qubeley Papillon | Gundam Build Fighters",
+      "imageKey": "build-0016"
+    },
+    {
+      "id": "build-0012",
+      "name": "Sengoku Astray Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2013-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Sengoku Astray Gundam is represented by 1 certified High Grade physical presentation(s) associated with Sengoku Astray Gundam. The earliest controlled grade evidence is 2013-12. Supported presentation names include Sengoku Astray Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Sengoku Astray Gundam is the Build-origin customized machine documented for Sengoku Astray Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Sengoku Astray Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Sengoku Astray Gundam | Gundam Build Fighters",
+      "imageKey": "build-0012"
+    },
+    {
+      "id": "build-0012-mg",
+      "name": "Sengoku Astray Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2014-02",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Sengoku Astray Gundam is represented by 1 certified Master Grade physical presentation(s) associated with Sengoku Astray Gundam. The earliest controlled grade evidence is 2014-02. Supported presentation names include Sengoku Astray Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Sengoku Astray Gundam is the Build-origin customized machine documented for Sengoku Astray Gundam. The certified ledger links this Master Grade entry to 1 physical presentation(s), including Sengoku Astray Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Sengoku Astray Gundam | Gundam Build Fighters",
+      "imageKey": "build-0012"
+    },
+    {
+      "id": "build-0013",
+      "name": "Wing Gundam Fenice",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2013-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Wing Gundam Fenice is represented by 3 certified High Grade physical presentation(s) associated with Wing Gundam Fenice, Gundam Fenice Rinascita. The earliest controlled grade evidence is 2013-12. Supported presentation names include Wing Gundam Fenice, Gundam Fenice Rinascita, Gundam Fenice Liberta. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Wing Gundam Fenice is the Build-origin customized machine documented for Wing Gundam Fenice, Gundam Fenice Rinascita. The certified ledger links this High Grade entry to 3 physical presentation(s), including Wing Gundam Fenice, Gundam Fenice Rinascita, Gundam Fenice Liberta. Maintained configurations include Fenice, Rinascita, Liberta, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Wing Gundam Fenice | Gundam Fenice Rinascita | Gundam Fenice Liberta | Gundam Build Fighters | Gundam Build Fighters: GM Counterattack",
+      "imageKey": "build-0013"
+    },
+    {
+      "id": "build-0013-mg",
+      "name": "Wing Gundam Fenice",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2015-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Wing Gundam Fenice is represented by 1 certified Master Grade physical presentation(s) associated with Gundam Fenice Rinascita. The earliest controlled grade evidence is 2015-06. Supported presentation names include Gundam Fenice Rinascita. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Wing Gundam Fenice is the Build-origin customized machine documented for Gundam Fenice Rinascita. The certified ledger links this Master Grade entry to 1 physical presentation(s), including Gundam Fenice Rinascita. Maintained configurations include Fenice, Rinascita, Liberta, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Wing Gundam Fenice | Gundam Fenice Rinascita | Gundam Fenice Liberta | Gundam Build Fighters | Gundam Build Fighters: GM Counterattack",
+      "imageKey": "build-0013"
+    },
+    {
+      "id": "build-0008",
+      "name": "Zaku Amazing",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters",
+      "releaseDate": "2013-10",
+      "releaseType": "Retail",
+      "kitSummary": "Zaku Amazing is represented by 1 certified High Grade physical presentation(s) associated with Zaku Amazing. The earliest controlled grade evidence is 2013-10. Supported presentation names include Zaku Amazing. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Zaku Amazing is the Build-origin customized machine documented for Zaku Amazing. The certified ledger links this High Grade entry to 1 physical presentation(s), including Zaku Amazing. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Zaku Amazing | Gundam Build Fighters",
+      "imageKey": "build-0008"
+    },
+    {
+      "id": "build-0042",
+      "name": "Cathedral Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Amazing",
+      "releaseDate": "2015-08",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Cathedral Gundam is represented by 1 certified High Grade physical presentation(s) associated with Cathedral Gundam. The earliest controlled grade evidence is 2015-08. Supported presentation names include Cathedral Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Cathedral Gundam is the Build-origin customized machine documented for Cathedral Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Cathedral Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Cathedral Gundam | Gundam Build Fighters Amazing",
+      "imageKey": "build-0042"
+    },
+    {
+      "id": "build-0047",
+      "name": "Gilla-Shiki",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Amazing",
+      "releaseDate": "2016-02",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Gilla-Shiki is represented by 1 certified High Grade physical presentation(s) associated with Gilla-Shiki. The earliest controlled grade evidence is 2016-02. Supported presentation names include Gilla-Shiki. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gilla-Shiki is the Build-origin customized machine documented for Gilla-Shiki. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gilla-Shiki. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gilla-Shiki | Gundam Build Fighters Amazing",
+      "imageKey": "build-0047"
+    },
+    {
+      "id": "build-0048",
+      "name": "Lightning Zeta Gundam Aspros",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Amazing",
+      "releaseDate": "2016-06",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Lightning Zeta Gundam Aspros is represented by 1 certified High Grade physical presentation(s) associated with Lightning Zeta Gundam Aspros. The earliest controlled grade evidence is 2016-06. Supported presentation names include Lightning Zeta Gundam Aspros. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Lightning Zeta Gundam Aspros is the Build-origin customized machine documented for Lightning Zeta Gundam Aspros. The certified ledger links this High Grade entry to 1 physical presentation(s), including Lightning Zeta Gundam Aspros. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Lightning Zeta Gundam Aspros | Gundam Build Fighters Amazing",
+      "imageKey": "build-0048"
+    },
+    {
+      "id": "build-0062",
+      "name": "Accelerate GN-X",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Amazing Ready",
+      "releaseDate": "2017-10",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Accelerate GN-X is represented by 1 certified High Grade physical presentation(s) associated with Accelerate GN-X. The earliest controlled grade evidence is 2017-10. Supported presentation names include Accelerate GN-X. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Accelerate GN-X is the Build-origin customized machine documented for Accelerate GN-X. The certified ledger links this High Grade entry to 1 physical presentation(s), including Accelerate GN-X. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Accelerate GN-X | Gundam Build Fighters Amazing Ready",
+      "imageKey": "build-0062"
+    },
+    {
+      "id": "build-0055",
+      "name": "Amazing Strike Freedom Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Amazing Ready",
+      "releaseDate": "2017-03",
+      "releaseType": "Retail",
+      "kitSummary": "Amazing Strike Freedom Gundam is represented by 1 certified High Grade physical presentation(s) associated with Amazing Strike Freedom Gundam. The earliest controlled grade evidence is 2017-03. Supported presentation names include Amazing Strike Freedom Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Amazing Strike Freedom Gundam is the Build-origin customized machine documented for Amazing Strike Freedom Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Amazing Strike Freedom Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Amazing Strike Freedom Gundam | Gundam Build Fighters Amazing Ready",
+      "imageKey": "build-0055"
+    },
+    {
+      "id": "build-0049",
+      "name": "Ghost Jegan",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Amazing Ready",
+      "releaseDate": "2016-08",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Ghost Jegan is represented by 2 certified High Grade physical presentation(s) associated with Ghost Jegan F, Ghost Jegan M. The earliest controlled grade evidence is 2016-08. Supported presentation names include Ghost Jegan F, Ghost Jegan M. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Ghost Jegan is the Build-origin customized machine documented for Ghost Jegan F, Ghost Jegan M. The certified ledger links this High Grade entry to 2 physical presentation(s), including Ghost Jegan F, Ghost Jegan M. Maintained configurations include F, M, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Ghost Jegan F | Ghost Jegan M | Gundam Build Fighters Amazing Ready",
+      "imageKey": "build-0049"
+    },
+    {
+      "id": "build-0072",
+      "name": "Gundam M91",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Amazing Ready",
+      "releaseDate": "2018-03",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Gundam M91 is represented by 1 certified High Grade physical presentation(s) associated with Gundam M91. The earliest controlled grade evidence is 2018-03. Supported presentation names include Gundam M91. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam M91 is the Build-origin customized machine documented for Gundam M91. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam M91. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam M91 | Gundam Build Fighters Amazing Ready",
+      "imageKey": "build-0072"
+    },
+    {
+      "id": "build-0056",
+      "name": "Gundam Schwarzritter",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Amazing Ready",
+      "releaseDate": "2017-05",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Schwarzritter is represented by 1 certified High Grade physical presentation(s) associated with Gundam Schwarzritter. The earliest controlled grade evidence is 2017-05. Supported presentation names include Gundam Schwarzritter. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Schwarzritter is the Build-origin customized machine documented for Gundam Schwarzritter. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Schwarzritter. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Schwarzritter | Gundam Build Fighters Amazing Ready",
+      "imageKey": "build-0056"
+    },
+    {
+      "id": "build-0059",
+      "name": "Hambrabi Suban",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Amazing Ready",
+      "releaseDate": "2017-08",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Hambrabi Suban is represented by 1 certified High Grade physical presentation(s) associated with Hambrabi Suban. The earliest controlled grade evidence is 2017-08. Supported presentation names include Hambrabi Suban. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Hambrabi Suban is the Build-origin customized machine documented for Hambrabi Suban. The certified ledger links this High Grade entry to 1 physical presentation(s), including Hambrabi Suban. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Hambrabi Suban | Gundam Build Fighters Amazing Ready",
+      "imageKey": "build-0059"
+    },
+    {
+      "id": "build-0054",
+      "name": "Lunagazer Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Amazing Ready",
+      "releaseDate": "2017-01",
+      "releaseType": "Retail",
+      "kitSummary": "Lunagazer Gundam is represented by 1 certified High Grade physical presentation(s) associated with Lunagazer Gundam. The earliest controlled grade evidence is 2017-01. Supported presentation names include Lunagazer Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Lunagazer Gundam is the Build-origin customized machine documented for Lunagazer Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Lunagazer Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Lunagazer Gundam | Gundam Build Fighters Amazing Ready",
+      "imageKey": "build-0054"
+    },
+    {
+      "id": "build-0074",
+      "name": "Tall Strike Gundam Glitter",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Amazing Ready",
+      "releaseDate": "2018-03",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Tall Strike Gundam Glitter is represented by 1 certified High Grade physical presentation(s) associated with Tall Strike Gundam Glitter. The earliest controlled grade evidence is 2018-03. Supported presentation names include Tall Strike Gundam Glitter. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Tall Strike Gundam Glitter is the Build-origin customized machine documented for Tall Strike Gundam Glitter. The certified ledger links this High Grade entry to 1 physical presentation(s), including Tall Strike Gundam Glitter. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Tall Strike Gundam Glitter | Gundam Build Fighters Amazing Ready",
+      "imageKey": "build-0074"
+    },
+    {
+      "id": "build-0068",
+      "name": "Cherudim Gundam SAGA Type.GBF",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Battlogue",
+      "releaseDate": "2018-01",
+      "releaseType": "Retail",
+      "kitSummary": "Cherudim Gundam SAGA Type.GBF is represented by 1 certified High Grade physical presentation(s) associated with Cherudim Gundam SAGA Type.GBF. The earliest controlled grade evidence is 2018-01. Supported presentation names include Cherudim Gundam SAGA Type.GBF. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Cherudim Gundam SAGA Type.GBF is the Build-origin customized machine documented for Cherudim Gundam SAGA Type.GBF. The certified ledger links this High Grade entry to 1 physical presentation(s), including Cherudim Gundam SAGA Type.GBF. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Cherudim Gundam SAGA Type.GBF | Gundam Build Fighters Battlogue",
+      "imageKey": "build-0068"
+    },
+    {
+      "id": "build-0057",
+      "name": "Chinagguy",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Battlogue",
+      "releaseDate": "2017-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Chinagguy is represented by 2 certified High Grade physical presentation(s) associated with Chinagguy, Chinyagguy. The earliest controlled grade evidence is 2017-06. Supported presentation names include Chinagguy, Chinyagguy. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Chinagguy is the Build-origin customized machine documented for Chinagguy, Chinyagguy. The certified ledger links this High Grade entry to 2 physical presentation(s), including Chinagguy, Chinyagguy. Maintained configurations include Chinagguy, Chinyagguy, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Chinagguy | Chinyagguy | Gundam Build Fighters Battlogue | Gundam Build Fighters Amazing",
+      "imageKey": "build-0057"
+    },
+    {
+      "id": "build-0058",
+      "name": "GM/GM",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Battlogue",
+      "releaseDate": "2017-08",
+      "releaseType": "Retail",
+      "kitSummary": "GM/GM is represented by 1 certified High Grade physical presentation(s) associated with GM/GM. The earliest controlled grade evidence is 2017-08. Supported presentation names include GM/GM. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "GM/GM is the Build-origin customized machine documented for GM/GM. The certified ledger links this High Grade entry to 1 physical presentation(s), including GM/GM. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "GM/GM | Gundam Build Fighters Battlogue",
+      "imageKey": "build-0058"
+    },
+    {
+      "id": "build-0069",
+      "name": "GN-XIV Type.GBF",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Battlogue",
+      "releaseDate": "2018-02",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "GN-XIV Type.GBF is represented by 1 certified High Grade physical presentation(s) associated with GN-XIV Type.GBF. The earliest controlled grade evidence is 2018-02. Supported presentation names include GN-XIV Type.GBF. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "GN-XIV Type.GBF is the Build-origin customized machine documented for GN-XIV Type.GBF. The certified ledger links this High Grade entry to 1 physical presentation(s), including GN-XIV Type.GBF. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "GN-XIV Type.GBF | Gundam Build Fighters Battlogue",
+      "imageKey": "build-0069"
+    },
+    {
+      "id": "build-0064",
+      "name": "Gundam Lightning Black Warrior",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Battlogue",
+      "releaseDate": "2017-10",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Lightning Black Warrior is represented by 1 certified High Grade physical presentation(s) associated with Gundam Lightning Black Warrior. The earliest controlled grade evidence is 2017-10. Supported presentation names include Gundam Lightning Black Warrior. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Lightning Black Warrior is the Build-origin customized machine documented for Gundam Lightning Black Warrior. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Lightning Black Warrior. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Lightning Black Warrior | Gundam Build Fighters Battlogue",
+      "imageKey": "build-0064"
+    },
+    {
+      "id": "build-0061",
+      "name": "Gyanko Gunpla",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Battlogue",
+      "releaseDate": "2017-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gyanko Gunpla is represented by 2 certified High Grade physical presentation(s) associated with Hyper Gyanko, Rick-Do Gyanko. The earliest controlled grade evidence is 2017-09. Supported presentation names include Hyper Gyanko, Rick-Do Gyanko. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gyanko Gunpla is the Build-origin customized machine documented for Hyper Gyanko, Rick-Do Gyanko. The certified ledger links this High Grade entry to 2 physical presentation(s), including Hyper Gyanko, Rick-Do Gyanko. Maintained configurations include Hyper Gyanko, Rick-Do Gyanko, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Hyper Gyanko | Rick-Do Gyanko | Gundam Build Fighters Battlogue",
+      "imageKey": "build-0061"
+    },
+    {
+      "id": "build-0073",
+      "name": "Mrs. Loheng-rinko",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Battlogue",
+      "releaseDate": "2018-03",
+      "releaseType": "Retail",
+      "kitSummary": "Mrs. Loheng-rinko is represented by 1 certified High Grade physical presentation(s) associated with Mrs. Loheng-rinko. The earliest controlled grade evidence is 2018-03. Supported presentation names include Mrs. Loheng-rinko. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Mrs. Loheng-rinko is the Build-origin customized machine documented for Mrs. Loheng-rinko. The certified ledger links this High Grade entry to 1 physical presentation(s), including Mrs. Loheng-rinko. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Mrs. Loheng-rinko | Gundam Build Fighters Battlogue",
+      "imageKey": "build-0073"
+    },
+    {
+      "id": "build-0060",
+      "name": "Ninpulse Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Battlogue",
+      "releaseDate": "2017-08",
+      "releaseType": "Retail",
+      "kitSummary": "Ninpulse Gundam is represented by 1 certified High Grade physical presentation(s) associated with Ninpulse Gundam. The earliest controlled grade evidence is 2017-08. Supported presentation names include Ninpulse Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Ninpulse Gundam is the Build-origin customized machine documented for Ninpulse Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Ninpulse Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Ninpulse Gundam | Gundam Build Fighters Battlogue",
+      "imageKey": "build-0060"
+    },
+    {
+      "id": "build-0067",
+      "name": "Reversible Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Battlogue",
+      "releaseDate": "2017-12",
+      "releaseType": "Retail",
+      "kitSummary": "Reversible Gundam is represented by 1 certified High Grade physical presentation(s) associated with Reversible Gundam. The earliest controlled grade evidence is 2017-12. Supported presentation names include Reversible Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Reversible Gundam is the Build-origin customized machine documented for Reversible Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Reversible Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Reversible Gundam | Gundam Build Fighters Battlogue",
+      "imageKey": "build-0067"
+    },
+    {
+      "id": "build-0070",
+      "name": "Striker GN-X",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Battlogue",
+      "releaseDate": "2018-02",
+      "releaseType": "Retail",
+      "kitSummary": "Striker GN-X is represented by 1 certified High Grade physical presentation(s) associated with Striker GN-X. The earliest controlled grade evidence is 2018-02. Supported presentation names include Striker GN-X. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Striker GN-X is the Build-origin customized machine documented for Striker GN-X. The certified ledger links this High Grade entry to 1 physical presentation(s), including Striker GN-X. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Striker GN-X | Gundam Build Fighters Battlogue",
+      "imageKey": "build-0070"
+    },
+    {
+      "id": "build-0046",
+      "name": "Turn A Gundam Shin",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Honoo",
+      "releaseDate": "2015-11",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Turn A Gundam Shin is represented by 1 certified High Grade physical presentation(s) associated with Turn A Gundam Shin. The earliest controlled grade evidence is 2015-11. Supported presentation names include Turn A Gundam Shin. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Turn A Gundam Shin is the Build-origin customized machine documented for Turn A Gundam Shin. The certified ledger links this High Grade entry to 1 physical presentation(s), including Turn A Gundam Shin. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Turn A Gundam Shin | Gundam Build Fighters Honoo",
+      "imageKey": "build-0046"
+    },
+    {
+      "id": "build-0021",
+      "name": "Burning Gundam Build Family",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2014-10",
+      "releaseType": "Retail",
+      "kitSummary": "Burning Gundam Build Family is represented by 5 certified High Grade physical presentation(s) associated with Build Burning Gundam, Try Burning Gundam. The earliest controlled grade evidence is 2014-10. Supported presentation names include Build Burning Gundam, Try Burning Gundam, Kamiki Burning Gundam, Star Burning Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Burning Gundam Build Family is the Build-origin customized machine documented for Build Burning Gundam, Try Burning Gundam. The certified ledger links this High Grade entry to 5 physical presentation(s), including Build Burning Gundam, Try Burning Gundam, Kamiki Burning Gundam, Star Burning Gundam. Maintained configurations include Build Burning, Try Burning, Kamiki Burning, Star Burning, Shin Burning. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Build Burning Gundam | Try Burning Gundam | Kamiki Burning Gundam | Star Burning Gundam | Shin Burning Gundam | Gundam Build Fighters Try | Gundam Build Fighters Battlogue | Gundam Build Metaverse",
+      "imageKey": "build-0021"
+    },
+    {
+      "id": "build-0034",
+      "name": "Crossbone Gundam X1 Full Cloth Type.GBFT",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-04",
+      "releaseType": "Retail",
+      "kitSummary": "Crossbone Gundam X1 Full Cloth Type.GBFT is represented by 1 certified High Grade physical presentation(s) associated with Crossbone Gundam X1 Full Cloth Type.GBFT. The earliest controlled grade evidence is 2015-04. Supported presentation names include Crossbone Gundam X1 Full Cloth Type.GBFT. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Crossbone Gundam X1 Full Cloth Type.GBFT is the Build-origin customized machine documented for Crossbone Gundam X1 Full Cloth Type.GBFT. The certified ledger links this High Grade entry to 1 physical presentation(s), including Crossbone Gundam X1 Full Cloth Type.GBFT. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Crossbone Gundam X1 Full Cloth Type.GBFT | Gundam Build Fighters Try",
+      "imageKey": "build-0034"
+    },
+    {
+      "id": "build-0036",
+      "name": "Denial Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-05",
+      "releaseType": "Retail",
+      "kitSummary": "Denial Gundam is represented by 1 certified High Grade physical presentation(s) associated with Denial Gundam. The earliest controlled grade evidence is 2015-05. Supported presentation names include Denial Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Denial Gundam is the Build-origin customized machine documented for Denial Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Denial Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Denial Gundam | Gundam Build Fighters Try",
+      "imageKey": "build-0036"
+    },
+    {
+      "id": "build-0039",
+      "name": "Dom R35",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-06",
+      "releaseType": "Retail",
+      "kitSummary": "Dom R35 is represented by 1 certified High Grade physical presentation(s) associated with Dom R35. The earliest controlled grade evidence is 2015-06. Supported presentation names include Dom R35. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Dom R35 is the Build-origin customized machine documented for Dom R35. The certified ledger links this High Grade entry to 1 physical presentation(s), including Dom R35. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Dom R35 | Gundam Build Fighters Try",
+      "imageKey": "build-0039"
+    },
+    {
+      "id": "build-0029",
+      "name": "Gundam Amazing Red Warrior",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Amazing Red Warrior is represented by 1 certified High Grade physical presentation(s) associated with Gundam Amazing Red Warrior. The earliest controlled grade evidence is 2015-01. Supported presentation names include Gundam Amazing Red Warrior. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Amazing Red Warrior is the Build-origin customized machine documented for Gundam Amazing Red Warrior. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Amazing Red Warrior. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Amazing Red Warrior | Gundam Build Fighters Try",
+      "imageKey": "build-0029"
+    },
+    {
+      "id": "build-0029-mg",
+      "name": "Gundam Amazing Red Warrior",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-08",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Amazing Red Warrior is represented by 1 certified Master Grade physical presentation(s) associated with Gundam Amazing Red Warrior. The earliest controlled grade evidence is 2015-08. Supported presentation names include Gundam Amazing Red Warrior. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Amazing Red Warrior is the Build-origin customized machine documented for Gundam Amazing Red Warrior. The certified ledger links this Master Grade entry to 1 physical presentation(s), including Gundam Amazing Red Warrior. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Amazing Red Warrior | Gundam Build Fighters Try",
+      "imageKey": "build-0029"
+    },
+    {
+      "id": "build-0043",
+      "name": "Gundam Dryon III",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-08",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Gundam Dryon III is represented by 1 certified High Grade physical presentation(s) associated with Gundam Dryon III. The earliest controlled grade evidence is 2015-08. Supported presentation names include Gundam Dryon III. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Dryon III is the Build-origin customized machine documented for Gundam Dryon III. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Dryon III. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Dryon III | Gundam Build Fighters Try",
+      "imageKey": "build-0043"
+    },
+    {
+      "id": "build-0023",
+      "name": "Gundam Ez-SR",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2014-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Ez-SR is represented by 3 certified High Grade physical presentation(s) associated with Gundam Ez-SR, Gundam Ez-SR-MAXIMA. The earliest controlled grade evidence is 2014-11. Supported presentation names include Gundam Ez-SR, Gundam Ez-SR-MAXIMA, Gundam Ez-SR-FOXHOUND. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Ez-SR is the Build-origin customized machine documented for Gundam Ez-SR, Gundam Ez-SR-MAXIMA. The certified ledger links this High Grade entry to 3 physical presentation(s), including Gundam Ez-SR, Gundam Ez-SR-MAXIMA, Gundam Ez-SR-FOXHOUND. Maintained configurations include Standard, MAXIMA, FOXHOUND, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Ez-SR | Gundam Ez-SR-MAXIMA | Gundam Ez-SR-FOXHOUND | Gundam Build Fighters Try | Gundam Build Fighters Amazing",
+      "imageKey": "build-0023"
+    },
+    {
+      "id": "build-0044",
+      "name": "Gundam Leopard da Vinci",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-08",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Leopard da Vinci is represented by 1 certified High Grade physical presentation(s) associated with Gundam Leopard da Vinci. The earliest controlled grade evidence is 2015-08. Supported presentation names include Gundam Leopard da Vinci. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Leopard da Vinci is the Build-origin customized machine documented for Gundam Leopard da Vinci. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Leopard da Vinci. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Leopard da Vinci | Gundam Build Fighters Try",
+      "imageKey": "build-0044"
+    },
+    {
+      "id": "build-0032",
+      "name": "Gundam Portent",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-03",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Portent is represented by 1 certified High Grade physical presentation(s) associated with Gundam Portent. The earliest controlled grade evidence is 2015-03. Supported presentation names include Gundam Portent. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Portent is the Build-origin customized machine documented for Gundam Portent. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Portent. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Portent | Gundam Build Fighters Try",
+      "imageKey": "build-0032"
+    },
+    {
+      "id": "build-0037",
+      "name": "Gundam The End",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-05",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam The End is represented by 1 certified High Grade physical presentation(s) associated with Gundam The End. The earliest controlled grade evidence is 2015-05. Supported presentation names include Gundam The End. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam The End is the Build-origin customized machine documented for Gundam The End. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam The End. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam The End | Gundam Build Fighters Try",
+      "imageKey": "build-0037"
+    },
+    {
+      "id": "build-0040",
+      "name": "Gundam Tryon 3",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-06",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Tryon 3 is represented by 1 certified High Grade physical presentation(s) associated with Gundam Tryon 3. The earliest controlled grade evidence is 2015-06. Supported presentation names include Gundam Tryon 3. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Tryon 3 is the Build-origin customized machine documented for Gundam Tryon 3. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Tryon 3. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Tryon 3 | Gundam Build Fighters Try",
+      "imageKey": "build-0040"
+    },
+    {
+      "id": "build-0030",
+      "name": "Hi-Mock",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-01",
+      "releaseType": "Retail",
+      "kitSummary": "Hi-Mock is represented by 1 certified High Grade physical presentation(s) associated with Hi-Mock. The earliest controlled grade evidence is 2015-01. Supported presentation names include Hi-Mock. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Hi-Mock is the Build-origin customized machine documented for Hi-Mock. The certified ledger links this High Grade entry to 1 physical presentation(s), including Hi-Mock. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Hi-Mock | Gundam Build Fighters Try",
+      "imageKey": "build-0030"
+    },
+    {
+      "id": "build-0031",
+      "name": "Hi-Nu Gundam Vrabe",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-02",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Hi-Nu Gundam Vrabe is represented by 3 certified High Grade physical presentation(s) associated with Hi-Nu Gundam Vrabe, Hi-Nu Gundam Influx. The earliest controlled grade evidence is 2015-02. Supported presentation names include Hi-Nu Gundam Vrabe, Hi-Nu Gundam Influx, Hi-Nu Gundam Vrabe Amazing Ver. The Crimson Comet. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Hi-Nu Gundam Vrabe is the Build-origin customized machine documented for Hi-Nu Gundam Vrabe, Hi-Nu Gundam Influx. The certified ledger links this High Grade entry to 3 physical presentation(s), including Hi-Nu Gundam Vrabe, Hi-Nu Gundam Influx, Hi-Nu Gundam Vrabe Amazing Ver. The Crimson Comet. Maintained configurations include Vrabe, Influx, Amazing / Crimson Comet, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Hi-Nu Gundam Vrabe | Hi-Nu Gundam Influx | Hi-Nu Gundam Vrabe Amazing Ver. The Crimson Comet | Gundam Build Fighters Try | Gundam Build Fighters Amazing",
+      "imageKey": "build-0031"
+    },
+    {
+      "id": "build-0025",
+      "name": "Lightning Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2014-11",
+      "releaseType": "Retail",
+      "kitSummary": "Lightning Gundam is represented by 1 certified High Grade physical presentation(s) associated with Lightning Gundam. The earliest controlled grade evidence is 2014-11. Supported presentation names include Lightning Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Lightning Gundam is the Build-origin customized machine documented for Lightning Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Lightning Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Lightning Gundam | Gundam Build Fighters Try",
+      "imageKey": "build-0025"
+    },
+    {
+      "id": "build-0041",
+      "name": "Lightning Zeta Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-07",
+      "releaseType": "Retail",
+      "kitSummary": "Lightning Zeta Gundam is represented by 1 certified High Grade physical presentation(s) associated with Lightning Zeta Gundam. The earliest controlled grade evidence is 2015-07. Supported presentation names include Lightning Zeta Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Lightning Zeta Gundam is the Build-origin customized machine documented for Lightning Zeta Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Lightning Zeta Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Lightning Zeta Gundam | Gundam Build Fighters Try",
+      "imageKey": "build-0041"
+    },
+    {
+      "id": "build-0027",
+      "name": "Mega-Shiki",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2014-12",
+      "releaseType": "Retail",
+      "kitSummary": "Mega-Shiki is represented by 1 certified High Grade physical presentation(s) associated with Mega-Shiki. The earliest controlled grade evidence is 2014-12. Supported presentation names include Mega-Shiki. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Mega-Shiki is the Build-origin customized machine documented for Mega-Shiki. The certified ledger links this High Grade entry to 1 physical presentation(s), including Mega-Shiki. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Mega-Shiki | Gundam Build Fighters Try",
+      "imageKey": "build-0027"
+    },
+    {
+      "id": "build-0038",
+      "name": "Petitgguy",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-05",
+      "releaseType": "Retail",
+      "kitSummary": "Petitgguy is represented by 15 certified High Grade physical presentation(s) associated with Petitgguy, PandaGGuy. The earliest controlled grade evidence is 2015-05. Supported presentation names include Petitgguy, PandaGGuy, Petitgguy Rumpumpum Purple & Drum, Petitgguy Surf Green & Guitar. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Petitgguy is the Build-origin customized machine documented for Petitgguy, PandaGGuy. The certified ledger links this High Grade entry to 15 physical presentation(s), including Petitgguy, PandaGGuy, Petitgguy Rumpumpum Purple & Drum, Petitgguy Surf Green & Guitar. Maintained configurations include Standard, PandaGGuy, Rumpumpum Purple, Surf Green, Stray Black. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Petitgguy | PandaGGuy | Petitgguy Rumpumpum Purple & Drum | Petitgguy Surf Green & Guitar | Petitgguy Stray Black & Cat Cos | Petitgguy WoofWoof White & Dog Cos | Petitgguy Bittersweet Brown & Chocolate | Petitgguy Sodapop Blue & Ice Candy | Petitgguy Pretty in Pink & Petit-Petitgguy | Charagguy Fumina | Charagguy Gyanko | Charagguy Momo | Charagguy Ayame | Charagguy Sarah | JustiGGuy | Gundam Build Fighters Try | Gundam Build Divers | Gundam Build Divers Re:RISE",
+      "imageKey": "build-0038"
+    },
+    {
+      "id": "build-0022",
+      "name": "Powered GM Cardigan",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2014-10",
+      "releaseType": "Retail",
+      "kitSummary": "Powered GM Cardigan is represented by 1 certified High Grade physical presentation(s) associated with Powered GM Cardigan. The earliest controlled grade evidence is 2014-10. Supported presentation names include Powered GM Cardigan. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Powered GM Cardigan is the Build-origin customized machine documented for Powered GM Cardigan. The certified ledger links this High Grade entry to 1 physical presentation(s), including Powered GM Cardigan. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Powered GM Cardigan | Gundam Build Fighters Try",
+      "imageKey": "build-0022"
+    },
+    {
+      "id": "build-0028",
+      "name": "R-Gyagya",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2014-12",
+      "releaseType": "Retail",
+      "kitSummary": "R-Gyagya is represented by 1 certified High Grade physical presentation(s) associated with R-Gyagya. The earliest controlled grade evidence is 2014-12. Supported presentation names include R-Gyagya. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "R-Gyagya is the Build-origin customized machine documented for R-Gyagya. The certified ledger links this High Grade entry to 1 physical presentation(s), including R-Gyagya. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "R-Gyagya | Gundam Build Fighters Try",
+      "imageKey": "build-0028"
+    },
+    {
+      "id": "build-0045",
+      "name": "Super Fumina",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Super Fumina is represented by 5 certified High Grade physical presentation(s) associated with Super Fumina, Super Fumina Titans Maid Ver.. The earliest controlled grade evidence is 2015-11. Supported presentation names include Super Fumina, Super Fumina Titans Maid Ver., Super Fumina Axis Angel Ver., Command Fumina. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Super Fumina is the Build-origin customized machine documented for Super Fumina, Super Fumina Titans Maid Ver.. The certified ledger links this High Grade entry to 5 physical presentation(s), including Super Fumina, Super Fumina Titans Maid Ver., Super Fumina Axis Angel Ver., Command Fumina. Maintained configurations include Standard, Titans Maid, Axis Angel, Command Fumina, Winning Fumina. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Super Fumina | Super Fumina Titans Maid Ver. | Super Fumina Axis Angel Ver. | Command Fumina | Winning Fumina | Gundam Build Fighters Try | Gundam Build Fighters Battlogue",
+      "imageKey": "build-0045"
+    },
+    {
+      "id": "build-0035",
+      "name": "Transient Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-04",
+      "releaseType": "Retail",
+      "kitSummary": "Transient Gundam is represented by 2 certified High Grade physical presentation(s) associated with Transient Gundam, Transient Gundam Glacier. The earliest controlled grade evidence is 2015-04. Supported presentation names include Transient Gundam, Transient Gundam Glacier. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Transient Gundam is the Build-origin customized machine documented for Transient Gundam, Transient Gundam Glacier. The certified ledger links this High Grade entry to 2 physical presentation(s), including Transient Gundam, Transient Gundam Glacier. Maintained configurations include Standard, Glacier, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Transient Gundam | Transient Gundam Glacier | Gundam Build Fighters Try | Gundam Build Fighters Amazing Ready",
+      "imageKey": "build-0035"
+    },
+    {
+      "id": "build-0033",
+      "name": "Wing Gundam Zero Honoo",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try",
+      "releaseDate": "2015-03",
+      "releaseType": "Retail",
+      "kitSummary": "Wing Gundam Zero Honoo is represented by 1 certified High Grade physical presentation(s) associated with Wing Gundam Zero Honoo. The earliest controlled grade evidence is 2015-03. Supported presentation names include Wing Gundam Zero Honoo. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Wing Gundam Zero Honoo is the Build-origin customized machine documented for Wing Gundam Zero Honoo. The certified ledger links this High Grade entry to 1 physical presentation(s), including Wing Gundam Zero Honoo. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Wing Gundam Zero Honoo | Gundam Build Fighters Try",
+      "imageKey": "build-0033"
+    },
+    {
+      "id": "build-0052",
+      "name": "Gundam 00 Shia Qan[T]",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try Island Wars",
+      "releaseDate": "2016-09",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam 00 Shia Qan[T] is represented by 1 certified High Grade physical presentation(s) associated with Gundam 00 Shia Qan[T]. The earliest controlled grade evidence is 2016-09. Supported presentation names include Gundam 00 Shia Qan[T]. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam 00 Shia Qan[T] is the Build-origin customized machine documented for Gundam 00 Shia Qan[T]. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam 00 Shia Qan[T]. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam 00 Shia Qan[T] | Gundam Build Fighters Try Island Wars",
+      "imageKey": "build-0052"
+    },
+    {
+      "id": "build-0050",
+      "name": "Gyancelot",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try Island Wars",
+      "releaseDate": "2016-08",
+      "releaseType": "Retail",
+      "kitSummary": "Gyancelot is represented by 1 certified High Grade physical presentation(s) associated with Gyancelot. The earliest controlled grade evidence is 2016-08. Supported presentation names include Gyancelot. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gyancelot is the Build-origin customized machine documented for Gyancelot. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gyancelot. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gyancelot | Gundam Build Fighters Try Island Wars",
+      "imageKey": "build-0050"
+    },
+    {
+      "id": "build-0053",
+      "name": "Scramble Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try Island Wars",
+      "releaseDate": "2016-09",
+      "releaseType": "Retail",
+      "kitSummary": "Scramble Gundam is represented by 1 certified High Grade physical presentation(s) associated with Scramble Gundam. The earliest controlled grade evidence is 2016-09. Supported presentation names include Scramble Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Scramble Gundam is the Build-origin customized machine documented for Scramble Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Scramble Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Scramble Gundam | Gundam Build Fighters Try Island Wars",
+      "imageKey": "build-0053"
+    },
+    {
+      "id": "build-0051",
+      "name": "ZZII",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters Try Island Wars",
+      "releaseDate": "2016-08",
+      "releaseType": "Retail",
+      "kitSummary": "ZZII is represented by 1 certified High Grade physical presentation(s) associated with ZZII. The earliest controlled grade evidence is 2016-08. Supported presentation names include ZZII. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "ZZII is the Build-origin customized machine documented for ZZII. The certified ledger links this High Grade entry to 1 physical presentation(s), including ZZII. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "ZZII | Gundam Build Fighters Try Island Wars",
+      "imageKey": "build-0051"
+    },
+    {
+      "id": "build-0063",
+      "name": "Amazing ZGok",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters: GM Counterattack",
+      "releaseDate": "2017-10",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Amazing ZGok is represented by 1 certified High Grade physical presentation(s) associated with Amazing ZGok. The earliest controlled grade evidence is 2017-10. Supported presentation names include Amazing ZGok. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Amazing ZGok is the Build-origin customized machine documented for Amazing ZGok. The certified ledger links this High Grade entry to 1 physical presentation(s), including Amazing ZGok. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Amazing ZGok | Gundam Build Fighters: GM Counterattack",
+      "imageKey": "build-0063"
+    },
+    {
+      "id": "build-0065",
+      "name": "Gundam X Jumaoh",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters: GM Counterattack",
+      "releaseDate": "2017-11",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Gundam X Jumaoh is represented by 1 certified High Grade physical presentation(s) associated with Gundam X Jumaoh. The earliest controlled grade evidence is 2017-11. Supported presentation names include Gundam X Jumaoh. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam X Jumaoh is the Build-origin customized machine documented for Gundam X Jumaoh. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam X Jumaoh. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam X Jumaoh | Gundam Build Fighters: GM Counterattack",
+      "imageKey": "build-0065"
+    },
+    {
+      "id": "build-0066",
+      "name": "Psycho GM",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Fighters: GM Counterattack",
+      "releaseDate": "2017-12",
+      "releaseType": "Premium Bandai / limited",
+      "kitSummary": "Psycho GM is represented by 1 certified High Grade physical presentation(s) associated with Psycho GM. The earliest controlled grade evidence is 2017-12. Supported presentation names include Psycho GM. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Psycho GM is the Build-origin customized machine documented for Psycho GM. The certified ledger links this High Grade entry to 1 physical presentation(s), including Psycho GM. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Psycho GM | Gundam Build Fighters: GM Counterattack",
+      "imageKey": "build-0066"
+    },
+    {
+      "id": "build-0121",
+      "name": "Gundam Amazing Barbatos Lupus",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Metaverse",
+      "releaseDate": "2024-08",
+      "releaseType": "Retail",
+      "kitSummary": "Gundam Amazing Barbatos Lupus is represented by 1 certified High Grade physical presentation(s) associated with Gundam Amazing Barbatos Lupus. The earliest controlled grade evidence is 2024-08. Supported presentation names include Gundam Amazing Barbatos Lupus. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Amazing Barbatos Lupus is the Build-origin customized machine documented for Gundam Amazing Barbatos Lupus. The certified ledger links this High Grade entry to 1 physical presentation(s), including Gundam Amazing Barbatos Lupus. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Gundam Amazing Barbatos Lupus | Gundam Build Metaverse",
+      "imageKey": "build-0121"
+    },
+    {
+      "id": "build-0118",
+      "name": "Lah Gundam",
+      "modelNumber": "",
+      "grade": "Entry Grade",
+      "availableGrades": [
+        "Entry Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Metaverse",
+      "releaseDate": "2023-10",
+      "releaseType": "Retail",
+      "kitSummary": "Lah Gundam is represented by 1 certified Entry Grade physical presentation(s) associated with Lah Gundam. The earliest controlled grade evidence is 2023-10. Supported presentation names include Lah Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Lah Gundam is the Build-origin customized machine documented for Lah Gundam. The certified ledger links this Entry Grade entry to 1 physical presentation(s), including Lah Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Lah Gundam | Gundam Build Metaverse",
+      "imageKey": "build-0118"
+    },
+    {
+      "id": "build-0119",
+      "name": "Typhoeus Gundam Chimera",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Build Metaverse",
+      "releaseDate": "2023-12",
+      "releaseType": "Retail",
+      "kitSummary": "Typhoeus Gundam Chimera is represented by 1 certified High Grade physical presentation(s) associated with Typhoeus Gundam Chimera. The earliest controlled grade evidence is 2023-12. Supported presentation names include Typhoeus Gundam Chimera. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Typhoeus Gundam Chimera is the Build-origin customized machine documented for Typhoeus Gundam Chimera. The certified ledger links this High Grade entry to 1 physical presentation(s), including Typhoeus Gundam Chimera. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Typhoeus Gundam Chimera | Gundam Build Metaverse",
+      "imageKey": "build-0119"
+    },
+    {
+      "id": "build-0005",
+      "name": "Beargguy",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Model Suit Gunpla Builders Beginning G",
+      "releaseDate": "2010-12",
+      "releaseType": "Retail",
+      "kitSummary": "Beargguy is represented by 6 certified High Grade physical presentation(s) associated with Beargguy, Beargguy III. The earliest controlled grade evidence is 2010-12. Supported presentation names include Beargguy, Beargguy III, Beargguy F, Beargguy P. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Beargguy is the Build-origin customized machine documented for Beargguy, Beargguy III. The certified ledger links this High Grade entry to 6 physical presentation(s), including Beargguy, Beargguy III, Beargguy F, Beargguy P. Maintained configurations include Original, III, F, P, Papagguy. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Beargguy | Beargguy III | Beargguy F | Beargguy P | Papagguy | Beargguy Ohana & Aloharo Set | Model Suit Gunpla Builders Beginning G | Gundam Build Fighters | Gundam Build Fighters Try | Gundam Build Fighters Try Island Wars | Gundam Build Fighters Battlogue | Gundam Build Metaverse",
+      "imageKey": "build-0005"
+    },
+    {
+      "id": "build-0003",
+      "name": "Beginning Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Model Suit Gunpla Builders Beginning G",
+      "releaseDate": "2010-09",
+      "releaseType": "Retail",
+      "kitSummary": "Beginning Gundam is represented by 4 certified High Grade physical presentation(s) associated with Beginning Gundam, Beginning 30 Gundam. The earliest controlled grade evidence is 2010-09. Supported presentation names include Beginning Gundam, Beginning 30 Gundam, Beginning J Gundam, Beginning D Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Beginning Gundam is the Build-origin customized machine documented for Beginning Gundam, Beginning 30 Gundam. The certified ledger links this High Grade entry to 4 physical presentation(s), including Beginning Gundam, Beginning 30 Gundam, Beginning J Gundam, Beginning D Gundam. Maintained configurations include Beginning, Beginning 30, Beginning J, Beginning D, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Beginning Gundam | Beginning 30 Gundam | Beginning J Gundam | Beginning D Gundam | Model Suit Gunpla Builders Beginning G",
+      "imageKey": "build-0003"
+    },
+    {
+      "id": "build-0006",
+      "name": "Forever Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Model Suit Gunpla Builders Beginning G",
+      "releaseDate": "2011-01",
+      "releaseType": "Retail",
+      "kitSummary": "Forever Gundam is represented by 1 certified High Grade physical presentation(s) associated with Forever Gundam. The earliest controlled grade evidence is 2011-01. Supported presentation names include Forever Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Forever Gundam is the Build-origin customized machine documented for Forever Gundam. The certified ledger links this High Grade entry to 1 physical presentation(s), including Forever Gundam. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Forever Gundam | Model Suit Gunpla Builders Beginning G",
+      "imageKey": "build-0006"
+    },
+    {
+      "id": "build-0004",
+      "name": "Super Custom Zaku F2000",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Model Suit Gunpla Builders Beginning G",
+      "releaseDate": "2010-11",
+      "releaseType": "Retail",
+      "kitSummary": "Super Custom Zaku F2000 is represented by 1 certified High Grade physical presentation(s) associated with Super Custom Zaku F2000. The earliest controlled grade evidence is 2010-11. Supported presentation names include Super Custom Zaku F2000. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Super Custom Zaku F2000 is the Build-origin customized machine documented for Super Custom Zaku F2000. The certified ledger links this High Grade entry to 1 physical presentation(s), including Super Custom Zaku F2000. Maintained configurations include Standard, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Super Custom Zaku F2000 | Model Suit Gunpla Builders Beginning G",
+      "imageKey": "build-0004"
+    },
+    {
+      "id": "build-0001-mg",
+      "name": "Perfect Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Plamo-Kyoshiro",
+      "releaseDate": "2003-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Perfect Gundam is represented by 1 certified Master Grade physical presentation(s) associated with Perfect Gundam. The earliest controlled grade evidence is 2003-12. Supported presentation names include Perfect Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Perfect Gundam is the Build-origin customized machine documented for Perfect Gundam. The certified ledger links this Master Grade entry to 1 physical presentation(s), including Perfect Gundam. Maintained configurations include Standard, Master Grade presentation, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Perfect Gundam | Plamo-Kyoshiro",
+      "imageKey": "build-0001"
+    },
+    {
+      "id": "build-0001",
+      "name": "Perfect Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Plamo-Kyoshiro",
+      "releaseDate": "1984-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Perfect Gundam is represented by 1 certified No Grade physical presentation(s) associated with Perfect Gundam. The earliest controlled grade evidence is 1984-06. Supported presentation names include Perfect Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Perfect Gundam is the Build-origin customized machine documented for Perfect Gundam. The certified ledger links this No Grade entry to 1 physical presentation(s), including Perfect Gundam. Maintained configurations include Standard, Master Grade presentation, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Perfect Gundam | Plamo-Kyoshiro",
+      "imageKey": "build-0001"
+    },
+    {
+      "id": "build-0002-mg",
+      "name": "Perfect Zeong",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Plamo-Kyoshiro",
+      "releaseDate": "2004-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Perfect Zeong is represented by 1 certified Master Grade physical presentation(s) associated with Perfect Zeong. The earliest controlled grade evidence is 2004-06. Supported presentation names include Perfect Zeong. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Perfect Zeong is the Build-origin customized machine documented for Perfect Zeong. The certified ledger links this Master Grade entry to 1 physical presentation(s), including Perfect Zeong. Maintained configurations include Standard, Master Grade presentation, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Perfect Zeong | Plamo-Kyoshiro",
+      "imageKey": "build-0002"
+    },
+    {
+      "id": "build-0002",
+      "name": "Perfect Zeong",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Plamo-Kyoshiro",
+      "releaseDate": "1984-07",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Perfect Zeong is represented by 1 certified No Grade physical presentation(s) associated with Perfect Zeong. The earliest controlled grade evidence is 1984-07. Supported presentation names include Perfect Zeong. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Perfect Zeong is the Build-origin customized machine documented for Perfect Zeong. The certified ledger links this No Grade entry to 1 physical presentation(s), including Perfect Zeong. Maintained configurations include Standard, Master Grade presentation, Custom / Other. Hangar Bay represents this named Build machine rather than its donor kit, color edition, retail packaging, or accessory-only products.",
+      "aliases": "Perfect Zeong | Plamo-Kyoshiro",
+      "imageKey": "build-0002"
+    }
+  ]
+}
