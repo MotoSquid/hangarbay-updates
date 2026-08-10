@@ -1,0 +1,2527 @@
+{
+  "format": "hangar-bay-catalog-pack",
+  "schemaVersion": 1,
+  "id": "cosmic-era",
+  "name": "Cosmic Era",
+  "shortName": "CE",
+  "description": "Grade-specific Cosmic Era catalog. Each entry represents one mech and normalized grade; configurations, tooling iterations, editions, scale choices, and accessories remain owned-copy attributes.",
+  "version": 4,
+  "updatedAt": "2026-08-05",
+  "sortOrder": 30,
+  "kitCount": 147,
+  "series": [
+    "Mobile Suit Gundam SEED",
+    "Mobile Suit Gundam SEED Astray",
+    "Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+    "Mobile Suit Gundam SEED Destiny",
+    "Mobile Suit Gundam SEED Destiny Astray",
+    "Mobile Suit Gundam SEED Destiny Astray B",
+    "Mobile Suit Gundam SEED Eclipse",
+    "Mobile Suit Gundam SEED Frame Astrays",
+    "Mobile Suit Gundam SEED Freedom",
+    "Mobile Suit Gundam SEED MSV",
+    "Mobile Suit Gundam SEED VS Astray",
+    "Mobile Suit Gundam SEED X Astray"
+  ],
+  "kits": [
+    {
+      "id": "ce-0002-hg",
+      "name": "Aegis Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2002-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Aegis Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2002-12. Supported presentation names include Aegis Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X303 Aegis is a transformable Gundam developed at Heliopolis. Its mobile-armor form, four-limbed capture structure, and powerful Scylla cannon made it a specialized close-range and anti-ship combat unit.",
+      "aliases": "Aegis Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0002"
+    },
+    {
+      "id": "ce-0002-mg",
+      "name": "Aegis Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2012-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Aegis Gundam is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2012-10. Supported presentation names include Aegis Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X303 Aegis is a transformable Gundam developed at Heliopolis. Its mobile-armor form, four-limbed capture structure, and powerful Scylla cannon made it a specialized close-range and anti-ship combat unit.",
+      "aliases": "Aegis Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0002"
+    },
+    {
+      "id": "ce-0002",
+      "name": "Aegis Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2002-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Aegis Gundam is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2002-10. Supported presentation names include Aegis Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X303 Aegis is a transformable Gundam developed at Heliopolis. Its mobile-armor form, four-limbed capture structure, and powerful Scylla cannon made it a specialized close-range and anti-ship combat unit.",
+      "aliases": "Aegis Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0002"
+    },
+    {
+      "id": "ce-0008-hg",
+      "name": "Blitz Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Blitz Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-04. Supported presentation names include Blitz Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X207 Blitz is a stealth-oriented Gundam equipped with Mirage Colloid technology. Its asymmetric armament and concealed approach capability were designed for infiltration, surprise attack, and close-range combat.",
+      "aliases": "Blitz Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0008"
+    },
+    {
+      "id": "ce-0008-mg",
+      "name": "Blitz Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2012-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Blitz Gundam is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2012-06. Supported presentation names include Blitz Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X207 Blitz is a stealth-oriented Gundam equipped with Mirage Colloid technology. Its asymmetric armament and concealed approach capability were designed for infiltration, surprise attack, and close-range combat.",
+      "aliases": "Blitz Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0008"
+    },
+    {
+      "id": "ce-0008",
+      "name": "Blitz Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Blitz Gundam is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-01. Supported presentation names include Blitz Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X207 Blitz is a stealth-oriented Gundam equipped with Mirage Colloid technology. Its asymmetric armament and concealed approach capability were designed for infiltration, surprise attack, and close-range combat.",
+      "aliases": "Blitz Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0008"
+    },
+    {
+      "id": "ce-0009-hg",
+      "name": "BuCUE",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2007-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "BuCUE is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2007-01. Supported presentation names include BuCUE. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The BuCUE is a quadrupedal ZAFT ground mobile suit optimized for high-speed movement across rough terrain. Its animal-like frame supports several weapon and mission configurations, including the Kerberos BuCUE Hound development.",
+      "aliases": "Mobile BuCUE | BuCUE | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0009"
+    },
+    {
+      "id": "ce-0009",
+      "name": "BuCUE",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "BuCUE is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-03. Supported presentation names include Mobile BuCUE. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The BuCUE is a quadrupedal ZAFT ground mobile suit optimized for high-speed movement across rough terrain. Its animal-like frame supports several weapon and mission configurations, including the Kerberos BuCUE Hound development.",
+      "aliases": "Mobile BuCUE | BuCUE | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0009"
+    },
+    {
+      "id": "ce-0007-hg",
+      "name": "Buster Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Buster Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-01. Supported presentation names include Buster Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X103 Buster is a long-range artillery Gundam from the Heliopolis project. Its paired gun launchers can combine into specialized firing modes, giving the unit heavy firepower without a close-combat beam saber.",
+      "aliases": "Buster Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0007"
+    },
+    {
+      "id": "ce-0007-mg",
+      "name": "Buster Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2012-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Buster Gundam is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2012-09. Supported presentation names include Buster Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X103 Buster is a long-range artillery Gundam from the Heliopolis project. Its paired gun launchers can combine into specialized firing modes, giving the unit heavy firepower without a close-combat beam saber.",
+      "aliases": "Buster Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0007"
+    },
+    {
+      "id": "ce-0007",
+      "name": "Buster Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2002-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Buster Gundam is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2002-12. Supported presentation names include Buster Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X103 Buster is a long-range artillery Gundam from the Heliopolis project. Its paired gun launchers can combine into specialized firing modes, giving the unit heavy firepower without a close-combat beam saber.",
+      "aliases": "Buster Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0007"
+    },
+    {
+      "id": "ce-0012-hg",
+      "name": "Calamity Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-08",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Calamity Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-08. Supported presentation names include Calamity Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X131 Calamity is an Earth Alliance artillery Gundam designed around overwhelming ranged firepower. Hangar Bay treats Aile and Sword Calamity as selectable configurations of the same Calamity family.",
+      "aliases": "Calamity Gundam | Aile Calamity Gundam | Sword Calamity Gundam | Mobile Suit Gundam SEED | Mobile Suit Gundam SEED Eclipse | Mobile Suit Gundam SEED MSV",
+      "imageKey": "ce-0012"
+    },
+    {
+      "id": "ce-0012-fm",
+      "name": "Calamity Gundam",
+      "modelNumber": "",
+      "grade": "Full Mechanics",
+      "availableGrades": [
+        "Full Mechanics"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2021-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Calamity Gundam is represented by 3 certified Full Mechanics physical presentation(s) associated with Mobile Suit Gundam SEED, Mobile Suit Gundam SEED Eclipse. The earliest controlled grade evidence is 2021-06. Supported presentation names include Calamity Gundam, Aile Calamity Gundam, Sword Calamity Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X131 Calamity is an Earth Alliance artillery Gundam designed around overwhelming ranged firepower. Hangar Bay treats Aile and Sword Calamity as selectable configurations of the same Calamity family.",
+      "aliases": "Calamity Gundam | Aile Calamity Gundam | Sword Calamity Gundam | Mobile Suit Gundam SEED | Mobile Suit Gundam SEED Eclipse | Mobile Suit Gundam SEED MSV",
+      "imageKey": "ce-0012"
+    },
+    {
+      "id": "ce-0012",
+      "name": "Calamity Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Calamity Gundam is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-06. Supported presentation names include Calamity Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X131 Calamity is an Earth Alliance artillery Gundam designed around overwhelming ranged firepower. Hangar Bay treats Aile and Sword Calamity as selectable configurations of the same Calamity family.",
+      "aliases": "Calamity Gundam | Aile Calamity Gundam | Sword Calamity Gundam | Mobile Suit Gundam SEED | Mobile Suit Gundam SEED Eclipse | Mobile Suit Gundam SEED MSV",
+      "imageKey": "ce-0012"
+    },
+    {
+      "id": "ce-0021",
+      "name": "CGUE",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2004-04",
+      "releaseType": "Retail",
+      "kitSummary": "CGUE is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2004-04. Supported presentation names include Mobile CGUE. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The CGUE is a higher-performance ZAFT mobile suit developed for commanders and elite pilots. Its frame also supports specialized equipment packages such as the Deep Arms heavy-firepower configuration.",
+      "aliases": "Mobile CGUE | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0021"
+    },
+    {
+      "id": "ce-0017",
+      "name": "DINN",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-11",
+      "releaseType": "Retail",
+      "kitSummary": "DINN is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-11. Supported presentation names include DINN. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The DINN is a ZAFT aerial mobile suit designed for sustained atmospheric flight. Its light frame and wing structure allow it to operate as a rapid airborne combat unit.",
+      "aliases": "DINN | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0017"
+    },
+    {
+      "id": "ce-0003-hg",
+      "name": "Duel Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2002-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Duel Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2002-11. Supported presentation names include Duel Gundam Assault Shroud. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X102 Duel is the most conventional of the original five Heliopolis Gundams. Its basic frame supports later armor and weapon configurations, including Assault Shroud, while retaining the identity of the Duel itself.",
+      "aliases": "Duel Gundam | Duel Gundam Assault Shroud | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0003"
+    },
+    {
+      "id": "ce-0003-mg",
+      "name": "Duel Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2012-02",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Duel Gundam is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2012-02. Supported presentation names include Duel Gundam Assault Shroud. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X102 Duel is the most conventional of the original five Heliopolis Gundams. Its basic frame supports later armor and weapon configurations, including Assault Shroud, while retaining the identity of the Duel itself.",
+      "aliases": "Duel Gundam | Duel Gundam Assault Shroud | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0003"
+    },
+    {
+      "id": "ce-0003",
+      "name": "Duel Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2002-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Duel Gundam is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2002-10. Supported presentation names include Duel Gundam, Duel Gundam Assault Shroud. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X102 Duel is the most conventional of the original five Heliopolis Gundams. Its basic frame supports later armor and weapon configurations, including Assault Shroud, while retaining the identity of the Duel itself.",
+      "aliases": "Duel Gundam | Duel Gundam Assault Shroud | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0003"
+    },
+    {
+      "id": "ce-0014-hg",
+      "name": "Forbidden Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Forbidden Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-09. Supported presentation names include Forbidden Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X252 Forbidden is a transformable Earth Alliance Gundam that combines heavy close-combat weapons with beam-deflection technology. Its backpack shifts into a high-speed assault form for rapid attacks.",
+      "aliases": "Forbidden Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0014"
+    },
+    {
+      "id": "ce-0014-fm",
+      "name": "Forbidden Gundam",
+      "modelNumber": "",
+      "grade": "Full Mechanics",
+      "availableGrades": [
+        "Full Mechanics"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2023-08",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Forbidden Gundam is represented by 1 certified Full Mechanics physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2023-08. Supported presentation names include Forbidden Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X252 Forbidden is a transformable Earth Alliance Gundam that combines heavy close-combat weapons with beam-deflection technology. Its backpack shifts into a high-speed assault form for rapid attacks.",
+      "aliases": "Forbidden Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0014"
+    },
+    {
+      "id": "ce-0014",
+      "name": "Forbidden Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-07",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Forbidden Gundam is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-07. Supported presentation names include Forbidden Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X252 Forbidden is a transformable Earth Alliance Gundam that combines heavy close-combat weapons with beam-deflection technology. Its backpack shifts into a high-speed assault form for rapid attacks.",
+      "aliases": "Forbidden Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0014"
+    },
+    {
+      "id": "ce-0010-hg",
+      "name": "Freedom Gundam",
+      "modelNumber": "ZGMF-X10A",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Freedom Gundam (ZGMF-X10A) is represented by 3 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-06. Supported presentation names include Freedom Gundam, Freedom Gundam + METEOR. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X10A Freedom is a nuclear-powered high-mobility Gundam armed for simultaneous engagement of many targets. Its winged backpack, railguns, beam cannons, and defensive systems made it a central late-war mobile suit.",
+      "aliases": "Freedom Gundam | Freedom Gundam + METEOR | Freedom Gundam Ver.2.0 | Freedom Gundam Ver.GCP | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0010"
+    },
+    {
+      "id": "ce-0010-rg",
+      "name": "Freedom Gundam",
+      "modelNumber": "ZGMF-X10A",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2011-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Freedom Gundam (ZGMF-X10A) is represented by 1 certified Real Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2011-11. Supported presentation names include Freedom Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X10A Freedom is a nuclear-powered high-mobility Gundam armed for simultaneous engagement of many targets. Its winged backpack, railguns, beam cannons, and defensive systems made it a central late-war mobile suit.",
+      "aliases": "Freedom Gundam | Freedom Gundam + METEOR | Freedom Gundam Ver.2.0 | Freedom Gundam Ver.GCP | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0010"
+    },
+    {
+      "id": "ce-0010-mg",
+      "name": "Freedom Gundam",
+      "modelNumber": "ZGMF-X10A",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2004-07",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Freedom Gundam (ZGMF-X10A) is represented by 2 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2004-07. Supported presentation names include Freedom Gundam, Freedom Gundam Ver.2.0. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X10A Freedom is a nuclear-powered high-mobility Gundam armed for simultaneous engagement of many targets. Its winged backpack, railguns, beam cannons, and defensive systems made it a central late-war mobile suit.",
+      "aliases": "Freedom Gundam | Freedom Gundam + METEOR | Freedom Gundam Ver.2.0 | Freedom Gundam Ver.GCP | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0010"
+    },
+    {
+      "id": "ce-0010-fm",
+      "name": "Freedom Gundam",
+      "modelNumber": "ZGMF-X10A",
+      "grade": "Full Mechanics",
+      "availableGrades": [
+        "Full Mechanics"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2021-08",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Freedom Gundam (ZGMF-X10A) is represented by 1 certified Full Mechanics physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2021-08. Supported presentation names include Freedom Gundam Ver.GCP. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X10A Freedom is a nuclear-powered high-mobility Gundam armed for simultaneous engagement of many targets. Its winged backpack, railguns, beam cannons, and defensive systems made it a central late-war mobile suit.",
+      "aliases": "Freedom Gundam | Freedom Gundam + METEOR | Freedom Gundam Ver.2.0 | Freedom Gundam Ver.GCP | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0010"
+    },
+    {
+      "id": "ce-0010",
+      "name": "Freedom Gundam",
+      "modelNumber": "ZGMF-X10A",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Freedom Gundam (ZGMF-X10A) is represented by 3 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-04. Supported presentation names include Freedom Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X10A Freedom is a nuclear-powered high-mobility Gundam armed for simultaneous engagement of many targets. Its winged backpack, railguns, beam cannons, and defensive systems made it a central late-war mobile suit.",
+      "aliases": "Freedom Gundam | Freedom Gundam + METEOR | Freedom Gundam Ver.2.0 | Freedom Gundam Ver.GCP | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0010"
+    },
+    {
+      "id": "ce-0004-hg",
+      "name": "GINN",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "GINN is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-04. Supported presentation names include Mobile GINN. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "ZAFT's first widely deployed mass-production mobile suit, the GINN established mobile-suit warfare in the Cosmic Era. The same core design produced numerous operational variants, including high-maneuver, insurgent, and close-combat forms.",
+      "aliases": "Mobile GINN | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0004"
+    },
+    {
+      "id": "ce-0004-mg",
+      "name": "GINN",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2021-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "GINN is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2021-04. Supported presentation names include Mobile GINN. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "ZAFT's first widely deployed mass-production mobile suit, the GINN established mobile-suit warfare in the Cosmic Era. The same core design produced numerous operational variants, including high-maneuver, insurgent, and close-combat forms.",
+      "aliases": "Mobile GINN | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0004"
+    },
+    {
+      "id": "ce-0004",
+      "name": "GINN",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2002-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "GINN is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2002-10. Supported presentation names include Mobile GINN. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "ZAFT's first widely deployed mass-production mobile suit, the GINN established mobile-suit warfare in the Cosmic Era. The same core design produced numerous operational variants, including high-maneuver, insurgent, and close-combat forms.",
+      "aliases": "Mobile GINN | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0004"
+    },
+    {
+      "id": "ce-0013",
+      "name": "GOOhN",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-06",
+      "releaseType": "Retail",
+      "kitSummary": "GOOhN is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-06. Supported presentation names include GOOhN. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GOOhN is a ZAFT amphibious mobile suit designed for underwater approach and coastal combat. Its compact body and specialized aquatic systems support operations that conventional land units cannot perform.",
+      "aliases": "GOOhN | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0013"
+    },
+    {
+      "id": "ce-0016",
+      "name": "GuAIZ",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-10",
+      "releaseType": "Retail",
+      "kitSummary": "GuAIZ is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-10. Supported presentation names include GuAIZ. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GuAIZ is a late-war ZAFT mass-production mobile suit intended to replace earlier GINN and CGUE units. It combines improved mobility with beam weapons and a more advanced defensive system.",
+      "aliases": "GuAIZ | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0016"
+    },
+    {
+      "id": "ce-0011-hg",
+      "name": "Justice Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-07",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Justice Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-07. Supported presentation names include Justice Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X09A Justice is a nuclear-powered close-combat Gundam developed alongside Freedom. Its detachable Fatum flight unit serves as a mobility platform, remote weapon, and subflight system.",
+      "aliases": "Justice Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0011"
+    },
+    {
+      "id": "ce-0011-rg",
+      "name": "Justice Gundam",
+      "modelNumber": "",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2012-07",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Justice Gundam is represented by 1 certified Real Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2012-07. Supported presentation names include Justice Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X09A Justice is a nuclear-powered close-combat Gundam developed alongside Freedom. Its detachable Fatum flight unit serves as a mobility platform, remote weapon, and subflight system.",
+      "aliases": "Justice Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0011"
+    },
+    {
+      "id": "ce-0011-mg",
+      "name": "Justice Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2017-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Justice Gundam is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2017-06. Supported presentation names include Justice Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X09A Justice is a nuclear-powered close-combat Gundam developed alongside Freedom. Its detachable Fatum flight unit serves as a mobility platform, remote weapon, and subflight system.",
+      "aliases": "Justice Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0011"
+    },
+    {
+      "id": "ce-0011",
+      "name": "Justice Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-05",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Justice Gundam is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-05. Supported presentation names include Justice Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X09A Justice is a nuclear-powered close-combat Gundam developed alongside Freedom. Its detachable Fatum flight unit serves as a mobility platform, remote weapon, and subflight system.",
+      "aliases": "Justice Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0011"
+    },
+    {
+      "id": "ce-0061",
+      "name": "LaGOWE",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2012-02",
+      "releaseType": "Retail",
+      "kitSummary": "LaGOWE is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2012-02. Supported presentation names include LaGOWE. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The LaGOWE is a commander-class quadrupedal ZAFT mobile suit developed for desert warfare. Its speed, beam sabers, and heavy ranged weaponry exceed the capabilities of the standard BuCUE.",
+      "aliases": "LaGOWE | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0061"
+    },
+    {
+      "id": "ce-0020-hg",
+      "name": "M1 Astray",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2012-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "M1 Astray is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2012-06. Supported presentation names include M1 Astray. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The M1 Astray is Orb's mass-production mobile suit developed from the Astray prototype program. Its lightweight frame and beam armament became a foundation for later Orb mobile-suit development.",
+      "aliases": "M1 Astray | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0020"
+    },
+    {
+      "id": "ce-0020",
+      "name": "M1 Astray",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2004-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "M1 Astray is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2004-03. Supported presentation names include M1 Astray. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The M1 Astray is Orb's mass-production mobile suit developed from the Astray prototype program. Its lightweight frame and beam armament became a foundation for later Orb mobile-suit development.",
+      "aliases": "M1 Astray | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0020"
+    },
+    {
+      "id": "ce-0026",
+      "name": "Moebius Zero",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2004-09",
+      "releaseType": "Retail",
+      "kitSummary": "Moebius Zero is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2004-09. Supported presentation names include Moebius Zero + Skygrasper. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Moebius Zero is an Earth Alliance mobile armor equipped with four wire-guided gunbarrels. It predates mass mobile-suit deployment and demonstrates the Alliance's early use of all-range attack systems.",
+      "aliases": "Moebius Zero + Skygrasper | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0026"
+    },
+    {
+      "id": "ce-0018-hg",
+      "name": "Providence Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2004-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Providence Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2004-03. Supported presentation names include Providence Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X13A Providence is a nuclear-powered ZAFT Gundam built around the DRAGOON remote-weapon system. Its distributed beam pods allow attacks from multiple directions while maintaining strong conventional armament.",
+      "aliases": "Providence Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0018"
+    },
+    {
+      "id": "ce-0018-mg",
+      "name": "Providence Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2017-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Providence Gundam is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2017-03. Supported presentation names include Providence Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X13A Providence is a nuclear-powered ZAFT Gundam built around the DRAGOON remote-weapon system. Its distributed beam pods allow attacks from multiple directions while maintaining strong conventional armament.",
+      "aliases": "Providence Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0018"
+    },
+    {
+      "id": "ce-0018",
+      "name": "Providence Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2004-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Providence Gundam is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2004-01. Supported presentation names include Providence Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X13A Providence is a nuclear-powered ZAFT Gundam built around the DRAGOON remote-weapon system. Its distributed beam pods allow attacks from multiple directions while maintaining strong conventional armament.",
+      "aliases": "Providence Gundam | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0018"
+    },
+    {
+      "id": "ce-0015-hg",
+      "name": "Raider Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Raider Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-11. Supported presentation names include Raider Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X370 Raider is a transformable Earth Alliance Gundam optimized for aerial assault. Its mobile-armor mode, crushing melee weapon, and ranged armament support fast, aggressive attacks.",
+      "aliases": "Raider Gundam | Boost Raider Gundam | Mobile Suit Gundam SEED | Mobile Suit Gundam SEED Eclipse",
+      "imageKey": "ce-0015"
+    },
+    {
+      "id": "ce-0015-fm",
+      "name": "Raider Gundam",
+      "modelNumber": "",
+      "grade": "Full Mechanics",
+      "availableGrades": [
+        "Full Mechanics"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2022-05",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Raider Gundam is represented by 2 certified Full Mechanics physical presentation(s) associated with Mobile Suit Gundam SEED, Mobile Suit Gundam SEED Eclipse. The earliest controlled grade evidence is 2022-05. Supported presentation names include Raider Gundam, Boost Raider Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X370 Raider is a transformable Earth Alliance Gundam optimized for aerial assault. Its mobile-armor mode, crushing melee weapon, and ranged armament support fast, aggressive attacks.",
+      "aliases": "Raider Gundam | Boost Raider Gundam | Mobile Suit Gundam SEED | Mobile Suit Gundam SEED Eclipse",
+      "imageKey": "ce-0015"
+    },
+    {
+      "id": "ce-0015",
+      "name": "Raider Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-08",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Raider Gundam is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-08. Supported presentation names include Raider Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X370 Raider is a transformable Earth Alliance Gundam optimized for aerial assault. Its mobile-armor mode, crushing melee weapon, and ranged armament support fast, aggressive attacks.",
+      "aliases": "Raider Gundam | Boost Raider Gundam | Mobile Suit Gundam SEED | Mobile Suit Gundam SEED Eclipse",
+      "imageKey": "ce-0015"
+    },
+    {
+      "id": "ce-0019-hg",
+      "name": "Strike Dagger",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2021-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Dagger is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2021-12. Supported presentation names include Strike Dagger. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Strike Dagger is the Earth Alliance's first major mass-production mobile suit derived from GAT-X technology. It simplified the Strike Gundam concept into a standardized frontline machine.",
+      "aliases": "Strike Dagger | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0019"
+    },
+    {
+      "id": "ce-0019",
+      "name": "Strike Dagger",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2004-02",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Dagger is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2004-02. Supported presentation names include Strike Dagger. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Strike Dagger is the Earth Alliance's first major mass-production mobile suit derived from GAT-X technology. It simplified the Strike Gundam concept into a standardized frontline machine.",
+      "aliases": "Strike Dagger | Mobile Suit Gundam SEED",
+      "imageKey": "ce-0019"
+    },
+    {
+      "id": "ce-0005-eg",
+      "name": "Strike Gundam",
+      "modelNumber": "",
+      "grade": "Entry Grade",
+      "availableGrades": [
+        "Entry Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2022-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Gundam is represented by 3 certified Entry Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2022-01. Supported presentation names include Strike Gundam, Strike Rouge. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X105 Strike is a modular Earth Alliance Gundam built around interchangeable Striker packs. Aile, Sword, Launcher, Perfect Strike, Rouge, and other closely related forms remain configurations of the same underlying mech identity in Hangar Bay.",
+      "aliases": "Strike Gundam | Sword Strike Gundam | Launcher Strike Gundam | Aile Strike Gundam | Strike Gundam Striker Weapon System | Strike Rouge + I.W.S.P. | Perfect Strike Gundam | Aile Strike Rouge | Strike Rouge | Aile Strike Gundam Ver.RM | Strike Rouge Ootori | Aile Strike Rouge + Skygrasper | Mobile Suit Gundam SEED | Mobile Suit Gundam SEED MSV",
+      "imageKey": "ce-0005"
+    },
+    {
+      "id": "ce-0005-hg",
+      "name": "Strike Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2002-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Gundam is represented by 5 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED, Mobile Suit Gundam SEED MSV. The earliest controlled grade evidence is 2002-11. Supported presentation names include Aile Strike Gundam, Strike Rouge + I.W.S.P., Perfect Strike Gundam, Aile Strike Rouge. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X105 Strike is a modular Earth Alliance Gundam built around interchangeable Striker packs. Aile, Sword, Launcher, Perfect Strike, Rouge, and other closely related forms remain configurations of the same underlying mech identity in Hangar Bay.",
+      "aliases": "Strike Gundam | Sword Strike Gundam | Launcher Strike Gundam | Aile Strike Gundam | Strike Gundam Striker Weapon System | Strike Rouge + I.W.S.P. | Perfect Strike Gundam | Aile Strike Rouge | Strike Rouge | Aile Strike Gundam Ver.RM | Strike Rouge Ootori | Aile Strike Rouge + Skygrasper | Mobile Suit Gundam SEED | Mobile Suit Gundam SEED MSV",
+      "imageKey": "ce-0005"
+    },
+    {
+      "id": "ce-0005-rg",
+      "name": "Strike Gundam",
+      "modelNumber": "",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2011-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Gundam is represented by 2 certified Real Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2011-04. Supported presentation names include Aile Strike Gundam, Strike Rouge + I.W.S.P.. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X105 Strike is a modular Earth Alliance Gundam built around interchangeable Striker packs. Aile, Sword, Launcher, Perfect Strike, Rouge, and other closely related forms remain configurations of the same underlying mech identity in Hangar Bay.",
+      "aliases": "Strike Gundam | Sword Strike Gundam | Launcher Strike Gundam | Aile Strike Gundam | Strike Gundam Striker Weapon System | Strike Rouge + I.W.S.P. | Perfect Strike Gundam | Aile Strike Rouge | Strike Rouge | Aile Strike Gundam Ver.RM | Strike Rouge Ootori | Aile Strike Rouge + Skygrasper | Mobile Suit Gundam SEED | Mobile Suit Gundam SEED MSV",
+      "imageKey": "ce-0005"
+    },
+    {
+      "id": "ce-0005-mg",
+      "name": "Strike Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2003-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Gundam is represented by 4 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2003-10. Supported presentation names include Aile Strike Gundam, Strike Rouge, Aile Strike Gundam Ver.RM, Strike Rouge Ootori. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X105 Strike is a modular Earth Alliance Gundam built around interchangeable Striker packs. Aile, Sword, Launcher, Perfect Strike, Rouge, and other closely related forms remain configurations of the same underlying mech identity in Hangar Bay.",
+      "aliases": "Strike Gundam | Sword Strike Gundam | Launcher Strike Gundam | Aile Strike Gundam | Strike Gundam Striker Weapon System | Strike Rouge + I.W.S.P. | Perfect Strike Gundam | Aile Strike Rouge | Strike Rouge | Aile Strike Gundam Ver.RM | Strike Rouge Ootori | Aile Strike Rouge + Skygrasper | Mobile Suit Gundam SEED | Mobile Suit Gundam SEED MSV",
+      "imageKey": "ce-0005"
+    },
+    {
+      "id": "ce-0005-pg",
+      "name": "Strike Gundam",
+      "modelNumber": "",
+      "grade": "Perfect Grade",
+      "availableGrades": [
+        "Perfect Grade"
+      ],
+      "scale": "1/60",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2004-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Gundam is represented by 3 certified Perfect Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2004-11. Supported presentation names include Strike Gundam, Aile Strike Rouge + Skygrasper, Perfect Strike Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X105 Strike is a modular Earth Alliance Gundam built around interchangeable Striker packs. Aile, Sword, Launcher, Perfect Strike, Rouge, and other closely related forms remain configurations of the same underlying mech identity in Hangar Bay.",
+      "aliases": "Strike Gundam | Sword Strike Gundam | Launcher Strike Gundam | Aile Strike Gundam | Strike Gundam Striker Weapon System | Strike Rouge + I.W.S.P. | Perfect Strike Gundam | Aile Strike Rouge | Strike Rouge | Aile Strike Gundam Ver.RM | Strike Rouge Ootori | Aile Strike Rouge + Skygrasper | Mobile Suit Gundam SEED | Mobile Suit Gundam SEED MSV",
+      "imageKey": "ce-0005"
+    },
+    {
+      "id": "ce-0005",
+      "name": "Strike Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED",
+      "releaseDate": "2002-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Gundam is represented by 8 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED. The earliest controlled grade evidence is 2002-10. Supported presentation names include Strike Gundam, Sword Strike Gundam, Launcher Strike Gundam, Aile Strike Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GAT-X105 Strike is a modular Earth Alliance Gundam built around interchangeable Striker packs. Aile, Sword, Launcher, Perfect Strike, Rouge, and other closely related forms remain configurations of the same underlying mech identity in Hangar Bay.",
+      "aliases": "Strike Gundam | Sword Strike Gundam | Launcher Strike Gundam | Aile Strike Gundam | Strike Gundam Striker Weapon System | Strike Rouge + I.W.S.P. | Perfect Strike Gundam | Aile Strike Rouge | Strike Rouge | Aile Strike Gundam Ver.RM | Strike Rouge Ootori | Aile Strike Rouge + Skygrasper | Mobile Suit Gundam SEED | Mobile Suit Gundam SEED MSV",
+      "imageKey": "ce-0005"
+    },
+    {
+      "id": "ce-0006-hg",
+      "name": "Gundam Astray Blue Frame",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Astray",
+      "releaseDate": "2004-02",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Blue Frame is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Astray, Mobile Suit Gundam SEED Astray B. The earliest controlled grade evidence is 2004-02. Supported presentation names include Gundam Astray Blue Frame, Gundam Astray Blue Frame Second L. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "One of Orb's prototype Astray units, the Blue Frame was repeatedly adapted for mercenary work. Its Second L, Second Revise, and Blue Frame D forms emphasize mission-specific equipment while retaining the Blue Frame identity.",
+      "aliases": "Gundam Astray Blue Frame | Gundam Astray Blue Frame Second L | Gundam Astray Blue Frame Second Revise | Gundam Astray Blue Frame D | Mobile Suit Gundam SEED Astray | Mobile Suit Gundam SEED MSV | Mobile Suit Gundam SEED VS Astray | Mobile Suit Gundam SEED Astray B | Mobile Suit Gundam SEED Destiny Astray B",
+      "imageKey": "ce-0006"
+    },
+    {
+      "id": "ce-0006-mg",
+      "name": "Gundam Astray Blue Frame",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED Astray",
+      "releaseDate": "2009-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Blue Frame is represented by 2 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED VS Astray, Mobile Suit Gundam SEED Destiny Astray B. The earliest controlled grade evidence is 2009-10. Supported presentation names include Gundam Astray Blue Frame Second Revise, Gundam Astray Blue Frame D. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "One of Orb's prototype Astray units, the Blue Frame was repeatedly adapted for mercenary work. Its Second L, Second Revise, and Blue Frame D forms emphasize mission-specific equipment while retaining the Blue Frame identity.",
+      "aliases": "Gundam Astray Blue Frame | Gundam Astray Blue Frame Second L | Gundam Astray Blue Frame Second Revise | Gundam Astray Blue Frame D | Mobile Suit Gundam SEED Astray | Mobile Suit Gundam SEED MSV | Mobile Suit Gundam SEED VS Astray | Mobile Suit Gundam SEED Astray B | Mobile Suit Gundam SEED Destiny Astray B",
+      "imageKey": "ce-0006"
+    },
+    {
+      "id": "ce-0006",
+      "name": "Gundam Astray Blue Frame",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED Astray",
+      "releaseDate": "2002-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Blue Frame is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Astray, Mobile Suit Gundam SEED MSV. The earliest controlled grade evidence is 2002-11. Supported presentation names include Gundam Astray Blue Frame, Gundam Astray Blue Frame Second L. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "One of Orb's prototype Astray units, the Blue Frame was repeatedly adapted for mercenary work. Its Second L, Second Revise, and Blue Frame D forms emphasize mission-specific equipment while retaining the Blue Frame identity.",
+      "aliases": "Gundam Astray Blue Frame | Gundam Astray Blue Frame Second L | Gundam Astray Blue Frame Second Revise | Gundam Astray Blue Frame D | Mobile Suit Gundam SEED Astray | Mobile Suit Gundam SEED MSV | Mobile Suit Gundam SEED VS Astray | Mobile Suit Gundam SEED Astray B | Mobile Suit Gundam SEED Destiny Astray B",
+      "imageKey": "ce-0006"
+    },
+    {
+      "id": "ce-0001-hg",
+      "name": "Gundam Astray Red Frame",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Astray",
+      "releaseDate": "2003-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Red Frame is represented by 3 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Astray, Mobile Suit Gundam SEED Destiny Astray R. The earliest controlled grade evidence is 2003-11. Supported presentation names include Gundam Astray Red Frame, Gundam Astray Red Frame Flight Unit, Gundam Astray Red Dragon. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "One of Orb's five prototype Astray mobile suits, the Red Frame survived the destruction of Heliopolis and became known for its close-combat use of a physical katana. Later upgrades expanded the same machine into Flight Unit, Kai, Powered Red, Red Dragon, and related configurations.",
+      "aliases": "Gundam Astray Red Frame | Gundam Astray Red Frame Flight Unit | Gundam Astray Red Dragon | Gundam Astray Red Frame Kai | Gundam Astray Turn Red | Gundam Astray Red Frame Powered Red | Mobile Suit Gundam SEED Astray | Mobile Suit Gundam SEED MSV | Mobile Suit Gundam SEED VS Astray | Mobile Suit Gundam SEED Destiny Astray R | Mobile Suit Gundam SEED Astray R",
+      "imageKey": "ce-0001"
+    },
+    {
+      "id": "ce-0001-rg",
+      "name": "Gundam Astray Red Frame",
+      "modelNumber": "",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Astray",
+      "releaseDate": "2015-08",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Red Frame is represented by 2 certified Real Grade physical presentation(s) associated with Mobile Suit Gundam SEED Astray, Mobile Suit Gundam SEED Destiny Astray R. The earliest controlled grade evidence is 2015-08. Supported presentation names include Gundam Astray Red Frame, Gundam Astray Red Dragon. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "One of Orb's five prototype Astray mobile suits, the Red Frame survived the destruction of Heliopolis and became known for its close-combat use of a physical katana. Later upgrades expanded the same machine into Flight Unit, Kai, Powered Red, Red Dragon, and related configurations.",
+      "aliases": "Gundam Astray Red Frame | Gundam Astray Red Frame Flight Unit | Gundam Astray Red Dragon | Gundam Astray Red Frame Kai | Gundam Astray Turn Red | Gundam Astray Red Frame Powered Red | Mobile Suit Gundam SEED Astray | Mobile Suit Gundam SEED MSV | Mobile Suit Gundam SEED VS Astray | Mobile Suit Gundam SEED Destiny Astray R | Mobile Suit Gundam SEED Astray R",
+      "imageKey": "ce-0001"
+    },
+    {
+      "id": "ce-0001-mg",
+      "name": "Gundam Astray Red Frame",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED Astray",
+      "releaseDate": "2010-02",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Red Frame is represented by 5 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED VS Astray, Mobile Suit Gundam SEED Destiny Astray R. The earliest controlled grade evidence is 2010-02. Supported presentation names include Gundam Astray Red Frame Kai, Gundam Astray Turn Red, Gundam Astray Red Dragon, Gundam Astray Red Frame. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "One of Orb's five prototype Astray mobile suits, the Red Frame survived the destruction of Heliopolis and became known for its close-combat use of a physical katana. Later upgrades expanded the same machine into Flight Unit, Kai, Powered Red, Red Dragon, and related configurations.",
+      "aliases": "Gundam Astray Red Frame | Gundam Astray Red Frame Flight Unit | Gundam Astray Red Dragon | Gundam Astray Red Frame Kai | Gundam Astray Turn Red | Gundam Astray Red Frame Powered Red | Mobile Suit Gundam SEED Astray | Mobile Suit Gundam SEED MSV | Mobile Suit Gundam SEED VS Astray | Mobile Suit Gundam SEED Destiny Astray R | Mobile Suit Gundam SEED Astray R",
+      "imageKey": "ce-0001"
+    },
+    {
+      "id": "ce-0001-pg",
+      "name": "Gundam Astray Red Frame",
+      "modelNumber": "",
+      "grade": "Perfect Grade",
+      "availableGrades": [
+        "Perfect Grade"
+      ],
+      "scale": "1/60",
+      "series": "Mobile Suit Gundam SEED Astray",
+      "releaseDate": "2009-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Red Frame is represented by 2 certified Perfect Grade physical presentation(s) associated with Mobile Suit Gundam SEED Astray, Mobile Suit Gundam SEED VS Astray. The earliest controlled grade evidence is 2009-03. Supported presentation names include Gundam Astray Red Frame, Gundam Astray Red Frame Kai. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "One of Orb's five prototype Astray mobile suits, the Red Frame survived the destruction of Heliopolis and became known for its close-combat use of a physical katana. Later upgrades expanded the same machine into Flight Unit, Kai, Powered Red, Red Dragon, and related configurations.",
+      "aliases": "Gundam Astray Red Frame | Gundam Astray Red Frame Flight Unit | Gundam Astray Red Dragon | Gundam Astray Red Frame Kai | Gundam Astray Turn Red | Gundam Astray Red Frame Powered Red | Mobile Suit Gundam SEED Astray | Mobile Suit Gundam SEED MSV | Mobile Suit Gundam SEED VS Astray | Mobile Suit Gundam SEED Destiny Astray R | Mobile Suit Gundam SEED Astray R",
+      "imageKey": "ce-0001"
+    },
+    {
+      "id": "ce-0001-hirm",
+      "name": "Gundam Astray Red Frame",
+      "modelNumber": "",
+      "grade": "Hi-Resolution Model",
+      "availableGrades": [
+        "Hi-Resolution Model"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED Astray",
+      "releaseDate": "2018-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Red Frame is represented by 2 certified Hi-Resolution Model physical presentation(s) associated with Mobile Suit Gundam SEED Astray, Mobile Suit Gundam SEED Astray R. The earliest controlled grade evidence is 2018-11. Supported presentation names include Gundam Astray Red Frame, Gundam Astray Red Frame Powered Red. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "One of Orb's five prototype Astray mobile suits, the Red Frame survived the destruction of Heliopolis and became known for its close-combat use of a physical katana. Later upgrades expanded the same machine into Flight Unit, Kai, Powered Red, Red Dragon, and related configurations.",
+      "aliases": "Gundam Astray Red Frame | Gundam Astray Red Frame Flight Unit | Gundam Astray Red Dragon | Gundam Astray Red Frame Kai | Gundam Astray Turn Red | Gundam Astray Red Frame Powered Red | Mobile Suit Gundam SEED Astray | Mobile Suit Gundam SEED MSV | Mobile Suit Gundam SEED VS Astray | Mobile Suit Gundam SEED Destiny Astray R | Mobile Suit Gundam SEED Astray R",
+      "imageKey": "ce-0001"
+    },
+    {
+      "id": "ce-0001",
+      "name": "Gundam Astray Red Frame",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED Astray",
+      "releaseDate": "2002-08",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Red Frame is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Astray, Mobile Suit Gundam SEED MSV. The earliest controlled grade evidence is 2002-08. Supported presentation names include Gundam Astray Red Frame. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "One of Orb's five prototype Astray mobile suits, the Red Frame survived the destruction of Heliopolis and became known for its close-combat use of a physical katana. Later upgrades expanded the same machine into Flight Unit, Kai, Powered Red, Red Dragon, and related configurations.",
+      "aliases": "Gundam Astray Red Frame | Gundam Astray Red Frame Flight Unit | Gundam Astray Red Dragon | Gundam Astray Red Frame Kai | Gundam Astray Turn Red | Gundam Astray Red Frame Powered Red | Mobile Suit Gundam SEED Astray | Mobile Suit Gundam SEED MSV | Mobile Suit Gundam SEED VS Astray | Mobile Suit Gundam SEED Destiny Astray R | Mobile Suit Gundam SEED Astray R",
+      "imageKey": "ce-0001"
+    },
+    {
+      "id": "ce-0045",
+      "name": "105 Slaughter Dagger",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "releaseDate": "2006-08",
+      "releaseType": "Retail",
+      "kitSummary": "105 Slaughter Dagger is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED C.E. 73: STARGAZER. The earliest controlled grade evidence is 2006-08. Supported presentation names include 105 Slaughter Dagger. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The 105 Slaughter Dagger is a Phantom Pain assault version of the 105 Dagger. It retains Striker compatibility while adding equipment and operational changes for special-forces use.",
+      "aliases": "105 Slaughter Dagger | Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "imageKey": "ce-0045"
+    },
+    {
+      "id": "ce-0047",
+      "name": "Blu Duel Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "releaseDate": "2006-09",
+      "releaseType": "Retail",
+      "kitSummary": "Blu Duel Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED C.E. 73: STARGAZER. The earliest controlled grade evidence is 2006-09. Supported presentation names include Blu Duel Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Blu Duel is an Actaeon Project reconstruction of Duel Gundam. Its integrated armor and close-combat weapons create a more specialized assault machine than the original Duel configuration.",
+      "aliases": "Blu Duel Gundam | Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "imageKey": "ce-0047"
+    },
+    {
+      "id": "ce-0051",
+      "name": "Civilian Astray DSSD Custom",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "releaseDate": "2007-02",
+      "releaseType": "Retail",
+      "kitSummary": "Civilian Astray DSSD Custom is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED C.E. 73: STARGAZER. The earliest controlled grade evidence is 2007-02. Supported presentation names include Civilian Astray DSSD Custom. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Civilian Astray DSSD Custom is a nonmilitary Astray-derived mobile suit operated by the Deep Space Survey and Development Organization. Its design supports construction, maintenance, and space-development work.",
+      "aliases": "Civilian Astray DSSD Custom | Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "imageKey": "ce-0051"
+    },
+    {
+      "id": "ce-0048",
+      "name": "GINN Insurgent Type",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "releaseDate": "2006-09",
+      "releaseType": "Retail",
+      "kitSummary": "GINN Insurgent Type is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED C.E. 73: STARGAZER. The earliest controlled grade evidence is 2006-09. Supported presentation names include GINN Insurgent Type. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GINN Insurgent Type is a modified GINN used by irregular forces. Its altered equipment and field modifications reflect the continued circulation of ZAFT mobile suits after the first war.",
+      "aliases": "GINN Insurgent Type | Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "imageKey": "ce-0048"
+    },
+    {
+      "id": "ce-0049",
+      "name": "Kerberos BuCUE Hound",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "releaseDate": "2006-11",
+      "releaseType": "Retail",
+      "kitSummary": "Kerberos BuCUE Hound is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED C.E. 73: STARGAZER. The earliest controlled grade evidence is 2006-11. Supported presentation names include Kerberos BuCUE Hound. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Kerberos BuCUE Hound is a BuCUE Hound configured with the Kerberos Wizard pack. The combined machine emphasizes close-range attacks and heavy head-mounted weaponry.",
+      "aliases": "Kerberos BuCUE Hound | Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "imageKey": "ce-0049"
+    },
+    {
+      "id": "ce-0050",
+      "name": "Stargazer Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "releaseDate": "2006-11",
+      "releaseType": "Retail",
+      "kitSummary": "Stargazer Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED C.E. 73: STARGAZER. The earliest controlled grade evidence is 2006-11. Supported presentation names include Stargazer Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Stargazer is a DSSD exploration mobile suit built for deep-space research rather than conventional warfare. Its Voiture Lumiere propulsion system enables acceleration using a solar-wind-derived light-pressure concept.",
+      "aliases": "Stargazer Gundam | Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "imageKey": "ce-0050"
+    },
+    {
+      "id": "ce-0043",
+      "name": "Strike Noir Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "releaseDate": "2006-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Noir Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED C.E. 73: STARGAZER. The earliest controlled grade evidence is 2006-06. Supported presentation names include Strike Noir Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Strike Noir is a heavily modified Strike-family mobile suit built for Phantom Pain operations. The Noir Striker gives it high mobility, twin linear guns, and close-combat capability as a distinct custom mech.",
+      "aliases": "Strike Noir Gundam | Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "imageKey": "ce-0043"
+    },
+    {
+      "id": "ce-0043-mg",
+      "name": "Strike Noir Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "releaseDate": "2007-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Noir Gundam is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED C.E. 73: STARGAZER. The earliest controlled grade evidence is 2007-03. Supported presentation names include Strike Noir Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Strike Noir is a heavily modified Strike-family mobile suit built for Phantom Pain operations. The Noir Striker gives it high mobility, twin linear guns, and close-combat capability as a distinct custom mech.",
+      "aliases": "Strike Noir Gundam | Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "imageKey": "ce-0043"
+    },
+    {
+      "id": "ce-0046",
+      "name": "Verde Buster Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "releaseDate": "2006-08",
+      "releaseType": "Retail",
+      "kitSummary": "Verde Buster Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED C.E. 73: STARGAZER. The earliest controlled grade evidence is 2006-08. Supported presentation names include Verde Buster Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Verde Buster is an Actaeon Project reconstruction of the Buster concept. It adds revised heavy weapons and improved close-range capability while remaining a distinct customized mobile suit.",
+      "aliases": "Verde Buster Gundam | Mobile Suit Gundam SEED C.E. 73: STARGAZER",
+      "imageKey": "ce-0046"
+    },
+    {
+      "id": "ce-0032-hg",
+      "name": "Abyss Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2005-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Abyss Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2005-04. Supported presentation names include Abyss Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X31S Abyss is a transformable amphibious ZAFT Gundam. Its mobile-armor mode and extensive beam armament allow it to fight effectively underwater and at range.",
+      "aliases": "Abyss Gundam | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0032"
+    },
+    {
+      "id": "ce-0032",
+      "name": "Abyss Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2005-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Abyss Gundam is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2005-01. Supported presentation names include Abyss Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X31S Abyss is a transformable amphibious ZAFT Gundam. Its mobile-armor mode and extensive beam armament allow it to fight effectively underwater and at range.",
+      "aliases": "Abyss Gundam | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0032"
+    },
+    {
+      "id": "ce-0041-hg",
+      "name": "Akatsuki Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2006-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Akatsuki Gundam is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2006-01. Supported presentation names include Shiranui Akatsuki Gundam, Oowashi Akatsuki Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Akatsuki is an Orb mobile suit protected by a reflective golden armor system. Its Oowashi and Shiranui equipment sets support atmospheric and space combat as configurations of one canonical mech.",
+      "aliases": "Akatsuki Gundam Oowashi/Shiranui Full Set | Shiranui Akatsuki Gundam | Oowashi Akatsuki Gundam | Akatsuki Gundam (Oowashi) | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0041"
+    },
+    {
+      "id": "ce-0041-rg",
+      "name": "Akatsuki Gundam",
+      "modelNumber": "",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2024-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Akatsuki Gundam is represented by 1 certified Real Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2024-12. Supported presentation names include Akatsuki Gundam (Oowashi). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Akatsuki is an Orb mobile suit protected by a reflective golden armor system. Its Oowashi and Shiranui equipment sets support atmospheric and space combat as configurations of one canonical mech.",
+      "aliases": "Akatsuki Gundam Oowashi/Shiranui Full Set | Shiranui Akatsuki Gundam | Oowashi Akatsuki Gundam | Akatsuki Gundam (Oowashi) | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0041"
+    },
+    {
+      "id": "ce-0041",
+      "name": "Akatsuki Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2007-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Akatsuki Gundam is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2007-03. Supported presentation names include Akatsuki Gundam Oowashi/Shiranui Full Set. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Akatsuki is an Orb mobile suit protected by a reflective golden armor system. Its Oowashi and Shiranui equipment sets support atmospheric and space combat as configurations of one canonical mech.",
+      "aliases": "Akatsuki Gundam Oowashi/Shiranui Full Set | Shiranui Akatsuki Gundam | Oowashi Akatsuki Gundam | Akatsuki Gundam (Oowashi) | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0041"
+    },
+    {
+      "id": "ce-0030-hg",
+      "name": "Chaos Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2004-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Chaos Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2004-12. Supported presentation names include Chaos Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X24S Chaos is a transformable ZAFT Gundam designed for high-speed space and aerial combat. Its mobile armor form and detachable weapon pods support multi-directional attacks.",
+      "aliases": "Chaos Gundam | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0030"
+    },
+    {
+      "id": "ce-0030",
+      "name": "Chaos Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2004-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Chaos Gundam is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2004-11. Supported presentation names include Chaos Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X24S Chaos is a transformable ZAFT Gundam designed for high-speed space and aerial combat. Its mobile armor form and detachable weapon pods support multi-directional attacks.",
+      "aliases": "Chaos Gundam | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0030"
+    },
+    {
+      "id": "ce-0065",
+      "name": "Dagger L",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2021-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Dagger L is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2021-04. Supported presentation names include Dagger L, Dark Dagger L. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Dagger L is an Earth Alliance mass-production mobile suit developed from the Strike Dagger lineage. Standard and Dark presentations share one identity, while Striker packs are copy-level configuration or accessory choices.",
+      "aliases": "Dagger L | Dark Dagger L | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0065"
+    },
+    {
+      "id": "ce-0034-hg",
+      "name": "Destiny Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2005-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Destiny Gundam is represented by 3 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny, Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2005-11. Supported presentation names include Destiny Gundam, Destiny Gundam Spec II + Zeus Silhouette. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X42S Destiny is a high-performance ZAFT Gundam designed to cover close, medium, and long-range combat with one integrated equipment set. Spec II remains a selectable configuration of the same mech identity.",
+      "aliases": "Destiny Gundam | Destiny Gundam Spec II + Zeus Silhouette | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0034"
+    },
+    {
+      "id": "ce-0034-rg",
+      "name": "Destiny Gundam",
+      "modelNumber": "",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2013-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Destiny Gundam is represented by 1 certified Real Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2013-04. Supported presentation names include Destiny Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X42S Destiny is a high-performance ZAFT Gundam designed to cover close, medium, and long-range combat with one integrated equipment set. Spec II remains a selectable configuration of the same mech identity.",
+      "aliases": "Destiny Gundam | Destiny Gundam Spec II + Zeus Silhouette | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0034"
+    },
+    {
+      "id": "ce-0034-mg",
+      "name": "Destiny Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2007-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Destiny Gundam is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2007-10. Supported presentation names include Destiny Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X42S Destiny is a high-performance ZAFT Gundam designed to cover close, medium, and long-range combat with one integrated equipment set. Spec II remains a selectable configuration of the same mech identity.",
+      "aliases": "Destiny Gundam | Destiny Gundam Spec II + Zeus Silhouette | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0034"
+    },
+    {
+      "id": "ce-0034",
+      "name": "Destiny Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2005-05",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Destiny Gundam is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2005-05. Supported presentation names include Destiny Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X42S Destiny is a high-performance ZAFT Gundam designed to cover close, medium, and long-range combat with one integrated equipment set. Spec II remains a selectable configuration of the same mech identity.",
+      "aliases": "Destiny Gundam | Destiny Gundam Spec II + Zeus Silhouette | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0034"
+    },
+    {
+      "id": "ce-0072",
+      "name": "Destroy Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2024-03",
+      "releaseType": "Retail",
+      "kitSummary": "Destroy Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2024-03. Supported presentation names include Destroy Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Destroy Gundam is a gigantic Earth Alliance transformable mobile weapon combining mobile-suit and mobile-armor modes. Its scale, heavy armor, and numerous beam weapons make it a strategic battlefield platform.",
+      "aliases": "Destroy Gundam | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0072"
+    },
+    {
+      "id": "ce-0037",
+      "name": "DOM Trooper",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2005-07",
+      "releaseType": "Retail",
+      "kitSummary": "DOM Trooper is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2005-07. Supported presentation names include DOM Trooper. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The DOM Trooper is a hovering ZAFT-derived mobile suit developed from an abandoned design and fielded by the Clyne Faction. Its high-speed ground movement and coordinated squad tactics echo the earlier Universal Century Dom concept.",
+      "aliases": "DOM Trooper | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0037"
+    },
+    {
+      "id": "ce-0031-hg",
+      "name": "Gaia Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2005-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gaia Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2005-01. Supported presentation names include Gaia Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X88S Gaia is a transformable ZAFT Gundam with a quadrupedal mobile-armor mode. The design emphasizes rapid ground movement, close combat, and attacks from difficult terrain.",
+      "aliases": "Gaia Gundam | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0031"
+    },
+    {
+      "id": "ce-0031",
+      "name": "Gaia Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2004-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gaia Gundam is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2004-12. Supported presentation names include Gaia Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X88S Gaia is a transformable ZAFT Gundam with a quadrupedal mobile-armor mode. The design emphasizes rapid ground movement, close combat, and attacks from difficult terrain.",
+      "aliases": "Gaia Gundam | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0031"
+    },
+    {
+      "id": "ce-0038",
+      "name": "GINN High Maneuver Type II",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2005-07",
+      "releaseType": "Retail",
+      "kitSummary": "GINN High Maneuver Type II is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2005-07. Supported presentation names include GINN High Maneuver Type II. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GINN High Maneuver Type II refines the High Maneuver concept with a stronger close-combat focus. Its thruster system and specialized weapons turn the GINN frame into a fast assault unit.",
+      "aliases": "GINN High Maneuver Type II | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0038"
+    },
+    {
+      "id": "ce-0035",
+      "name": "GOUF Ignited",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2005-05",
+      "releaseType": "Retail",
+      "kitSummary": "GOUF Ignited is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2005-05. Supported presentation names include GOUF Ignited. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GOUF Ignited is a high-performance ZAFT mobile suit focused on close combat and atmospheric mobility. Its flight system, heat rod, and beam sword distinguish it from the ZAKU family while pilot colors remain copy-level details.",
+      "aliases": "GOUF Ignited | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0035"
+    },
+    {
+      "id": "ce-0028-hg",
+      "name": "Impulse Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2004-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Impulse Gundam is represented by 5 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2004-11. Supported presentation names include Force Impulse Gundam, Sword Impulse Gundam, Blast Impulse Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X56S Impulse is a modular ZAFT Gundam assembled from the Core Splendor and separate body components. Force, Sword, Blast, Destiny, and Spec II forms are configuration choices under one canonical Impulse identity.",
+      "aliases": "Force Impulse Gundam | Sword Impulse Gundam | Blast Impulse Gundam | Destiny Impulse Gundam R | Force Impulse Gundam Spec II | Destiny Impulse Gundam | Sword Impulse Gundam Spec II | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Destiny Astray R | Mobile Suit Gundam SEED Destiny MSV | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0028"
+    },
+    {
+      "id": "ce-0028-rg",
+      "name": "Impulse Gundam",
+      "modelNumber": "",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2020-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Impulse Gundam is represented by 5 certified Real Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny, Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2020-04. Supported presentation names include Force Impulse Gundam, Force Impulse Gundam Spec II, Destiny Impulse Gundam, Sword Impulse Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X56S Impulse is a modular ZAFT Gundam assembled from the Core Splendor and separate body components. Force, Sword, Blast, Destiny, and Spec II forms are configuration choices under one canonical Impulse identity.",
+      "aliases": "Force Impulse Gundam | Sword Impulse Gundam | Blast Impulse Gundam | Destiny Impulse Gundam R | Force Impulse Gundam Spec II | Destiny Impulse Gundam | Sword Impulse Gundam Spec II | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Destiny Astray R | Mobile Suit Gundam SEED Destiny MSV | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0028"
+    },
+    {
+      "id": "ce-0028-mg",
+      "name": "Impulse Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2008-05",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Impulse Gundam is represented by 3 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny, Mobile Suit Gundam SEED Destiny Astray R. The earliest controlled grade evidence is 2008-05. Supported presentation names include Force Impulse Gundam, Sword Impulse Gundam, Destiny Impulse Gundam R. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X56S Impulse is a modular ZAFT Gundam assembled from the Core Splendor and separate body components. Force, Sword, Blast, Destiny, and Spec II forms are configuration choices under one canonical Impulse identity.",
+      "aliases": "Force Impulse Gundam | Sword Impulse Gundam | Blast Impulse Gundam | Destiny Impulse Gundam R | Force Impulse Gundam Spec II | Destiny Impulse Gundam | Sword Impulse Gundam Spec II | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Destiny Astray R | Mobile Suit Gundam SEED Destiny MSV | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0028"
+    },
+    {
+      "id": "ce-0028",
+      "name": "Impulse Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2004-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Impulse Gundam is represented by 6 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2004-10. Supported presentation names include Force Impulse Gundam, Sword Impulse Gundam, Blast Impulse Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X56S Impulse is a modular ZAFT Gundam assembled from the Core Splendor and separate body components. Force, Sword, Blast, Destiny, and Spec II forms are configuration choices under one canonical Impulse identity.",
+      "aliases": "Force Impulse Gundam | Sword Impulse Gundam | Blast Impulse Gundam | Destiny Impulse Gundam R | Force Impulse Gundam Spec II | Destiny Impulse Gundam | Sword Impulse Gundam Spec II | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Destiny Astray R | Mobile Suit Gundam SEED Destiny MSV | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0028"
+    },
+    {
+      "id": "ce-0039-hg",
+      "name": "Infinite Justice Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2005-08",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Infinite Justice Gundam is represented by 3 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny, Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2005-08. Supported presentation names include Infinite Justice Gundam, Infinite Justice Gundam Type II. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Infinite Justice is a close-combat successor to Justice Gundam with extensive beam blades and a detachable Fatum flight unit. Type II is treated as a later configuration of the same canonical Infinite Justice identity.",
+      "aliases": "Infinite Justice Gundam | Infinite Justice Gundam Type II | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0039"
+    },
+    {
+      "id": "ce-0039-mg",
+      "name": "Infinite Justice Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2008-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Infinite Justice Gundam is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2008-10. Supported presentation names include Infinite Justice Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Infinite Justice is a close-combat successor to Justice Gundam with extensive beam blades and a detachable Fatum flight unit. Type II is treated as a later configuration of the same canonical Infinite Justice identity.",
+      "aliases": "Infinite Justice Gundam | Infinite Justice Gundam Type II | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0039"
+    },
+    {
+      "id": "ce-0039",
+      "name": "Infinite Justice Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2006-05",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Infinite Justice Gundam is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2006-05. Supported presentation names include Infinite Justice Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Infinite Justice is a close-combat successor to Justice Gundam with extensive beam blades and a detachable Fatum flight unit. Type II is treated as a later configuration of the same canonical Infinite Justice identity.",
+      "aliases": "Infinite Justice Gundam | Infinite Justice Gundam Type II | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0039"
+    },
+    {
+      "id": "ce-0040-hg",
+      "name": "Legend Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2005-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Legend Gundam is represented by 2 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2005-10. Supported presentation names include Legend Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X666S Legend is a ZAFT all-range combat Gundam equipped with a DRAGOON system. It develops Providence's remote-weapon role into a more mobile and flexible platform.",
+      "aliases": "Legend Gundam | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0040"
+    },
+    {
+      "id": "ce-0040",
+      "name": "Legend Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2006-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Legend Gundam is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2006-06. Supported presentation names include Legend Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X666S Legend is a ZAFT all-range combat Gundam equipped with a DRAGOON system. It develops Providence's remote-weapon role into a more mobile and flexible platform.",
+      "aliases": "Legend Gundam | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0040"
+    },
+    {
+      "id": "ce-0042",
+      "name": "Murasame",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2006-03",
+      "releaseType": "Retail",
+      "kitSummary": "Murasame is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2006-03. Supported presentation names include Murasame. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Murasame is Orb's transformable mass-production mobile suit, able to shift between mobile-suit and flight forms. Its Kai development continues the same aerial-defense lineage with improved performance.",
+      "aliases": "Murasame | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0042"
+    },
+    {
+      "id": "ce-0033-hg",
+      "name": "Saviour Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2005-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Saviour Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2005-03. Supported presentation names include Saviour Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X23S Saviour is a transformable high-mobility ZAFT Gundam. Its aerodynamic mobile-armor form supports fast atmospheric deployment and long-range beam attacks.",
+      "aliases": "Saviour Gundam | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0033"
+    },
+    {
+      "id": "ce-0033",
+      "name": "Saviour Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2005-02",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Saviour Gundam is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2005-02. Supported presentation names include Saviour Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The ZGMF-X23S Saviour is a transformable high-mobility ZAFT Gundam. Its aerodynamic mobile-armor form supports fast atmospheric deployment and long-range beam attacks.",
+      "aliases": "Saviour Gundam | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0033"
+    },
+    {
+      "id": "ce-0036-hg",
+      "name": "Strike Freedom Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2005-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Freedom Gundam is represented by 4 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny, Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2005-09. Supported presentation names include Strike Freedom Gundam, Mighty Strike Freedom Gundam, Strike Freedom Gundam Type II + Wings of Light Set. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Strike Freedom is an advanced development of Freedom built for extreme mobility and multi-target combat. Standard, Type II, and Mighty forms remain configurations under one canonical identity, while wings, effects, and package extras are not cataloged separately.",
+      "aliases": "Strike Freedom Gundam | Strike Freedom Gundam Lightning Edition | Mighty Strike Freedom Gundam | Strike Freedom Gundam Type II + Wings of Light Set | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0036"
+    },
+    {
+      "id": "ce-0036-rg",
+      "name": "Strike Freedom Gundam",
+      "modelNumber": "",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2013-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Freedom Gundam is represented by 1 certified Real Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2013-11. Supported presentation names include Strike Freedom Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Strike Freedom is an advanced development of Freedom built for extreme mobility and multi-target combat. Standard, Type II, and Mighty forms remain configurations under one canonical identity, while wings, effects, and package extras are not cataloged separately.",
+      "aliases": "Strike Freedom Gundam | Strike Freedom Gundam Lightning Edition | Mighty Strike Freedom Gundam | Strike Freedom Gundam Type II + Wings of Light Set | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0036"
+    },
+    {
+      "id": "ce-0036-mg",
+      "name": "Strike Freedom Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2006-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Freedom Gundam is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2006-12. Supported presentation names include Strike Freedom Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Strike Freedom is an advanced development of Freedom built for extreme mobility and multi-target combat. Standard, Type II, and Mighty forms remain configurations under one canonical identity, while wings, effects, and package extras are not cataloged separately.",
+      "aliases": "Strike Freedom Gundam | Strike Freedom Gundam Lightning Edition | Mighty Strike Freedom Gundam | Strike Freedom Gundam Type II + Wings of Light Set | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0036"
+    },
+    {
+      "id": "ce-0036-mgex",
+      "name": "Strike Freedom Gundam",
+      "modelNumber": "",
+      "grade": "MGEX",
+      "availableGrades": [
+        "MGEX"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2022-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Freedom Gundam is represented by 1 certified MGEX physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2022-11. Supported presentation names include Strike Freedom Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Strike Freedom is an advanced development of Freedom built for extreme mobility and multi-target combat. Standard, Type II, and Mighty forms remain configurations under one canonical identity, while wings, effects, and package extras are not cataloged separately.",
+      "aliases": "Strike Freedom Gundam | Strike Freedom Gundam Lightning Edition | Mighty Strike Freedom Gundam | Strike Freedom Gundam Type II + Wings of Light Set | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0036"
+    },
+    {
+      "id": "ce-0036-pg",
+      "name": "Strike Freedom Gundam",
+      "modelNumber": "",
+      "grade": "Perfect Grade",
+      "availableGrades": [
+        "Perfect Grade"
+      ],
+      "scale": "1/60",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2010-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Freedom Gundam is represented by 1 certified Perfect Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2010-12. Supported presentation names include Strike Freedom Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Strike Freedom is an advanced development of Freedom built for extreme mobility and multi-target combat. Standard, Type II, and Mighty forms remain configurations under one canonical identity, while wings, effects, and package extras are not cataloged separately.",
+      "aliases": "Strike Freedom Gundam | Strike Freedom Gundam Lightning Edition | Mighty Strike Freedom Gundam | Strike Freedom Gundam Type II + Wings of Light Set | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0036"
+    },
+    {
+      "id": "ce-0036",
+      "name": "Strike Freedom Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2005-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Strike Freedom Gundam is represented by 3 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2005-06. Supported presentation names include Strike Freedom Gundam, Strike Freedom Gundam Lightning Edition. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Strike Freedom is an advanced development of Freedom built for extreme mobility and multi-target combat. Standard, Type II, and Mighty forms remain configurations under one canonical identity, while wings, effects, and package extras are not cataloged separately.",
+      "aliases": "Strike Freedom Gundam | Strike Freedom Gundam Lightning Edition | Mighty Strike Freedom Gundam | Strike Freedom Gundam Type II + Wings of Light Set | Mobile Suit Gundam SEED Destiny | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0036"
+    },
+    {
+      "id": "ce-0063",
+      "name": "Windam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2020-06",
+      "releaseType": "Retail",
+      "kitSummary": "Windam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2020-06. Supported presentation names include Windam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Windam is an Earth Alliance mass-production mobile suit that succeeds the Dagger L. It supports Striker packs and combines improved performance with broad mission flexibility.",
+      "aliases": "Windam | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0063"
+    },
+    {
+      "id": "ce-0029-hg",
+      "name": "ZAKU Warrior / ZAKU Phantom",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2004-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "ZAKU Warrior / ZAKU Phantom is represented by 4 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2004-11. Supported presentation names include ZAKU Warrior, Gunner ZAKU Warrior (Lunamaria Hawke Custom), Gunner ZAKU Warrior, Blaze ZAKU Phantom (Rey Za Burrel Custom). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "ZAFT's New Millennium ZAKU series uses interchangeable Wizard packs for different missions. Warrior and higher-performance Phantom forms share the same operational family, with pilot colors and pack choices recorded as owned-copy options.",
+      "aliases": "ZAKU Warrior | Gunner ZAKU Warrior (Lunamaria Hawke Custom) | Blaze ZAKU Phantom (Rey Za Burrel Custom) | Slash ZAKU Phantom (Yzak Joule Custom) | ZAKU Warrior + Blaze & Gunner Wizard | Gunner ZAKU Warrior | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0029"
+    },
+    {
+      "id": "ce-0029-mg",
+      "name": "ZAKU Warrior / ZAKU Phantom",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2019-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "ZAKU Warrior / ZAKU Phantom is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2019-09. Supported presentation names include Gunner ZAKU Warrior (Lunamaria Hawke Custom). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "ZAFT's New Millennium ZAKU series uses interchangeable Wizard packs for different missions. Warrior and higher-performance Phantom forms share the same operational family, with pilot colors and pack choices recorded as owned-copy options.",
+      "aliases": "ZAKU Warrior | Gunner ZAKU Warrior (Lunamaria Hawke Custom) | Blaze ZAKU Phantom (Rey Za Burrel Custom) | Slash ZAKU Phantom (Yzak Joule Custom) | ZAKU Warrior + Blaze & Gunner Wizard | Gunner ZAKU Warrior | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0029"
+    },
+    {
+      "id": "ce-0029",
+      "name": "ZAKU Warrior / ZAKU Phantom",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED Destiny",
+      "releaseDate": "2004-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "ZAKU Warrior / ZAKU Phantom is represented by 7 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny. The earliest controlled grade evidence is 2004-10. Supported presentation names include ZAKU Warrior, Gunner ZAKU Warrior (Lunamaria Hawke Custom), Blaze ZAKU Phantom (Rey Za Burrel Custom), Slash ZAKU Phantom (Yzak Joule Custom). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "ZAFT's New Millennium ZAKU series uses interchangeable Wizard packs for different missions. Warrior and higher-performance Phantom forms share the same operational family, with pilot colors and pack choices recorded as owned-copy options.",
+      "aliases": "ZAKU Warrior | Gunner ZAKU Warrior (Lunamaria Hawke Custom) | Blaze ZAKU Phantom (Rey Za Burrel Custom) | Slash ZAKU Phantom (Yzak Joule Custom) | ZAKU Warrior + Blaze & Gunner Wizard | Gunner ZAKU Warrior | Mobile Suit Gundam SEED Destiny",
+      "imageKey": "ce-0029"
+    },
+    {
+      "id": "ce-0044-hg",
+      "name": "Gundam Astray Gold Frame",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny Astray",
+      "releaseDate": "2013-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Gold Frame is represented by 3 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Astray. The earliest controlled grade evidence is 2013-09. Supported presentation names include Gundam Astray Gold Frame Amatsu Mina, Gundam Astray Gold Frame Amatsu, Gundam Astray Gold Frame. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Gold Frame is one of Orb's prototype Astray units and is distinguished by its surviving right arm and later Amatsu upgrades. Amatsu and Amatsu Mina remain configurations of the same Gold Frame identity.",
+      "aliases": "Gundam Astray Gold Frame | Gundam Astray Gold Frame Amatsu | Gundam Astray Gold Frame Amatsu Mina | Mobile Suit Gundam SEED Destiny Astray | Mobile Suit Gundam SEED Astray",
+      "imageKey": "ce-0044"
+    },
+    {
+      "id": "ce-0044-rg",
+      "name": "Gundam Astray Gold Frame",
+      "modelNumber": "",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Destiny Astray",
+      "releaseDate": "2016-07",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Gold Frame is represented by 2 certified Real Grade physical presentation(s) associated with Mobile Suit Gundam SEED Astray. The earliest controlled grade evidence is 2016-07. Supported presentation names include Gundam Astray Gold Frame Amatsu Mina, Gundam Astray Gold Frame. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Gold Frame is one of Orb's prototype Astray units and is distinguished by its surviving right arm and later Amatsu upgrades. Amatsu and Amatsu Mina remain configurations of the same Gold Frame identity.",
+      "aliases": "Gundam Astray Gold Frame | Gundam Astray Gold Frame Amatsu | Gundam Astray Gold Frame Amatsu Mina | Mobile Suit Gundam SEED Destiny Astray | Mobile Suit Gundam SEED Astray",
+      "imageKey": "ce-0044"
+    },
+    {
+      "id": "ce-0044",
+      "name": "Gundam Astray Gold Frame",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED Destiny Astray",
+      "releaseDate": "2006-07",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Gold Frame is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Astray, Mobile Suit Gundam SEED Destiny Astray. The earliest controlled grade evidence is 2006-07. Supported presentation names include Gundam Astray Gold Frame, Gundam Astray Gold Frame Amatsu. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Gold Frame is one of Orb's prototype Astray units and is distinguished by its surviving right arm and later Amatsu upgrades. Amatsu and Amatsu Mina remain configurations of the same Gold Frame identity.",
+      "aliases": "Gundam Astray Gold Frame | Gundam Astray Gold Frame Amatsu | Gundam Astray Gold Frame Amatsu Mina | Mobile Suit Gundam SEED Destiny Astray | Mobile Suit Gundam SEED Astray",
+      "imageKey": "ce-0044"
+    },
+    {
+      "id": "ce-0064",
+      "name": "Testament Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED Destiny Astray",
+      "releaseDate": "2020-11",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "Testament Gundam is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny Astray. The earliest controlled grade evidence is 2020-11. Supported presentation names include Testament Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Testament Gundam is a ZAFT prototype designed around Striker-pack compatibility and advanced electronic warfare. Its Quantum Virus system can interfere with enemy equipment and control functions.",
+      "aliases": "Testament Gundam | Mobile Suit Gundam SEED Destiny Astray",
+      "imageKey": "ce-0064"
+    },
+    {
+      "id": "ce-0062",
+      "name": "Gundam Astray Noir",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED Destiny Astray B",
+      "releaseDate": "2014-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Noir is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED Destiny Astray B. The earliest controlled grade evidence is 2014-01. Supported presentation names include Gundam Astray Noir. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Astray Noir is a dark-colored Astray custom equipped with a Noir Striker and specialized firearms. Unlike a simple color edition, it is a distinct in-universe combat configuration with its own equipment identity.",
+      "aliases": "Gundam Astray Noir | Mobile Suit Gundam SEED Destiny Astray B",
+      "imageKey": "ce-0062"
+    },
+    {
+      "id": "ce-0062-hirm",
+      "name": "Gundam Astray Noir",
+      "modelNumber": "",
+      "grade": "Hi-Resolution Model",
+      "availableGrades": [
+        "Hi-Resolution Model"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED Destiny Astray B",
+      "releaseDate": "2019-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Noir is represented by 1 certified Hi-Resolution Model physical presentation(s) associated with Mobile Suit Gundam SEED Destiny Astray B. The earliest controlled grade evidence is 2019-06. Supported presentation names include Gundam Astray Noir. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Astray Noir is a dark-colored Astray custom equipped with a Noir Striker and specialized firearms. Unlike a simple color edition, it is a distinct in-universe combat configuration with its own equipment identity.",
+      "aliases": "Gundam Astray Noir | Mobile Suit Gundam SEED Destiny Astray B",
+      "imageKey": "ce-0062"
+    },
+    {
+      "id": "ce-0066",
+      "name": "Eclipse Gundam",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED Eclipse",
+      "releaseDate": "2021-08",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Eclipse Gundam is represented by 2 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED Eclipse. The earliest controlled grade evidence is 2021-08. Supported presentation names include Eclipse Gundam, Eclipse Gundam Reactor 2. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Eclipse Gundam is a transformable Orb mobile suit developed for covert intervention by the ODR. Reactor 1 and Reactor 2 equipment states remain configurations of one canonical Eclipse identity.",
+      "aliases": "Eclipse Gundam | Eclipse Gundam Reactor 2 | Mobile Suit Gundam SEED Eclipse",
+      "imageKey": "ce-0066"
+    },
+    {
+      "id": "ce-0067",
+      "name": "GINN Gladiator",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED Eclipse",
+      "releaseDate": "2022-07",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "GINN Gladiator is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED Eclipse. The earliest controlled grade evidence is 2022-07. Supported presentation names include GINN Gladiator. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GINN Gladiator is a close-combat GINN development associated with the Eclipse side story. Heavy armor and melee equipment adapt the familiar GINN frame for direct assault.",
+      "aliases": "GINN Gladiator | Mobile Suit Gundam SEED Eclipse",
+      "imageKey": "ce-0067"
+    },
+    {
+      "id": "ce-0052",
+      "name": "Arms Astray PMC Custom",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Frame Astrays",
+      "releaseDate": "2008-03",
+      "releaseType": "Retail",
+      "kitSummary": "Arms Astray PMC Custom is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Frame Astrays. The earliest controlled grade evidence is 2008-03. Supported presentation names include Arms Astray PMC Custom. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Arms Astray PMC Custom is an armed Astray variation associated with private military operations in the SEED Frame Astrays setting. Its equipment adapts an Astray-derived frame for contracted combat work.",
+      "aliases": "Arms Astray PMC Custom | Mobile Suit Gundam SEED Frame Astrays",
+      "imageKey": "ce-0052"
+    },
+    {
+      "id": "ce-0053-hg",
+      "name": "Gundam Astray Green Frame",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Frame Astrays",
+      "releaseDate": "2008-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Green Frame is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Frame Astrays. The earliest controlled grade evidence is 2008-03. Supported presentation names include Gundam Astray Green Frame. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Green Frame is one of Orb's five prototype Astray units. Its later combat use emphasizes specialized targeting and sword techniques while preserving the lightweight Astray construction.",
+      "aliases": "Gundam Astray Green Frame | Mobile Suit Gundam SEED Frame Astrays",
+      "imageKey": "ce-0053"
+    },
+    {
+      "id": "ce-0053",
+      "name": "Gundam Astray Green Frame",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam SEED Frame Astrays",
+      "releaseDate": "2009-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Green Frame is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED Frame Astrays. The earliest controlled grade evidence is 2009-03. Supported presentation names include Gundam Astray Green Frame. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Green Frame is one of Orb's five prototype Astray units. Its later combat use emphasizes specialized targeting and sword techniques while preserving the lightweight Astray construction.",
+      "aliases": "Gundam Astray Green Frame | Mobile Suit Gundam SEED Frame Astrays",
+      "imageKey": "ce-0053"
+    },
+    {
+      "id": "ce-0077",
+      "name": "Black Knight Squad Cal-re.A",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Freedom",
+      "releaseDate": "2024-10",
+      "releaseType": "Retail",
+      "kitSummary": "Black Knight Squad Cal-re.A is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2024-10. Supported presentation names include Black Knight Squad Cal-re.A. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Cal-re.A is a high-performance Black Knight command mobile suit equipped for remote and high-output attacks. Its design is distinct from both Shi-ve.A and Rud-ro.A.",
+      "aliases": "Black Knight Squad Cal-re.A | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0077"
+    },
+    {
+      "id": "ce-0071",
+      "name": "Black Knight Squad Rud-ro.A",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Freedom",
+      "releaseDate": "2024-03",
+      "releaseType": "Retail",
+      "kitSummary": "Black Knight Squad Rud-ro.A is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2024-03. Supported presentation names include Black Knight Squad Rud-ro.A (Griffin Arbalest Custom). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Rud-ro.A is the standard Black Knight Squad mobile suit, fielded in several pilot color schemes. Hangar Bay keeps those colors under one mech ID because the underlying machine remains the same.",
+      "aliases": "Black Knight Squad Rud-ro.A (Griffin Arbalest Custom) | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0071"
+    },
+    {
+      "id": "ce-0070",
+      "name": "Black Knight Squad Shi-ve.A",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Freedom",
+      "releaseDate": "2024-02",
+      "releaseType": "Retail",
+      "kitSummary": "Black Knight Squad Shi-ve.A is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2024-02. Supported presentation names include Black Knight Squad Shi-ve.A. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Shi-ve.A is the command-type Black Knight Squad mobile suit. Its advanced defensive armor and high-output weaponry distinguish it from the squad's Rud-ro.A units.",
+      "aliases": "Black Knight Squad Shi-ve.A | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0070"
+    },
+    {
+      "id": "ce-0075",
+      "name": "Duel Blitz Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Freedom",
+      "releaseDate": "2024-07",
+      "releaseType": "Retail",
+      "kitSummary": "Duel Blitz Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2024-07. Supported presentation names include Duel Blitz Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Duel Blitz is a rebuilt Duel Gundam that incorporates technology and weapons associated with Blitz Gundam. The reconstruction is treated as a distinct mech rather than a color or package variant.",
+      "aliases": "Duel Blitz Gundam | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0075"
+    },
+    {
+      "id": "ce-0073",
+      "name": "Gelgoog Menace",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Freedom",
+      "releaseDate": "2024-03",
+      "releaseType": "Retail",
+      "kitSummary": "Gelgoog Menace is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2024-03. Supported presentation names include Gelgoog Menace (Lunamaria Hawke Custom). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gelgoog Menace is a Compass mobile suit derived from ZAFT's later mass-production development. Pilot colors and weapon presentations remain options under one canonical machine identity.",
+      "aliases": "Gelgoog Menace (Lunamaria Hawke Custom) | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0073"
+    },
+    {
+      "id": "ce-0074",
+      "name": "Gyan Strom",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Freedom",
+      "releaseDate": "2024-04",
+      "releaseType": "Retail",
+      "kitSummary": "Gyan Strom is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2024-04. Supported presentation names include Gyan Strom (Agnes Giebenrath Custom). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gyan Strom is a Compass close-combat mobile suit equipped with a large shield and beam weapons. Pilot-specific colors do not create additional catalog identities.",
+      "aliases": "Gyan Strom (Agnes Giebenrath Custom) | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0074"
+    },
+    {
+      "id": "ce-0068",
+      "name": "Immortal Justice Gundam",
+      "modelNumber": "STTS-808",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Freedom",
+      "releaseDate": "2024-01",
+      "releaseType": "Retail",
+      "kitSummary": "Immortal Justice Gundam (STTS-808) is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2024-01. Supported presentation names include Immortal Justice Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Immortal Justice is a transformable close-combat mobile suit developed for Compass. It combines flight capability, beam weapons, and a remote shield within a streamlined Justice-family design.",
+      "aliases": "Immortal Justice Gundam | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0068"
+    },
+    {
+      "id": "ce-0076",
+      "name": "Lightning Buster Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Freedom",
+      "releaseDate": "2024-11",
+      "releaseType": "Retail",
+      "kitSummary": "Lightning Buster Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2024-11. Supported presentation names include Lightning Buster Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Lightning Buster is a rebuilt Buster Gundam with modernized artillery systems and revised weapon placement. It is a distinct SEED Freedom machine, not merely another retail edition of the original Buster.",
+      "aliases": "Lightning Buster Gundam | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0076"
+    },
+    {
+      "id": "ce-0078",
+      "name": "Murasame Kai",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Freedom",
+      "releaseDate": "2024-10",
+      "releaseType": "Retail",
+      "kitSummary": "Murasame Kai is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2024-10. Supported presentation names include Murasame Kai. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Murasame Kai is an improved development of Orb's transformable Murasame. It retains the mobile-suit and flight-form concept while updating the machine for later-generation combat.",
+      "aliases": "Murasame Kai | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0078"
+    },
+    {
+      "id": "ce-0069",
+      "name": "Rising Freedom Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Freedom",
+      "releaseDate": "2024-01",
+      "releaseType": "Retail",
+      "kitSummary": "Rising Freedom Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2024-01. Supported presentation names include Rising Freedom Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Rising Freedom is a transformable Compass mobile suit that continues the Freedom lineage. It combines atmospheric flight, ranged firepower, and a remote shield in a more compact platform.",
+      "aliases": "Rising Freedom Gundam | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0069"
+    },
+    {
+      "id": "ce-0079",
+      "name": "Z’Gok (SEED Freedom)",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED Freedom",
+      "releaseDate": "2025-02",
+      "releaseType": "Retail",
+      "kitSummary": "Z’Gok (SEED Freedom) is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED Freedom. The earliest controlled grade evidence is 2025-02. Supported presentation names include Z’Gok (SEED Freedom). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The SEED Freedom Z'Gok is a heavily armored external combat shell used to conceal and protect Infinite Justice Gundam Type II. Its complete, independently recognizable combat form is retained as a distinct mech identity.",
+      "aliases": "Z’Gok (SEED Freedom) | Mobile Suit Gundam SEED Freedom",
+      "imageKey": "ce-0079"
+    },
+    {
+      "id": "ce-0024",
+      "name": "CGUE Deep Arms",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED MSV",
+      "releaseDate": "2004-08",
+      "releaseType": "Retail",
+      "kitSummary": "CGUE Deep Arms is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED MSV. The earliest controlled grade evidence is 2004-08. Supported presentation names include CGUE Deep Arms. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The CGUE Deep Arms is a heavy-firepower CGUE variation equipped with large beam cannons and reinforced support systems. It trades some general-purpose flexibility for concentrated ranged attack power.",
+      "aliases": "CGUE Deep Arms | Mobile Suit Gundam SEED MSV",
+      "imageKey": "ce-0024"
+    },
+    {
+      "id": "ce-0022",
+      "name": "GINN High Maneuver Type",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED MSV",
+      "releaseDate": "2004-06",
+      "releaseType": "Retail",
+      "kitSummary": "GINN High Maneuver Type is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED MSV. The earliest controlled grade evidence is 2004-06. Supported presentation names include GINN High Maneuver Type. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The GINN High Maneuver Type is a space-combat upgrade that adds a large high-output backpack and improved thrusters to the standard GINN frame. It prioritizes acceleration and maneuverability for elite operations.",
+      "aliases": "GINN High Maneuver Type | Mobile Suit Gundam SEED MSV",
+      "imageKey": "ce-0022"
+    },
+    {
+      "id": "ce-0025",
+      "name": "Gunbarrel Dagger",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED MSV",
+      "releaseDate": "2004-09",
+      "releaseType": "Retail",
+      "kitSummary": "Gunbarrel Dagger is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED MSV. The earliest controlled grade evidence is 2004-09. Supported presentation names include Gunbarrel Dagger. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Gunbarrel Dagger adapts the Dagger series to a wire-guided Gunbarrel Striker. The configuration gives a compatible pilot remote multi-directional attack capability while retaining a complete Dagger mobile suit.",
+      "aliases": "Gunbarrel Dagger | Mobile Suit Gundam SEED MSV",
+      "imageKey": "ce-0025"
+    },
+    {
+      "id": "ce-0054",
+      "name": "Gale Strike Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED VS Astray",
+      "releaseDate": "2009-08",
+      "releaseType": "Retail",
+      "kitSummary": "Gale Strike Gundam is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED VS Astray. The earliest controlled grade evidence is 2009-08. Supported presentation names include Gale Strike Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gale Strike is a Librarian Works reconstruction of the Strike Gundam concept. Its revised frame and mobility equipment emphasize rapid melee engagement as a distinct VS Astray custom.",
+      "aliases": "Gale Strike Gundam | Mobile Suit Gundam SEED VS Astray",
+      "imageKey": "ce-0054"
+    },
+    {
+      "id": "ce-0058-mg",
+      "name": "Gundam Astray Mirage Frame",
+      "modelNumber": "",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED VS Astray",
+      "releaseDate": "2025-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Mirage Frame is represented by 1 certified Master Grade physical presentation(s) associated with Mobile Suit Gundam SEED VS Astray. The earliest controlled grade evidence is 2025-11. Supported presentation names include Gundam Astray Mirage Frame 2nd Issue. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Mirage Frame is a Librarian Works Astray customized for stealth and close combat. Its later Second Issue configuration changes the equipment and transformation capabilities while remaining part of the same mech identity.",
+      "aliases": "Gundam Astray Mirage Frame | Gundam Astray Mirage Frame 2nd Issue | Mobile Suit Gundam SEED VS Astray",
+      "imageKey": "ce-0058"
+    },
+    {
+      "id": "ce-0058",
+      "name": "Gundam Astray Mirage Frame",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED VS Astray",
+      "releaseDate": "2009-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Astray Mirage Frame is represented by 2 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED VS Astray. The earliest controlled grade evidence is 2009-10. Supported presentation names include Gundam Astray Mirage Frame, Gundam Astray Mirage Frame 2nd Issue. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Mirage Frame is a Librarian Works Astray customized for stealth and close combat. Its later Second Issue configuration changes the equipment and transformation capabilities while remaining part of the same mech identity.",
+      "aliases": "Gundam Astray Mirage Frame | Gundam Astray Mirage Frame 2nd Issue | Mobile Suit Gundam SEED VS Astray",
+      "imageKey": "ce-0058"
+    },
+    {
+      "id": "ce-0055",
+      "name": "Hail Buster Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED VS Astray",
+      "releaseDate": "2009-08",
+      "releaseType": "Retail",
+      "kitSummary": "Hail Buster Gundam is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED VS Astray. The earliest controlled grade evidence is 2009-08. Supported presentation names include Hail Buster Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Hail Buster is a Librarian Works reconstruction of Buster Gundam. It revises the original artillery layout with additional weapons and greater flexibility at different combat ranges.",
+      "aliases": "Hail Buster Gundam | Mobile Suit Gundam SEED VS Astray",
+      "imageKey": "ce-0055"
+    },
+    {
+      "id": "ce-0060",
+      "name": "Nebula Blitz Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED VS Astray",
+      "releaseDate": "2009-12",
+      "releaseType": "Retail",
+      "kitSummary": "Nebula Blitz Gundam is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED VS Astray. The earliest controlled grade evidence is 2009-12. Supported presentation names include Nebula Blitz Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Nebula Blitz is a Librarian Works reconstruction of Blitz Gundam. It expands the Mirage Colloid and stealth-combat concept with a new equipment layout.",
+      "aliases": "Nebula Blitz Gundam | Mobile Suit Gundam SEED VS Astray",
+      "imageKey": "ce-0060"
+    },
+    {
+      "id": "ce-0056",
+      "name": "Nix Providence Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED VS Astray",
+      "releaseDate": "2009-09",
+      "releaseType": "Retail",
+      "kitSummary": "Nix Providence Gundam is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED VS Astray. The earliest controlled grade evidence is 2009-09. Supported presentation names include Nix Providence Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Nix Providence is a Librarian Works variation of Providence Gundam. It reorganizes the remote-weapon and backpack systems into a distinct VS Astray combat configuration.",
+      "aliases": "Nix Providence Gundam | Mobile Suit Gundam SEED VS Astray",
+      "imageKey": "ce-0056"
+    },
+    {
+      "id": "ce-0057",
+      "name": "Regen Duel Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED VS Astray",
+      "releaseDate": "2009-09",
+      "releaseType": "Retail",
+      "kitSummary": "Regen Duel Gundam is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED VS Astray. The earliest controlled grade evidence is 2009-09. Supported presentation names include Regen Duel Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Regen Duel is a Librarian Works reconstruction of Duel Gundam. Its revised armor and weapon arrangement create a distinct close-to-mid-range VS Astray machine.",
+      "aliases": "Regen Duel Gundam | Mobile Suit Gundam SEED VS Astray",
+      "imageKey": "ce-0057"
+    },
+    {
+      "id": "ce-0059",
+      "name": "Vent Saviour Gundam",
+      "modelNumber": "",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam SEED VS Astray",
+      "releaseDate": "2009-11",
+      "releaseType": "Retail",
+      "kitSummary": "Vent Saviour Gundam is represented by 1 certified No Grade physical presentation(s) associated with Mobile Suit Gundam SEED VS Astray. The earliest controlled grade evidence is 2009-11. Supported presentation names include Vent Saviour Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Vent Saviour is a Librarian Works reconstruction of Saviour Gundam. It develops the transformable high-speed concept into a distinct VS Astray mobile suit.",
+      "aliases": "Vent Saviour Gundam | Mobile Suit Gundam SEED VS Astray",
+      "imageKey": "ce-0059"
+    },
+    {
+      "id": "ce-0027",
+      "name": "Dreadnought Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED X Astray",
+      "releaseDate": "2004-10",
+      "releaseType": "Retail",
+      "kitSummary": "Dreadnought Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED X Astray. The earliest controlled grade evidence is 2004-10. Supported presentation names include Dreadnought Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Dreadnought Gundam is a ZAFT prototype used to test nuclear power and DRAGOON technology. Its development connects the earlier GAT-X lineage with later units such as Freedom, Justice, and Providence.",
+      "aliases": "Dreadnought Gundam | Mobile Suit Gundam SEED X Astray",
+      "imageKey": "ce-0027"
+    },
+    {
+      "id": "ce-0023",
+      "name": "Hyperion Gundam",
+      "modelNumber": "",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam SEED X Astray",
+      "releaseDate": "2004-07",
+      "releaseType": "Retail",
+      "kitSummary": "Hyperion Gundam is represented by 1 certified High Grade physical presentation(s) associated with Mobile Suit Gundam SEED X Astray. The earliest controlled grade evidence is 2004-07. Supported presentation names include Hyperion Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Hyperion Gundam is a Eurasian Federation prototype centered on the Armure Lumiere lightwave barrier. Its defensive system can form an enclosing shield while its beam weapons provide sustained combat capability.",
+      "aliases": "Hyperion Gundam | Mobile Suit Gundam SEED X Astray",
+      "imageKey": "ce-0023"
+    }
+  ]
+}

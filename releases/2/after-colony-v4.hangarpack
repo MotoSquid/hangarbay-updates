@@ -1,0 +1,819 @@
+{
+  "format": "hangar-bay-catalog-pack",
+  "schemaVersion": 1,
+  "id": "after-colony",
+  "name": "After Colony / Gundam Wing",
+  "shortName": "AC",
+  "description": "Grade-specific After Colony / Gundam Wing catalog. Each entry represents one mech and normalized grade; configurations, tooling iterations, editions, scale choices, and accessories remain owned-copy attributes.",
+  "version": 4,
+  "updatedAt": "2026-08-05",
+  "sortOrder": 40,
+  "kitCount": 47,
+  "series": [
+    "G-Unit Operation Galiarest / Re:Operation",
+    "Mobile Suit Gundam Wing",
+    "Mobile Suit Gundam Wing Dual Story: G-Unit",
+    "Mobile Suit Gundam Wing: Endless Waltz"
+  ],
+  "kits": [
+    {
+      "id": "ac-0019",
+      "name": "Gundam Burn Lapius",
+      "modelNumber": "OZ-10VMSX-2",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "G-Unit Operation Galiarest / Re:Operation",
+      "releaseDate": "2024-07",
+      "releaseType": "Premium Bandai",
+      "kitSummary": "Gundam Burn Lapius (OZ-10VMSX-2) is represented by 1 certified High Grade physical presentation(s) associated with Gundam Burn Lapius. The earliest controlled grade evidence is 2024-07. Supported presentation names include Gundam Burn Lapius. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Burn Lapius is a close-combat development of Aesculapius whose duel mode reconfigures its claw and assault equipment.",
+      "aliases": "Gundam Burn Lapius | Gundam Burnlapius | Prometheus Gundam | G-Unit Operation Galiarest / Re:Operation",
+      "imageKey": "ac-0019"
+    },
+    {
+      "id": "ac-0004-hg",
+      "name": "Gundam Deathscythe",
+      "modelNumber": "XXXG-01D / XXXG-01D2",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-07",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Deathscythe (XXXG-01D / XXXG-01D2) is represented by 6 certified High Grade physical presentation(s) associated with Gundam Deathscythe, Gundam Deathscythe Hell. The earliest controlled grade evidence is 1995-07. Supported presentation names include Gundam Deathscythe, Gundam Deathscythe Hell, Gundam Deathscythe Hell Custom. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Deathscythe is a stealth-oriented close-combat Gundam centered on electronic concealment and beam-scythe attacks.",
+      "aliases": "Gundam Deathscythe | Deathscythe Hell | Deathscythe Hell EW | Roussette Unit | Gundam Deathscythe Hell | Gundam Deathscythe Hell Custom | Gundam Deathscythe EW | Gundam Deathscythe Hell EW | Gundam Deathscythe EW (Roussette Unit) | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0004"
+    },
+    {
+      "id": "ac-0004-mg",
+      "name": "Gundam Deathscythe",
+      "modelNumber": "XXXG-01D / XXXG-01D2",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2010-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Deathscythe (XXXG-01D / XXXG-01D2) is represented by 3 certified Master Grade physical presentation(s) associated with Gundam Deathscythe EW, Gundam Deathscythe Hell EW. The earliest controlled grade evidence is 2010-09. Supported presentation names include Gundam Deathscythe EW, Gundam Deathscythe Hell EW, Gundam Deathscythe EW (Roussette Unit). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Deathscythe is a stealth-oriented close-combat Gundam centered on electronic concealment and beam-scythe attacks.",
+      "aliases": "Gundam Deathscythe | Deathscythe Hell | Deathscythe Hell EW | Roussette Unit | Gundam Deathscythe Hell | Gundam Deathscythe Hell Custom | Gundam Deathscythe EW | Gundam Deathscythe Hell EW | Gundam Deathscythe EW (Roussette Unit) | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0004"
+    },
+    {
+      "id": "ac-0004",
+      "name": "Gundam Deathscythe",
+      "modelNumber": "XXXG-01D / XXXG-01D2",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-05",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Deathscythe (XXXG-01D / XXXG-01D2) is represented by 2 certified No Grade physical presentation(s) associated with Gundam Deathscythe, Gundam Deathscythe Hell. The earliest controlled grade evidence is 1995-05. Supported presentation names include Gundam Deathscythe, Gundam Deathscythe Hell. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Deathscythe is a stealth-oriented close-combat Gundam centered on electronic concealment and beam-scythe attacks.",
+      "aliases": "Gundam Deathscythe | Deathscythe Hell | Deathscythe Hell EW | Roussette Unit | Gundam Deathscythe Hell | Gundam Deathscythe Hell Custom | Gundam Deathscythe EW | Gundam Deathscythe Hell EW | Gundam Deathscythe EW (Roussette Unit) | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0004"
+    },
+    {
+      "id": "rg-epyon-2023",
+      "name": "Gundam Epyon",
+      "modelNumber": "OZ-13MS",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Epyon (OZ-13MS) is represented by 1 certified High Grade physical presentation(s) associated with Gundam Epyon. The earliest controlled grade evidence is 1995-10. Supported presentation names include Gundam Epyon. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Epyon is a close-combat transformable machine designed around the ZERO System, a beam sword and segmented heat rod.",
+      "aliases": "Gundam Epyon | Epyon EW | Sturm und Drang Unit | Gundam Epyon EW | Gundam Epyon EW (Sturm und Drang Unit) | Mobile Suit Gundam Wing | Endless Waltz: Glory of the Losers",
+      "imageKey": "rg-epyon-2023"
+    },
+    {
+      "id": "rg-epyon-2023-rg",
+      "name": "Gundam Epyon",
+      "modelNumber": "OZ-13MS",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2023-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Epyon (OZ-13MS) is represented by 1 certified Real Grade physical presentation(s) associated with Gundam Epyon. The earliest controlled grade evidence is 2023-09. Supported presentation names include Gundam Epyon. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Epyon is a close-combat transformable machine designed around the ZERO System, a beam sword and segmented heat rod.",
+      "aliases": "Gundam Epyon | Epyon EW | Sturm und Drang Unit | Gundam Epyon EW | Gundam Epyon EW (Sturm und Drang Unit) | Mobile Suit Gundam Wing | Endless Waltz: Glory of the Losers",
+      "imageKey": "rg-epyon-2023"
+    },
+    {
+      "id": "rg-epyon-2023-mg",
+      "name": "Gundam Epyon",
+      "modelNumber": "OZ-13MS",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2011-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Epyon (OZ-13MS) is represented by 2 certified Master Grade physical presentation(s) associated with Gundam Epyon EW, Gundam Epyon EW (Sturm und Drang Unit). The earliest controlled grade evidence is 2011-06. Supported presentation names include Gundam Epyon EW, Gundam Epyon EW (Sturm und Drang Unit). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Epyon is a close-combat transformable machine designed around the ZERO System, a beam sword and segmented heat rod.",
+      "aliases": "Gundam Epyon | Epyon EW | Sturm und Drang Unit | Gundam Epyon EW | Gundam Epyon EW (Sturm und Drang Unit) | Mobile Suit Gundam Wing | Endless Waltz: Glory of the Losers",
+      "imageKey": "rg-epyon-2023"
+    },
+    {
+      "id": "rg-epyon-2023-ng",
+      "name": "Gundam Epyon",
+      "modelNumber": "OZ-13MS",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Epyon (OZ-13MS) is represented by 1 certified No Grade physical presentation(s) associated with Gundam Epyon. The earliest controlled grade evidence is 1995-10. Supported presentation names include Gundam Epyon. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Epyon is a close-combat transformable machine designed around the ZERO System, a beam sword and segmented heat rod.",
+      "aliases": "Gundam Epyon | Epyon EW | Sturm und Drang Unit | Gundam Epyon EW | Gundam Epyon EW (Sturm und Drang Unit) | Mobile Suit Gundam Wing | Endless Waltz: Glory of the Losers",
+      "imageKey": "rg-epyon-2023"
+    },
+    {
+      "id": "ac-0005-hg",
+      "name": "Gundam Heavyarms",
+      "modelNumber": "XXXG-01H / XXXG-01H2",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1997-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Heavyarms (XXXG-01H / XXXG-01H2) is represented by 4 certified High Grade physical presentation(s) associated with Gundam Heavyarms Custom, Gundam Heavyarms. The earliest controlled grade evidence is 1997-11. Supported presentation names include Gundam Heavyarms Custom, Gundam Heavyarms. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Heavyarms is an ammunition-heavy Operation Meteor machine designed to overwhelm targets with layered ballistic and missile fire.",
+      "aliases": "Gundam Heavyarms | Heavyarms Custom | Heavyarms EW | Igel Unit | Gundam Heavyarms Custom | Gundam Heavyarms EW | Gundam Heavyarms Custom EW | Gundam Heavyarms EW (Igel Unit) | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0005"
+    },
+    {
+      "id": "ac-0005-mg",
+      "name": "Gundam Heavyarms",
+      "modelNumber": "XXXG-01H / XXXG-01H2",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2012-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Heavyarms (XXXG-01H / XXXG-01H2) is represented by 3 certified Master Grade physical presentation(s) associated with Gundam Heavyarms EW, Gundam Heavyarms Custom EW. The earliest controlled grade evidence is 2012-01. Supported presentation names include Gundam Heavyarms EW, Gundam Heavyarms Custom EW, Gundam Heavyarms EW (Igel Unit). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Heavyarms is an ammunition-heavy Operation Meteor machine designed to overwhelm targets with layered ballistic and missile fire.",
+      "aliases": "Gundam Heavyarms | Heavyarms Custom | Heavyarms EW | Igel Unit | Gundam Heavyarms Custom | Gundam Heavyarms EW | Gundam Heavyarms Custom EW | Gundam Heavyarms EW (Igel Unit) | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0005"
+    },
+    {
+      "id": "ac-0005",
+      "name": "Gundam Heavyarms",
+      "modelNumber": "XXXG-01H / XXXG-01H2",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Heavyarms (XXXG-01H / XXXG-01H2) is represented by 1 certified No Grade physical presentation(s) associated with Gundam Heavyarms. The earliest controlled grade evidence is 1995-06. Supported presentation names include Gundam Heavyarms. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Heavyarms is an ammunition-heavy Operation Meteor machine designed to overwhelm targets with layered ballistic and missile fire.",
+      "aliases": "Gundam Heavyarms | Heavyarms Custom | Heavyarms EW | Igel Unit | Gundam Heavyarms Custom | Gundam Heavyarms EW | Gundam Heavyarms Custom EW | Gundam Heavyarms EW (Igel Unit) | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0005"
+    },
+    {
+      "id": "ac-0006-hg",
+      "name": "Gundam Sandrock",
+      "modelNumber": "XXXG-01SR / XXXG-01SR2",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1998-02",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Sandrock (XXXG-01SR / XXXG-01SR2) is represented by 5 certified High Grade physical presentation(s) associated with Gundam Sandrock Custom, Gundam Sandrock. The earliest controlled grade evidence is 1998-02. Supported presentation names include Gundam Sandrock Custom, Gundam Sandrock, Gundam Sandrock Custom EW. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Sandrock is a durable command-oriented Gundam optimized for close combat, desert operations and coordinated Maganac support.",
+      "aliases": "Gundam Sandrock | Sandrock Custom | Sandrock EW | Armadillo Unit | Armadillo Lizard | Gundam Sandrock Custom | Gundam Sandrock EW | Gundam Sandrock Custom EW | Gundam Sandrock EW (Armadillo Unit) | Gundam Sandrock EW (Armadillo Lizard) | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0006"
+    },
+    {
+      "id": "ac-0006-mg",
+      "name": "Gundam Sandrock",
+      "modelNumber": "XXXG-01SR / XXXG-01SR2",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2011-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Sandrock (XXXG-01SR / XXXG-01SR2) is represented by 4 certified Master Grade physical presentation(s) associated with Gundam Sandrock EW, Gundam Sandrock Custom EW. The earliest controlled grade evidence is 2011-10. Supported presentation names include Gundam Sandrock EW, Gundam Sandrock Custom EW, Gundam Sandrock EW (Armadillo Unit), Gundam Sandrock EW (Armadillo Lizard). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Sandrock is a durable command-oriented Gundam optimized for close combat, desert operations and coordinated Maganac support.",
+      "aliases": "Gundam Sandrock | Sandrock Custom | Sandrock EW | Armadillo Unit | Armadillo Lizard | Gundam Sandrock Custom | Gundam Sandrock EW | Gundam Sandrock Custom EW | Gundam Sandrock EW (Armadillo Unit) | Gundam Sandrock EW (Armadillo Lizard) | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0006"
+    },
+    {
+      "id": "ac-0006",
+      "name": "Gundam Sandrock",
+      "modelNumber": "XXXG-01SR / XXXG-01SR2",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-07",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Sandrock (XXXG-01SR / XXXG-01SR2) is represented by 1 certified No Grade physical presentation(s) associated with Gundam Sandrock. The earliest controlled grade evidence is 1995-07. Supported presentation names include Gundam Sandrock. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Sandrock is a durable command-oriented Gundam optimized for close combat, desert operations and coordinated Maganac support.",
+      "aliases": "Gundam Sandrock | Sandrock Custom | Sandrock EW | Armadillo Unit | Armadillo Lizard | Gundam Sandrock Custom | Gundam Sandrock EW | Gundam Sandrock Custom EW | Gundam Sandrock EW (Armadillo Unit) | Gundam Sandrock EW (Armadillo Lizard) | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0006"
+    },
+    {
+      "id": "ac-0010-hg",
+      "name": "Leo",
+      "modelNumber": "OZ-06MS family",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2018-05",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Leo (OZ-06MS family) is represented by 7 certified High Grade physical presentation(s) associated with Leo, Leo (Space Type). The earliest controlled grade evidence is 2018-05. Supported presentation names include Leo, Leo (Space Type), Leo (Flight Unit Type), Leo (Full Weapon Set). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Leo is the Earth Sphere standard mass-production mobile suit, adapted through numerous terrain, mission and G-Unit derivatives.",
+      "aliases": "Leo | Leo Space Type | Leo Flight Unit Type | Leo-S | Leo-N | Leo-R | Leo Custom | Leo (Space Type) | Leo (Flight Unit Type) | Leo (Full Weapon Set) | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "imageKey": "ac-0010"
+    },
+    {
+      "id": "ac-0010",
+      "name": "Leo",
+      "modelNumber": "OZ-06MS family",
+      "grade": "Limited Model",
+      "availableGrades": [
+        "Limited Model"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1996-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Leo (OZ-06MS family) is represented by 1 certified Limited Model physical presentation(s) associated with Leo Custom. The earliest controlled grade evidence is 1996-11. Supported presentation names include Leo Custom. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Leo is the Earth Sphere standard mass-production mobile suit, adapted through numerous terrain, mission and G-Unit derivatives.",
+      "aliases": "Leo | Leo Space Type | Leo Flight Unit Type | Leo-S | Leo-N | Leo-R | Leo Custom | Leo (Space Type) | Leo (Flight Unit Type) | Leo (Full Weapon Set) | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "imageKey": "ac-0010"
+    },
+    {
+      "id": "ac-0012",
+      "name": "Maganac",
+      "modelNumber": "WMS-03 family",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2019-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Maganac (WMS-03 family) is represented by 4 certified High Grade physical presentation(s) associated with Maganac, Maganac (Rasid Custom / Abdul Custom). The earliest controlled grade evidence is 2019-04. Supported presentation names include Maganac, Maganac (Rasid Custom / Abdul Custom), Maganac (Auda Custom / Ahmad Custom), Maganac 36-Piece Set. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Maganac is a rugged desert mobile suit fielded by the Maganac Corps in support of Gundam Sandrock.",
+      "aliases": "Maganac | Rasid Custom | Abdul Custom | Auda Custom | Ahmad Custom | Maganac (Rasid Custom / Abdul Custom) | Maganac (Auda Custom / Ahmad Custom) | Maganac 36-Piece Set | Mobile Suit Gundam Wing",
+      "imageKey": "ac-0012"
+    },
+    {
+      "id": "ac-0009-hg",
+      "name": "Mercurius",
+      "modelNumber": "OZ-13MSX2 family",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2021-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Mercurius (OZ-13MSX2 family) is represented by 2 certified High Grade physical presentation(s) associated with Vayeate & Mercurius, Vayeate Suivant & Mercurius Suivant. The earliest controlled grade evidence is 2021-01. Supported presentation names include Vayeate & Mercurius, Vayeate Suivant & Mercurius Suivant. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Mercurius is a defensive OZ experimental mobile suit using planet-defensor units and close-range beam weapons to protect paired operations.",
+      "aliases": "Mercurius | Mercurius Suivant | Vayeate & Mercurius | Vayeate Suivant & Mercurius Suivant | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "imageKey": "ac-0009"
+    },
+    {
+      "id": "ac-0009",
+      "name": "Mercurius",
+      "modelNumber": "OZ-13MSX2 family",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-08",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Mercurius (OZ-13MSX2 family) is represented by 1 certified No Grade physical presentation(s) associated with Mercurius. The earliest controlled grade evidence is 1995-08. Supported presentation names include Mercurius. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Mercurius is a defensive OZ experimental mobile suit using planet-defensor units and close-range beam weapons to protect paired operations.",
+      "aliases": "Mercurius | Mercurius Suivant | Vayeate & Mercurius | Vayeate Suivant & Mercurius Suivant | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "imageKey": "ac-0009"
+    },
+    {
+      "id": "ac-0003-hg",
+      "name": "Shenlong / Altron Gundam",
+      "modelNumber": "XXXG-01S / XXXG-01S2",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Shenlong / Altron Gundam (XXXG-01S / XXXG-01S2) is represented by 6 certified High Grade physical presentation(s) associated with Shenlong Gundam, Altron Gundam. The earliest controlled grade evidence is 1995-06. Supported presentation names include Shenlong Gundam, Altron Gundam, Altron Gundam / Gundam Nataku. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Shenlong Gundam is the close-combat Operation Meteor unit whose later Altron form expands its dragon-fang weapons and mobility.",
+      "aliases": "Shenlong / Altron Gundam | Shenlong Gundam | Altron Gundam | Gundam Nataku | Liaoya Unit | Tauya Unit | Altron Gundam / Gundam Nataku | Shenlong Gundam EW | Altron Gundam EW | Shenlong Gundam EW (Liaoya Unit) | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0003"
+    },
+    {
+      "id": "ac-0003-mg",
+      "name": "Shenlong / Altron Gundam",
+      "modelNumber": "XXXG-01S / XXXG-01S2",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2011-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Shenlong / Altron Gundam (XXXG-01S / XXXG-01S2) is represented by 3 certified Master Grade physical presentation(s) associated with Shenlong Gundam EW, Altron Gundam EW. The earliest controlled grade evidence is 2011-03. Supported presentation names include Shenlong Gundam EW, Altron Gundam EW, Shenlong Gundam EW (Liaoya Unit). This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Shenlong Gundam is the close-combat Operation Meteor unit whose later Altron form expands its dragon-fang weapons and mobility.",
+      "aliases": "Shenlong / Altron Gundam | Shenlong Gundam | Altron Gundam | Gundam Nataku | Liaoya Unit | Tauya Unit | Altron Gundam / Gundam Nataku | Shenlong Gundam EW | Altron Gundam EW | Shenlong Gundam EW (Liaoya Unit) | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0003"
+    },
+    {
+      "id": "ac-0003",
+      "name": "Shenlong / Altron Gundam",
+      "modelNumber": "XXXG-01S / XXXG-01S2",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-05",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Shenlong / Altron Gundam (XXXG-01S / XXXG-01S2) is represented by 2 certified No Grade physical presentation(s) associated with Shenlong Gundam, Altron Gundam. The earliest controlled grade evidence is 1995-05. Supported presentation names include Shenlong Gundam, Altron Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Shenlong Gundam is the close-combat Operation Meteor unit whose later Altron form expands its dragon-fang weapons and mobility.",
+      "aliases": "Shenlong / Altron Gundam | Shenlong Gundam | Altron Gundam | Gundam Nataku | Liaoya Unit | Tauya Unit | Altron Gundam / Gundam Nataku | Shenlong Gundam EW | Altron Gundam EW | Shenlong Gundam EW (Liaoya Unit) | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0003"
+    },
+    {
+      "id": "ac-0007-hg",
+      "name": "Tallgeese",
+      "modelNumber": "OZ-00MS family",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1997-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Tallgeese (OZ-00MS family) is represented by 2 certified High Grade physical presentation(s) associated with Tallgeese III. The earliest controlled grade evidence is 1997-06. Supported presentation names include Tallgeese III. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Tallgeese is the high-performance prototype that established the technological lineage later refined into OZ mobile suits and Gundams.",
+      "aliases": "Tallgeese | Tallgeese II | Tallgeese III | Tallgeese Fluegel | Tallgeese EW | Tallgeese Fluegel EW | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0007"
+    },
+    {
+      "id": "ac-0007-rg",
+      "name": "Tallgeese",
+      "modelNumber": "OZ-00MS family",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2018-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Tallgeese (OZ-00MS family) is represented by 3 certified Real Grade physical presentation(s) associated with Tallgeese EW, Tallgeese II. The earliest controlled grade evidence is 2018-04. Supported presentation names include Tallgeese EW, Tallgeese II, Tallgeese III. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Tallgeese is the high-performance prototype that established the technological lineage later refined into OZ mobile suits and Gundams.",
+      "aliases": "Tallgeese | Tallgeese II | Tallgeese III | Tallgeese Fluegel | Tallgeese EW | Tallgeese Fluegel EW | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0007"
+    },
+    {
+      "id": "ac-0007-mg",
+      "name": "Tallgeese",
+      "modelNumber": "OZ-00MS family",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2013-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Tallgeese (OZ-00MS family) is represented by 4 certified Master Grade physical presentation(s) associated with Tallgeese EW, Tallgeese II. The earliest controlled grade evidence is 2013-01. Supported presentation names include Tallgeese EW, Tallgeese II, Tallgeese III, Tallgeese Fluegel EW. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Tallgeese is the high-performance prototype that established the technological lineage later refined into OZ mobile suits and Gundams.",
+      "aliases": "Tallgeese | Tallgeese II | Tallgeese III | Tallgeese Fluegel | Tallgeese EW | Tallgeese Fluegel EW | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0007"
+    },
+    {
+      "id": "ac-0007",
+      "name": "Tallgeese",
+      "modelNumber": "OZ-00MS family",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-07",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Tallgeese (OZ-00MS family) is represented by 2 certified No Grade physical presentation(s) associated with Tallgeese, Tallgeese II. The earliest controlled grade evidence is 1995-07. Supported presentation names include Tallgeese, Tallgeese II. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Tallgeese is the high-performance prototype that established the technological lineage later refined into OZ mobile suits and Gundams.",
+      "aliases": "Tallgeese | Tallgeese II | Tallgeese III | Tallgeese Fluegel | Tallgeese EW | Tallgeese Fluegel EW | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0007"
+    },
+    {
+      "id": "ac-0011",
+      "name": "Taurus",
+      "modelNumber": "OZ-12SMS",
+      "grade": "Limited Model",
+      "availableGrades": [
+        "Limited Model"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1997-01",
+      "releaseType": "Retail",
+      "kitSummary": "Taurus (OZ-12SMS) is represented by 1 certified Limited Model physical presentation(s) associated with Taurus Custom. The earliest controlled grade evidence is 1997-01. Supported presentation names include Taurus Custom. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Taurus is a transformable space mobile suit used in both piloted and mobile-doll roles for high-speed ranged combat.",
+      "aliases": "Taurus | Taurus Custom | Mobile Suit Gundam Wing",
+      "imageKey": "ac-0011"
+    },
+    {
+      "id": "ac-0008-hg",
+      "name": "Vayeate",
+      "modelNumber": "OZ-13MSX1 family",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2021-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Vayeate (OZ-13MSX1 family) is represented by 2 certified High Grade physical presentation(s) associated with Vayeate & Mercurius, Vayeate Suivant & Mercurius Suivant. The earliest controlled grade evidence is 2021-01. Supported presentation names include Vayeate & Mercurius, Vayeate Suivant & Mercurius Suivant. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Vayeate is an OZ experimental mobile suit focused on sustained high-output beam cannon fire through an external generator system.",
+      "aliases": "Vayeate | Vayeate Suivant | Vayeate & Mercurius | Vayeate Suivant & Mercurius Suivant | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "imageKey": "ac-0008"
+    },
+    {
+      "id": "ac-0008",
+      "name": "Vayeate",
+      "modelNumber": "OZ-13MSX1 family",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-07",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Vayeate (OZ-13MSX1 family) is represented by 1 certified No Grade physical presentation(s) associated with Vayeate. The earliest controlled grade evidence is 1995-07. Supported presentation names include Vayeate. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Vayeate is an OZ experimental mobile suit focused on sustained high-output beam cannon fire through an external generator system.",
+      "aliases": "Vayeate | Vayeate Suivant | Vayeate & Mercurius | Vayeate Suivant & Mercurius Suivant | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "imageKey": "ac-0008"
+    },
+    {
+      "id": "ac-0001-eg",
+      "name": "Wing Gundam",
+      "modelNumber": "XXXG-01W",
+      "grade": "Entry Grade",
+      "availableGrades": [
+        "Entry Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2025-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Wing Gundam (XXXG-01W) is represented by 1 certified Entry Grade physical presentation(s) associated with Wing Gundam. The earliest controlled grade evidence is 2025-10. Supported presentation names include Wing Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Wing Gundam is an Operation Meteor transformable Gundam built for rapid atmospheric entry and decisive buster-rifle attacks.",
+      "aliases": "Wing Gundam | Wing Gundam EW | Wing Gundam Ver.Ka | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0001"
+    },
+    {
+      "id": "ac-0001-hg",
+      "name": "Wing Gundam",
+      "modelNumber": "XXXG-01W",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-04",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Wing Gundam (XXXG-01W) is represented by 2 certified High Grade physical presentation(s) associated with Wing Gundam. The earliest controlled grade evidence is 1995-04. Supported presentation names include Wing Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Wing Gundam is an Operation Meteor transformable Gundam built for rapid atmospheric entry and decisive buster-rifle attacks.",
+      "aliases": "Wing Gundam | Wing Gundam EW | Wing Gundam Ver.Ka | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0001"
+    },
+    {
+      "id": "ac-0001-rg",
+      "name": "Wing Gundam",
+      "modelNumber": "XXXG-01W",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2016-01",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Wing Gundam (XXXG-01W) is represented by 2 certified Real Grade physical presentation(s) associated with Wing Gundam EW, Wing Gundam. The earliest controlled grade evidence is 2016-01. Supported presentation names include Wing Gundam EW, Wing Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Wing Gundam is an Operation Meteor transformable Gundam built for rapid atmospheric entry and decisive buster-rifle attacks.",
+      "aliases": "Wing Gundam | Wing Gundam EW | Wing Gundam Ver.Ka | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0001"
+    },
+    {
+      "id": "ac-0001-mg",
+      "name": "Wing Gundam",
+      "modelNumber": "XXXG-01W",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2004-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Wing Gundam (XXXG-01W) is represented by 2 certified Master Grade physical presentation(s) associated with Wing Gundam Ver.Ka, Wing Gundam. The earliest controlled grade evidence is 2004-03. Supported presentation names include Wing Gundam Ver.Ka, Wing Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Wing Gundam is an Operation Meteor transformable Gundam built for rapid atmospheric entry and decisive buster-rifle attacks.",
+      "aliases": "Wing Gundam | Wing Gundam EW | Wing Gundam Ver.Ka | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0001"
+    },
+    {
+      "id": "ac-0001-hirm",
+      "name": "Wing Gundam",
+      "modelNumber": "XXXG-01W",
+      "grade": "Hi-Resolution Model",
+      "availableGrades": [
+        "Hi-Resolution Model"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2019-02",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Wing Gundam (XXXG-01W) is represented by 1 certified Hi-Resolution Model physical presentation(s) associated with Wing Gundam EW. The earliest controlled grade evidence is 2019-02. Supported presentation names include Wing Gundam EW. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Wing Gundam is an Operation Meteor transformable Gundam built for rapid atmospheric entry and decisive buster-rifle attacks.",
+      "aliases": "Wing Gundam | Wing Gundam EW | Wing Gundam Ver.Ka | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0001"
+    },
+    {
+      "id": "ac-0001",
+      "name": "Wing Gundam",
+      "modelNumber": "XXXG-01W",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-03",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Wing Gundam (XXXG-01W) is represented by 1 certified No Grade physical presentation(s) associated with Wing Gundam. The earliest controlled grade evidence is 1995-03. Supported presentation names include Wing Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Wing Gundam is an Operation Meteor transformable Gundam built for rapid atmospheric entry and decisive buster-rifle attacks.",
+      "aliases": "Wing Gundam | Wing Gundam EW | Wing Gundam Ver.Ka | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0001"
+    },
+    {
+      "id": "ac-0002-hg",
+      "name": "Wing Gundam Zero",
+      "modelNumber": "XXXG-00W0",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Wing Gundam Zero (XXXG-00W0) is represented by 4 certified High Grade physical presentation(s) associated with Wing Gundam Zero, Wing Gundam Zero Custom. The earliest controlled grade evidence is 1995-10. Supported presentation names include Wing Gundam Zero, Wing Gundam Zero Custom. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Wing Gundam Zero is the prototype design behind the five Operation Meteor Gundams, combining twin buster rifles with the predictive ZERO System.",
+      "aliases": "Wing Gundam Zero | Wing Zero | Wing Gundam Zero Custom | Wing Gundam Zero EW | Wing Gundam Proto Zero EW | Wing Gundam Zero EW Ver.Ka | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0002"
+    },
+    {
+      "id": "ac-0002-rg",
+      "name": "Wing Gundam Zero",
+      "modelNumber": "XXXG-00W0",
+      "grade": "Real Grade",
+      "availableGrades": [
+        "Real Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2014-12",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Wing Gundam Zero (XXXG-00W0) is represented by 2 certified Real Grade physical presentation(s) associated with Wing Gundam Zero EW, Wing Gundam Zero. The earliest controlled grade evidence is 2014-12. Supported presentation names include Wing Gundam Zero EW, Wing Gundam Zero. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Wing Gundam Zero is the prototype design behind the five Operation Meteor Gundams, combining twin buster rifles with the predictive ZERO System.",
+      "aliases": "Wing Gundam Zero | Wing Zero | Wing Gundam Zero Custom | Wing Gundam Zero EW | Wing Gundam Proto Zero EW | Wing Gundam Zero EW Ver.Ka | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0002"
+    },
+    {
+      "id": "ac-0002-mg",
+      "name": "Wing Gundam Zero",
+      "modelNumber": "XXXG-00W0",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2004-10",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Wing Gundam Zero (XXXG-00W0) is represented by 3 certified Master Grade physical presentation(s) associated with Wing Gundam Zero EW, Wing Gundam Proto Zero EW. The earliest controlled grade evidence is 2004-10. Supported presentation names include Wing Gundam Zero EW, Wing Gundam Proto Zero EW, Wing Gundam Zero EW Ver.Ka. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Wing Gundam Zero is the prototype design behind the five Operation Meteor Gundams, combining twin buster rifles with the predictive ZERO System.",
+      "aliases": "Wing Gundam Zero | Wing Zero | Wing Gundam Zero Custom | Wing Gundam Zero EW | Wing Gundam Proto Zero EW | Wing Gundam Zero EW Ver.Ka | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0002"
+    },
+    {
+      "id": "ac-0002-pg",
+      "name": "Wing Gundam Zero",
+      "modelNumber": "XXXG-00W0",
+      "grade": "Perfect Grade",
+      "availableGrades": [
+        "Perfect Grade"
+      ],
+      "scale": "1/60",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2000-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Wing Gundam Zero (XXXG-00W0) is represented by 1 certified Perfect Grade physical presentation(s) associated with Wing Gundam Zero Custom. The earliest controlled grade evidence is 2000-11. Supported presentation names include Wing Gundam Zero Custom. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Wing Gundam Zero is the prototype design behind the five Operation Meteor Gundams, combining twin buster rifles with the predictive ZERO System.",
+      "aliases": "Wing Gundam Zero | Wing Zero | Wing Gundam Zero Custom | Wing Gundam Zero EW | Wing Gundam Proto Zero EW | Wing Gundam Zero EW Ver.Ka | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0002"
+    },
+    {
+      "id": "ac-0002-hirm",
+      "name": "Wing Gundam Zero",
+      "modelNumber": "XXXG-00W0",
+      "grade": "Hi-Resolution Model",
+      "availableGrades": [
+        "Hi-Resolution Model"
+      ],
+      "scale": "1/100",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "2017-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Wing Gundam Zero (XXXG-00W0) is represented by 1 certified Hi-Resolution Model physical presentation(s) associated with Wing Gundam Zero EW. The earliest controlled grade evidence is 2017-09. Supported presentation names include Wing Gundam Zero EW. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Wing Gundam Zero is the prototype design behind the five Operation Meteor Gundams, combining twin buster rifles with the predictive ZERO System.",
+      "aliases": "Wing Gundam Zero | Wing Zero | Wing Gundam Zero Custom | Wing Gundam Zero EW | Wing Gundam Proto Zero EW | Wing Gundam Zero EW Ver.Ka | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0002"
+    },
+    {
+      "id": "ac-0002",
+      "name": "Wing Gundam Zero",
+      "modelNumber": "XXXG-00W0",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Mobile Suit Gundam Wing",
+      "releaseDate": "1995-09",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Wing Gundam Zero (XXXG-00W0) is represented by 2 certified No Grade physical presentation(s) associated with Wing Gundam Zero. The earliest controlled grade evidence is 1995-09. Supported presentation names include Wing Gundam Zero. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Wing Gundam Zero is the prototype design behind the five Operation Meteor Gundams, combining twin buster rifles with the predictive ZERO System.",
+      "aliases": "Wing Gundam Zero | Wing Zero | Wing Gundam Zero Custom | Wing Gundam Zero EW | Wing Gundam Proto Zero EW | Wing Gundam Zero EW Ver.Ka | Mobile Suit Gundam Wing | Mobile Suit Gundam Wing: Endless Waltz | Endless Waltz: Glory of the Losers",
+      "imageKey": "ac-0002"
+    },
+    {
+      "id": "ac-0015",
+      "name": "Gundam Aesculapius",
+      "modelNumber": "OZ-10VMSX",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "releaseDate": "1997-07",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Aesculapius (OZ-10VMSX) is represented by 2 certified High Grade physical presentation(s) associated with Gundam Aesculapius. The earliest controlled grade evidence is 1997-07. Supported presentation names include Gundam Aesculapius. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Aesculapius is an OZ Prize conversion of Geminass 02 that transforms between high-mobility and claw-equipped assault modes.",
+      "aliases": "Gundam Aesculapius | Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "imageKey": "ac-0015"
+    },
+    {
+      "id": "ac-0014",
+      "name": "Gundam Geminass",
+      "modelNumber": "OZX-GU01A / OZX-GU02A",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "releaseDate": "1997-06",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Geminass (OZX-GU01A / OZX-GU02A) is represented by 3 certified High Grade physical presentation(s) associated with Gundam Geminass 01, Gundam Geminass 02. The earliest controlled grade evidence is 1997-06. Supported presentation names include Gundam Geminass 01, Gundam Geminass 02. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "The Geminass units are modular G-Unit test Gundams developed by MO-V around interchangeable equipment and the PX System.",
+      "aliases": "Gundam Geminass | Geminass 01 | Geminass 02 | Gundam Geminass 01 | Gundam Geminass 02 | Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "imageKey": "ac-0014"
+    },
+    {
+      "id": "ac-0018",
+      "name": "Gundam Griepe",
+      "modelNumber": "OZ-19MASX",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "releaseDate": "1997-11",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam Griepe (OZ-19MASX) is represented by 2 certified High Grade physical presentation(s) associated with Gundam Griepe. The earliest controlled grade evidence is 1997-11. Supported presentation names include Gundam Griepe. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam Griepe is the ultimate MO-V G-Unit, transforming between mobile-suit, flight and assault modes around a high-output cannon system.",
+      "aliases": "Gundam Griepe | Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "imageKey": "ac-0018"
+    },
+    {
+      "id": "ac-0016",
+      "name": "Gundam L.O. Booster",
+      "modelNumber": "OZX-GU01LOB",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "releaseDate": "1997-08",
+      "releaseType": "Verified presentations",
+      "kitSummary": "Gundam L.O. Booster (OZX-GU01LOB) is represented by 2 certified High Grade physical presentation(s) associated with Gundam L.O. Booster. The earliest controlled grade evidence is 1997-08. Supported presentation names include Gundam L.O. Booster. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Gundam L.O. Booster is the high-mobility development of Geminass 01, adding transformation, powerful thrusters and beam-cannon binders.",
+      "aliases": "Gundam L.O. Booster | Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "imageKey": "ac-0016"
+    },
+    {
+      "id": "ac-0017",
+      "name": "Hydra Gundam",
+      "modelNumber": "OZ-15AGX",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "releaseDate": "1997-10",
+      "releaseType": "Retail",
+      "kitSummary": "Hydra Gundam (OZ-15AGX) is represented by 1 certified High Grade physical presentation(s) associated with Hydra Gundam. The earliest controlled grade evidence is 1997-10. Supported presentation names include Hydra Gundam. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Hydra Gundam is the OZ Prize commander machine, combining heavy firepower, advanced mobility and the PX System for decisive engagements.",
+      "aliases": "Hydra Gundam | Mobile Suit Gundam Wing Dual Story: G-Unit",
+      "imageKey": "ac-0017"
+    },
+    {
+      "id": "ac-0013",
+      "name": "Serpent",
+      "modelNumber": "MMS-01",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Mobile Suit Gundam Wing: Endless Waltz",
+      "releaseDate": "1998-04",
+      "releaseType": "Retail",
+      "kitSummary": "Serpent (MMS-01) is represented by 2 certified High Grade physical presentation(s) associated with Serpent Custom. The earliest controlled grade evidence is 1998-04. Supported presentation names include Serpent Custom. This grade-specific entry preserves the certified machine family while tooling revisions, configurations, editions, packaging, and accessories remain presentation or owned-copy metadata.",
+      "unitLore": "Serpent is a heavily armed mass-production mobile suit deployed by the Mariemaia Army during the Endless Waltz conflict.",
+      "aliases": "Serpent | Serpent Custom | Mobile Suit Gundam Wing: Endless Waltz",
+      "imageKey": "ac-0013"
+    }
+  ]
+}

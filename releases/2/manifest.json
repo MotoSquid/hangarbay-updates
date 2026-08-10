@@ -1,0 +1,157 @@
+{
+  "format": "hangar-bay-update-manifest",
+  "schemaVersion": 1,
+  "revision": 2,
+  "channel": "developer",
+  "publishedAt": "2026-08-10T02:13:51Z",
+  "minimumAppVersionCode": 29,
+  "catalogDatabaseSchema": 3,
+  "catalogPackSchema": 1,
+  "releaseNotes": "Global conformance campaign final Route A release.\nPreserves all 1,418 frozen Hangar Bay 0.5.6 catalog IDs in their original packs.\nAdds Regild Century v1, Miscellaneous v1, and Future Century v1.\nAdvances unified SD from v8 / 437 to v12 / 445 with all cumulative certified SD additions.\nReplaces eleven other installed packs with higher certified versions while retaining all installed IDs.\nFinal post-install catalog: 16 packs / 1,474 grade-specific entries.\nPhase 7 corrected Future Century pack sortOrder to 55 and corrected the After Colony individual handoff expected count; neither correction changes catalog IDs or app requirements.",
+  "packs": [
+    {
+      "id": "universal-century",
+      "version": 6,
+      "updatedAt": "2026-08-05",
+      "kitCount": 433,
+      "sizeBytes": 442789,
+      "sha256": "8bf327625b7e9a91c3461dcafb0caaa383c651eed7344abc84f4817176b34e46",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/universal-century-v6.hangarpack"
+    },
+    {
+      "id": "sd-original",
+      "version": 12,
+      "updatedAt": "2026-08-05",
+      "kitCount": 445,
+      "sizeBytes": 538495,
+      "sha256": "66f2a8c2331fe715fbfa09b7c282ec8e53a8c29d31c2a45317bda583f231a826",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/sd-original-v12.hangarpack"
+    },
+    {
+      "id": "witch-from-mercury",
+      "version": 5,
+      "updatedAt": "2026-08-05",
+      "kitCount": 25,
+      "sizeBytes": 23964,
+      "sha256": "e78ac21d4337ae61bcf930767514ccbc6301b075177d4e2edaf19304e7901392",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/witch-from-mercury-v5.hangarpack"
+    },
+    {
+      "id": "cosmic-era",
+      "version": 4,
+      "updatedAt": "2026-08-05",
+      "kitCount": 147,
+      "sizeBytes": 175506,
+      "sha256": "64f8de7ea910c4d96528a547f7da04d5b90782e3ed335e58faf1d78c7dabb005",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/cosmic-era-v4.hangarpack"
+    },
+    {
+      "id": "build-gunpla-battle",
+      "version": 3,
+      "updatedAt": "2026-08-05",
+      "kitCount": 132,
+      "sizeBytes": 176213,
+      "sha256": "1a4d715b48e71fe2798ca8eaa8168bed60783f82c1caad6683d27e4ef21f702c",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/build-gunpla-battle-v3.hangarpack"
+    },
+    {
+      "id": "anno-domini",
+      "version": 3,
+      "updatedAt": "2026-08-05",
+      "kitCount": 66,
+      "sizeBytes": 79854,
+      "sha256": "48ca6b7fe10faab06123ced3630880446b0e98f6f1ae42ab5618d8dcb16411ae",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/anno-domini-v3.hangarpack"
+    },
+    {
+      "id": "after-colony",
+      "version": 4,
+      "updatedAt": "2026-08-05",
+      "kitCount": 47,
+      "sizeBytes": 58149,
+      "sha256": "b8d5270015b8c99a7f5d0900a9cc9cc96de7a54e296466a3e5acc53fe1febc4c",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/after-colony-v4.hangarpack"
+    },
+    {
+      "id": "after-war",
+      "version": 3,
+      "updatedAt": "2026-08-05",
+      "kitCount": 17,
+      "sizeBytes": 15455,
+      "sha256": "ebac7758dceb1fd022af84d8f2bb249879c03e601e5967d5a5baaa3595090d1d",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/after-war-v3.hangarpack"
+    },
+    {
+      "id": "post-disaster",
+      "version": 4,
+      "updatedAt": "2026-08-05",
+      "kitCount": 39,
+      "sizeBytes": 42778,
+      "sha256": "a7c070f6342f7b7f2097f47d77b85fe96b331003b425c6964a9dca41eb04e464",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/post-disaster-v4.hangarpack"
+    },
+    {
+      "id": "future-century",
+      "version": 1,
+      "updatedAt": "2026-08-05",
+      "kitCount": 29,
+      "sizeBytes": 26348,
+      "sha256": "9662b4458082d0720c08e712bc1457c77fbea660eb3a0a4ca41accc020eed948",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/future-century-v1.hangarpack"
+    },
+    {
+      "id": "correct-century",
+      "version": 3,
+      "updatedAt": "2026-08-05",
+      "kitCount": 8,
+      "sizeBytes": 7569,
+      "sha256": "11c3524bdddec11a155361e0befe5160a26be1dbe841a9d22714d9b850b0ad53",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/correct-century-v3.hangarpack"
+    },
+    {
+      "id": "regild-century",
+      "version": 1,
+      "updatedAt": "2026-08-03",
+      "kitCount": 13,
+      "sizeBytes": 11286,
+      "sha256": "f01c562fdaba736ca14cae41bbc1961116cece823477a4e5f4e0734cfada6362",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/regild-century-v1.hangarpack"
+    },
+    {
+      "id": "advanced-generation",
+      "version": 3,
+      "updatedAt": "2026-08-05",
+      "kitCount": 38,
+      "sizeBytes": 37820,
+      "sha256": "747fea8dd6a5cf5921f51c0f4ee2474884922496f6e3e3ea2d17d89924dec416",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/advanced-generation-v3.hangarpack"
+    },
+    {
+      "id": "miscellaneous-gundam-originals-promotions",
+      "version": 1,
+      "updatedAt": "2026-08-03",
+      "kitCount": 6,
+      "sizeBytes": 5492,
+      "sha256": "2a8c9d2e16f999866383bac6d8d4e170fa56a1728b0f765e19bb002f6d0d309f",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/miscellaneous-gundam-originals-promotions-v1.hangarpack"
+    },
+    {
+      "id": "third-party-snaa",
+      "version": 3,
+      "updatedAt": "2026-08-09",
+      "kitCount": 14,
+      "sizeBytes": 12895,
+      "sha256": "3dcea39c5ce549062a1ce79c20b2fa02fe9eba91a07d9a6bf1ac90ea13b05792",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/third-party-snaa-v3.hangarpack"
+    },
+    {
+      "id": "third-party-motor-nuclear",
+      "version": 3,
+      "updatedAt": "2026-08-09",
+      "kitCount": 15,
+      "sizeBytes": 15910,
+      "sha256": "4196b9bc44b018ae15ce17923e42d18963f4c42a6bb54b00496cead33aeee90b",
+      "url": "https://motosquid.github.io/hangarbay-updates/releases/2/third-party-motor-nuclear-v3.hangarpack"
+    }
+  ]
+}
