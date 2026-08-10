@@ -1,0 +1,306 @@
+{
+  "format": "hangar-bay-catalog-pack",
+  "schemaVersion": 1,
+  "id": "after-war",
+  "name": "After War / Gundam X",
+  "shortName": "AW",
+  "description": "Grade-specific After War / Gundam X catalog. Each entry represents one mech and normalized grade; configurations, tooling iterations, editions, scale choices, and accessories remain owned-copy attributes.",
+  "version": 3,
+  "updatedAt": "2026-08-05",
+  "sortOrder": 45,
+  "kitCount": 17,
+  "series": [
+    "After War Gundam X"
+  ],
+  "kits": [
+    {
+      "id": "aw-0007",
+      "name": "Daughtress",
+      "modelNumber": "DT-6800 family",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "2020-10",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Daughtress, supported by 1 certified physical presentation. Supported configurations include Standard, Command, Weapon, Custom / Company Colors, Custom / Other.",
+      "unitLore": "The Daughtress is a widely fielded postwar mobile suit derived from United Nations Earth designs. Command, weapons, and operator-specific variants reflect the fragmented military landscape of After War Earth.",
+      "aliases": "DT-6800 Daughtress | Daughtress Command | Daughtress Weapon | Daughtress Custom | Daughtress",
+      "imageKey": "aw-0007"
+    },
+    {
+      "id": "aw-0007-lm",
+      "name": "Daughtress",
+      "modelNumber": "DT-6800 family",
+      "grade": "Limited Model",
+      "availableGrades": [
+        "Limited Model"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "1996-08",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Limited Model catalog entry for Daughtress, supported by 1 certified physical presentation. Supported configurations include Standard, Command, Weapon, Custom / Company Colors, Custom / Other.",
+      "unitLore": "The Daughtress is a widely fielded postwar mobile suit derived from United Nations Earth designs. Command, weapons, and operator-specific variants reflect the fragmented military landscape of After War Earth.",
+      "aliases": "DT-6800 Daughtress | Daughtress Command | Daughtress Weapon | Daughtress Custom",
+      "imageKey": "aw-0007"
+    },
+    {
+      "id": "aw-0003",
+      "name": "Gundam Airmaster",
+      "modelNumber": "GW-9800 family",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "1996-05",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Gundam Airmaster, supported by 4 certified physical presentations. Supported configurations include Standard, Burst, Fighter Mode, Custom / Other.",
+      "unitLore": "The GW-9800 is a transformable high-mobility Gundam specialized for aerial combat. Witz Sou operates the machine and later receives the strengthened Airmaster Burst refit.",
+      "aliases": "GW-9800 Gundam Airmaster | Gundam Airmaster Burst | Gundam Airmaster",
+      "imageKey": "aw-0003"
+    },
+    {
+      "id": "aw-0003-ng",
+      "name": "Gundam Airmaster",
+      "modelNumber": "GW-9800 family",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "1996-04",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Gundam Airmaster, supported by 2 certified physical presentations. Supported configurations include Standard, Burst, Fighter Mode, Custom / Other.",
+      "unitLore": "The GW-9800 is a transformable high-mobility Gundam specialized for aerial combat. Witz Sou operates the machine and later receives the strengthened Airmaster Burst refit.",
+      "aliases": "GW-9800 Gundam Airmaster | Gundam Airmaster Burst | Gundam Airmaster",
+      "imageKey": "aw-0003"
+    },
+    {
+      "id": "aw-0006",
+      "name": "Gundam Ashtaron",
+      "modelNumber": "NRX-0015",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "2026-11",
+      "releaseType": "Announced presentation",
+      "kitSummary": "High Grade catalog entry for Gundam Ashtaron, supported by 1 certified physical presentation. Supported configurations include Standard, Mobile Armor Mode, Custom / Other.",
+      "unitLore": "Olba Frost’s Gundam transforms into a mobile-armor form and uses large Atomic Scissors for capture and close combat. It is designed to coordinate with Gundam Virsago in the Frost brothers’ operations.",
+      "aliases": "NRX-0015 Gundam Ashtaron | Gundam Ashtaron Hermit Crab | Gundam Ashtaron",
+      "imageKey": "aw-0006"
+    },
+    {
+      "id": "aw-0006-ng",
+      "name": "Gundam Ashtaron",
+      "modelNumber": "NRX-0015",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "1996-05",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Gundam Ashtaron, supported by 1 certified physical presentation. Supported configurations include Standard, Mobile Armor Mode, Custom / Other.",
+      "unitLore": "Olba Frost’s Gundam transforms into a mobile-armor form and uses large Atomic Scissors for capture and close combat. It is designed to coordinate with Gundam Virsago in the Frost brothers’ operations.",
+      "aliases": "NRX-0015 Gundam Ashtaron | Gundam Ashtaron Hermit Crab | Gundam Ashtaron",
+      "imageKey": "aw-0006"
+    },
+    {
+      "id": "aw-0002",
+      "name": "Gundam Double X",
+      "modelNumber": "GX-9901-DX",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "1996-10",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Gundam Double X, supported by 4 certified physical presentations. Supported configurations include Standard, G-Falcon Docked, Custom / Other.",
+      "unitLore": "Developed by the New United Nations Earth from Gundam X combat data, the Double X carries twin Satellite Cannons and an expanded reflector system. Garrod later uses it as the principal Gundam of the Freeden.",
+      "aliases": "GX-9901-DX Gundam Double X | Gundam DX | Double X | Gundam Double X | G-Falcon Unit Gundam Double X | Gundam Double X [Clear Color]",
+      "imageKey": "aw-0002"
+    },
+    {
+      "id": "aw-0002-mg",
+      "name": "Gundam Double X",
+      "modelNumber": "GX-9901-DX",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "After War Gundam X",
+      "releaseDate": "2015-03",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Master Grade catalog entry for Gundam Double X, supported by 1 certified physical presentation. Supported configurations include Standard, G-Falcon Docked, Custom / Other.",
+      "unitLore": "Developed by the New United Nations Earth from Gundam X combat data, the Double X carries twin Satellite Cannons and an expanded reflector system. Garrod later uses it as the principal Gundam of the Freeden.",
+      "aliases": "GX-9901-DX Gundam Double X | Gundam DX | Double X | Gundam Double X",
+      "imageKey": "aw-0002"
+    },
+    {
+      "id": "aw-0002-ng",
+      "name": "Gundam Double X",
+      "modelNumber": "GX-9901-DX",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "1996-08",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Gundam Double X, supported by 1 certified physical presentation. Supported configurations include Standard, G-Falcon Docked, Custom / Other.",
+      "unitLore": "Developed by the New United Nations Earth from Gundam X combat data, the Double X carries twin Satellite Cannons and an expanded reflector system. Garrod later uses it as the principal Gundam of the Freeden.",
+      "aliases": "GX-9901-DX Gundam Double X | Gundam DX | Double X | Gundam Double X",
+      "imageKey": "aw-0002"
+    },
+    {
+      "id": "aw-0004",
+      "name": "Gundam Leopard",
+      "modelNumber": "GT-9600 family",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "1996-06",
+      "releaseType": "Announced presentation",
+      "kitSummary": "High Grade catalog entry for Gundam Leopard, supported by 3 certified physical presentations. Supported configurations include Standard, Destroy, Custom / Other.",
+      "unitLore": "The GT-9600 is a heavily armed Gundam optimized for sustained bombardment. Roybea Loy pilots the machine, whose later Destroy configuration revises its weapon layout and combat performance.",
+      "aliases": "GT-9600 Gundam Leopard | Gundam Leopard Destroy | Gundam Leopard",
+      "imageKey": "aw-0004"
+    },
+    {
+      "id": "aw-0004-ng",
+      "name": "Gundam Leopard",
+      "modelNumber": "GT-9600 family",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "1996-04",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Gundam Leopard, supported by 2 certified physical presentations. Supported configurations include Standard, Destroy, Custom / Other.",
+      "unitLore": "The GT-9600 is a heavily armed Gundam optimized for sustained bombardment. Roybea Loy pilots the machine, whose later Destroy configuration revises its weapon layout and combat performance.",
+      "aliases": "GT-9600 Gundam Leopard | Gundam Leopard Destroy | Gundam Leopard",
+      "imageKey": "aw-0004"
+    },
+    {
+      "id": "aw-0005",
+      "name": "Gundam Virsago",
+      "modelNumber": "NRX-0013 family",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "1996-07",
+      "releaseType": "Announced presentation",
+      "kitSummary": "High Grade catalog entry for Gundam Virsago, supported by 2 certified physical presentations. Supported configurations include Standard, Chest Break, Custom / Other.",
+      "unitLore": "Shagia Frost’s Gundam combines extending Strike Claws with a high-output chest cannon. Its Chest Break upgrade expands the chest weapon and reinforces the machine for later battles.",
+      "aliases": "NRX-0013 Gundam Virsago | Gundam Virsago Chest Break | Gundam Virsago",
+      "imageKey": "aw-0005"
+    },
+    {
+      "id": "aw-0005-ng",
+      "name": "Gundam Virsago",
+      "modelNumber": "NRX-0013 family",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "1996-04",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Gundam Virsago, supported by 2 certified physical presentations. Supported configurations include Standard, Chest Break, Custom / Other.",
+      "unitLore": "Shagia Frost’s Gundam combines extending Strike Claws with a high-output chest cannon. Its Chest Break upgrade expands the chest weapon and reinforces the machine for later battles.",
+      "aliases": "NRX-0013 Gundam Virsago | Gundam Virsago Chest Break | Gundam Virsago",
+      "imageKey": "aw-0005"
+    },
+    {
+      "id": "aw-0001",
+      "name": "Gundam X",
+      "modelNumber": "GX-9900 family",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "1996-04",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Gundam X, supported by 4 certified physical presentations. Supported configurations include Standard, Divider, Unit 3, Custom / Other.",
+      "unitLore": "The GX-9900 is a 7th Space War Gundam built around the Flash System and Satellite Cannon. Garrod Ran pilots the surviving machine, which is later rebuilt as the Gundam X Divider and represented in the Unit 3 configuration.",
+      "aliases": "GX-9900 Gundam X | Gundam X Divider | Gundam X Unit 3 | Black Gundam X | Gundam X",
+      "imageKey": "aw-0001"
+    },
+    {
+      "id": "aw-0001-mg",
+      "name": "Gundam X",
+      "modelNumber": "GX-9900 family",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "After War Gundam X",
+      "releaseDate": "2014-01",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Master Grade catalog entry for Gundam X, supported by 2 certified physical presentations. Supported configurations include Standard, Divider, Unit 3, Custom / Other.",
+      "unitLore": "The GX-9900 is a 7th Space War Gundam built around the Flash System and Satellite Cannon. Garrod Ran pilots the surviving machine, which is later rebuilt as the Gundam X Divider and represented in the Unit 3 configuration.",
+      "aliases": "GX-9900 Gundam X | Gundam X Divider | Gundam X Unit 3 | Black Gundam X | Gundam X",
+      "imageKey": "aw-0001"
+    },
+    {
+      "id": "aw-0001-ng",
+      "name": "Gundam X",
+      "modelNumber": "GX-9900 family",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "1996-03",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Gundam X, supported by 3 certified physical presentations. Supported configurations include Standard, Divider, Unit 3, Custom / Other.",
+      "unitLore": "The GX-9900 is a 7th Space War Gundam built around the Flash System and Satellite Cannon. Garrod Ran pilots the surviving machine, which is later rebuilt as the Gundam X Divider and represented in the Unit 3 configuration.",
+      "aliases": "GX-9900 Gundam X | Gundam X Divider | Gundam X Unit 3 | Black Gundam X | Gundam X | Gundam X [Pearl Clear]",
+      "imageKey": "aw-0001"
+    },
+    {
+      "id": "aw-0008",
+      "name": "Jenice",
+      "modelNumber": "RMS-006 family",
+      "grade": "Limited Model",
+      "availableGrades": [
+        "Limited Model"
+      ],
+      "scale": "1/144",
+      "series": "After War Gundam X",
+      "releaseDate": "1996-08",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Limited Model catalog entry for Jenice, supported by 1 certified physical presentation. Supported configurations include Standard, Command, Custom, Custom / Other.",
+      "unitLore": "The Jenice is a durable Space Revolutionary Army mobile suit that remains common among postwar factions, mercenaries, and customized operators long after the 7th Space War.",
+      "aliases": "RMS-006 Jenice | Jenice Custom | Jenice Kai",
+      "imageKey": "aw-0008"
+    }
+  ]
+}

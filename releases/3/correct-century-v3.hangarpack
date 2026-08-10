@@ -1,0 +1,153 @@
+{
+  "format": "hangar-bay-catalog-pack",
+  "schemaVersion": 1,
+  "id": "correct-century",
+  "name": "Correct Century / Turn A Gundam",
+  "shortName": "CC",
+  "description": "Grade-specific Correct Century / Turn A Gundam catalog. Each entry represents one mech and normalized grade; configurations, tooling iterations, editions, scale choices, and accessories remain owned-copy attributes.",
+  "version": 3,
+  "updatedAt": "2026-08-05",
+  "sortOrder": 60,
+  "kitCount": 8,
+  "series": [
+    "Turn A Gundam"
+  ],
+  "kits": [
+    {
+      "id": "cc-0002",
+      "name": "FLAT",
+      "modelNumber": "FLAT-L06D",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Turn A Gundam",
+      "releaseDate": "1999-05",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for FLAT, supported by 1 certified physical presentation. Supported configurations include Standard, Flight form.",
+      "unitLore": "The FLAT is a Moonrace descent and reconnaissance mobile suit able to flatten its body into a flight form for atmospheric entry, transport, and high-speed operations.",
+      "aliases": "FLAT | Flat | 1/144 FLAT",
+      "imageKey": "cc-0002"
+    },
+    {
+      "id": "cc-0003",
+      "name": "Kapool",
+      "modelNumber": "AMX-109",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "1/144",
+      "series": "Turn A Gundam",
+      "releaseDate": "1999-06",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Kapool, supported by 1 certified physical presentation. Supported configurations include Standard.",
+      "unitLore": "Excavated and restored by the Earth Militia, the compact Kapool serves as an amphibious combat machine despite originating from the advanced technology buried beneath the Correct Century.",
+      "aliases": "Kapool | Kapul | Capule | 1/144 Kapool",
+      "imageKey": "cc-0003"
+    },
+    {
+      "id": "cc-0004",
+      "name": "SUMO",
+      "modelNumber": "MRC-F20",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Turn A Gundam",
+      "releaseDate": "1999-07",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for SUMO, supported by 4 certified physical presentations. Supported configurations include Standard.",
+      "unitLore": "The SUMO is a high-performance Moonrace royal-guard mobile suit, most prominently fielded by Harry Ord in gold and by other Dianna Counter guards in silver.",
+      "aliases": "SUMO | Gold SUMO | Silver SUMO | Sumo | 1/144 SUMO Gold Type | 1/100 SUMO Gold Type | 1/144 SUMO Silver Type | 1/144 SUMO Gold and Silver Plating Set",
+      "imageKey": "cc-0004"
+    },
+    {
+      "id": "cc-0001-hg",
+      "name": "Turn A Gundam",
+      "modelNumber": "SYSTEM ∀-99 / WD-M01",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Turn A Gundam",
+      "releaseDate": "2014-04",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "High Grade catalog entry for Turn A Gundam, supported by 1 certified physical presentation. Supported configurations include Standard, Moonlight Butterfly deployed.",
+      "unitLore": "Excavated beneath the White Doll statue, the Turn A is an ancient self-repairing mobile suit whose Moonlight Butterfly nanomachines link the Correct Century to the buried technological record known as the Dark History.",
+      "aliases": "∀ Gundam | White Doll | Mustache Gundam | Turn A | SYSTEM Turn A-99 | HGCC 1/144 Turn A Gundam",
+      "imageKey": "cc-0001"
+    },
+    {
+      "id": "cc-0001-mg",
+      "name": "Turn A Gundam",
+      "modelNumber": "SYSTEM ∀-99 / WD-M01",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Turn A Gundam",
+      "releaseDate": "2007-08",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Master Grade catalog entry for Turn A Gundam, supported by 3 certified physical presentations. Supported configurations include Standard, Moonlight Butterfly deployed.",
+      "unitLore": "Excavated beneath the White Doll statue, the Turn A is an ancient self-repairing mobile suit whose Moonlight Butterfly nanomachines link the Correct Century to the buried technological record known as the Dark History.",
+      "aliases": "∀ Gundam | White Doll | Mustache Gundam | Turn A | SYSTEM Turn A-99 | MG 1/100 Turn A Gundam | MG 1/100 Turn A Gundam Moonlight Butterfly Ver. | MG 1/100 Turn A Gundam / Turn X Nano Skin Image",
+      "imageKey": "cc-0001"
+    },
+    {
+      "id": "cc-0001",
+      "name": "Turn A Gundam",
+      "modelNumber": "SYSTEM ∀-99 / WD-M01",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Turn A Gundam",
+      "releaseDate": "1999-04",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Turn A Gundam, supported by 4 certified physical presentations. Supported configurations include Standard, Moonlight Butterfly deployed.",
+      "unitLore": "Excavated beneath the White Doll statue, the Turn A is an ancient self-repairing mobile suit whose Moonlight Butterfly nanomachines link the Correct Century to the buried technological record known as the Dark History.",
+      "aliases": "∀ Gundam | White Doll | Mustache Gundam | Turn A | SYSTEM Turn A-99 | 1/144 Turn A Gundam | 1/100 Turn A Gundam | 1/100 Turn A Gundam Clear Version | Gundam 30th Anniversary Gunpla Premium Box - Turn A component",
+      "imageKey": "cc-0001"
+    },
+    {
+      "id": "cc-0005-mg",
+      "name": "Turn X",
+      "modelNumber": "CONCEPT-X 6-1-2",
+      "grade": "Master Grade",
+      "availableGrades": [
+        "Master Grade"
+      ],
+      "scale": "1/100",
+      "series": "Turn A Gundam",
+      "releaseDate": "2014-06",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "Master Grade catalog entry for Turn X, supported by 2 certified physical presentations. Supported configurations include Standard, Moonlight Butterfly deployed.",
+      "unitLore": "The Turn X is an ancient segmented mobile suit recovered by the Moonrace and piloted by Gym Ghingham, possessing systems that mirror or rival the Turn A, including remote body control and the Moonlight Butterfly.",
+      "aliases": "Turn X | Turn-X | MG 1/100 Turn X | MG 1/100 Turn A Gundam / Turn X Nano Skin Image",
+      "imageKey": "cc-0005"
+    },
+    {
+      "id": "cc-0005",
+      "name": "Turn X",
+      "modelNumber": "CONCEPT-X 6-1-2",
+      "grade": "No Grade",
+      "availableGrades": [
+        "No Grade"
+      ],
+      "scale": "Varies",
+      "series": "Turn A Gundam",
+      "releaseDate": "1999-12",
+      "releaseType": "Certified physical presentations",
+      "kitSummary": "No Grade catalog entry for Turn X, supported by 1 certified physical presentation. Supported configurations include Standard, Moonlight Butterfly deployed.",
+      "unitLore": "The Turn X is an ancient segmented mobile suit recovered by the Moonrace and piloted by Gym Ghingham, possessing systems that mirror or rival the Turn A, including remote body control and the Moonlight Butterfly.",
+      "aliases": "Turn X | Turn-X | 1/144 Turn X",
+      "imageKey": "cc-0005"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "format": "hangar-bay-catalog-pack",
+  "schemaVersion": 1,
+  "id": "third-party-snaa",
+  "name": "Third Party - SNAA",
+  "shortName": "SNAA",
+  "description": "Grade-specific Third Party - SNAA catalog. Each entry represents one mech and normalized grade; configurations, tooling iterations, editions, scale choices, and accessories remain owned-copy attributes.",
+  "version": 3,
+  "updatedAt": "2026-08-09",
+  "sortOrder": 80,
+  "kitCount": 14,
+  "series": [
+    "Emperor / Royal Series",
+    "Star Spirit / Star Soul Series",
+    "The Round Table Knights"
+  ],
+  "kits": [
+    {
+      "id": "tp-snaa-0002",
+      "name": "Blade King",
+      "modelNumber": "YR-02",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "1/100",
+      "series": "Emperor / Royal Series",
+      "releaseDate": "2024-01",
+      "releaseType": "Retail",
+      "kitSummary": "The first established Emperor/Royal-series identity, a 1/100 full-frame mecha centered on modular blade combinations and a reconfigurable shield.",
+      "unitLore": "A regal close-combat design built around layered blade weaponry and a crown-like head silhouette. Available sources describe the physical design and armament but do not establish a reliable narrative setting.",
+      "aliases": "刃皇 | Blade Emperor | YR-02 | Emperor / Royal Series | 皇者系列 | SNAA | Third Party",
+      "imageKey": "tp-snaa-0002"
+    },
+    {
+      "id": "tp-snaa-0004",
+      "name": "Fire Lord",
+      "modelNumber": "YR-04",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "1/100",
+      "series": "Emperor / Royal Series",
+      "releaseDate": "2025-03",
+      "releaseType": "Retail",
+      "kitSummary": "A 1/100 Emperor-series identity built around large flame-effect armaments. Standard and Phantom Flame Soul presentations merge into one mech identity.",
+      "unitLore": "A fire-themed heavy mecha whose silhouette and effect parts emphasize particle-energy weapons and an imposing display profile. The available evidence supports product design claims, not a complete fictional biography.",
+      "aliases": "焱皇 | Fire Emperor | Yan Emperor | Particle Awakening Armament F.P.A.A. Fire Lord | YR-04 | Emperor / Royal Series | 皇者系列 | SNAA | Third Party",
+      "imageKey": "tp-snaa-0004"
+    },
+    {
+      "id": "tp-snaa-0003",
+      "name": "Martial Emperor",
+      "modelNumber": "YR-03",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "1/100",
+      "series": "Emperor / Royal Series",
+      "releaseDate": "2024-07",
+      "releaseType": "Retail",
+      "kitSummary": "The second established Emperor/Royal-series identity, using a heavier silhouette and a more aggressive weapon presentation than Blade King.",
+      "unitLore": "A martial-themed heavy combat mecha with broad armor, metallic presentation parts, and a commanding close-range profile. No verified manufacturer story text was found.",
+      "aliases": "武皇 | Martial King | War Emperor | YR-03 | Emperor / Royal Series | 皇者系列 | SNAA | Third Party",
+      "imageKey": "tp-snaa-0003"
+    },
+    {
+      "id": "tp-snaa-0005",
+      "name": "Nether Emperor A.P. Type",
+      "modelNumber": "YR-05",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "1/100",
+      "series": "Emperor / Royal Series",
+      "releaseDate": "2025-11",
+      "releaseType": "Retail",
+      "kitSummary": "A slimmer, articulation-focused 1/100 Emperor/Royal-series identity. Coated and chrome presentations remain owned-copy editions.",
+      "unitLore": "A spectral-themed combat mecha combining white armor, contrasting accent colors, a mask option, and blade-and-firearm equipment. No authoritative narrative setting has been recovered.",
+      "aliases": "冥皇 | Nether Emperor | Underworld Emperor | YR-05 | Emperor / Royal Series | 皇者系列 | SNAA | Third Party",
+      "imageKey": "tp-snaa-0005"
+    },
+    {
+      "id": "tp-snaa-0001",
+      "name": "Hunting Falcon",
+      "modelNumber": "XH-01",
+      "grade": "Third Party",
+      "availableGrades": [
+        "Third Party"
+      ],
+      "scale": "1/100",
+      "series": "Star Spirit / Star Soul Series",
+      "releaseDate": "2022-11",
+      "releaseType": "Retail",
+      "kitSummary": "SNAA’s first established 1/100 original-mecha identity in the available catalog evidence. The later Revived box remains attached to the same mech record.",
+      "unitLore": "An angular avian-themed combat mecha marketed around high-speed aerial imagery and large translucent effect components. No authoritative story setting was found, so this remains a design description rather than invented lore.",
+      "aliases": "猎杀隼 | Hunt and Kill Hunting Falcon | Hunting Falcon Revived | XH-01 | Star Spirit / Star Soul Series | 星魂系列 | SNAA | Third Party",
+      "imageKey": "tp-snaa-0001"
+    },
+    {
+      "id": "tp-snaa-0008",
+      "name": "Aegis Knight Achilles",
+      "modelNumber": "",
+      "grade": "BE",
+      "availableGrades": [
+        "BE"
+      ],
+      "scale": "1/144",
+      "series": "The Round Table Knights",
+      "releaseDate": "2024-11",
+      "releaseType": "Retail",
+      "kitSummary": "A defensive Gale-squad identity with multiple close-combat arrangements. The build alternatives are configuration choices, not separate records.",
+      "unitLore": "A shield-centered knight mecha using paired blades, paired shields, and a mechanical-arm backpack to shift between defensive and dueling arrangements.",
+      "aliases": "神盾骑士 阿基里斯 | Achilles | SC-003 | SC-004 | BE-03 (retailer label) | Gale / 疾风 | The Round Table Knights | 圆桌骑士团 | SNAA | BE",
+      "imageKey": "tp-snaa-0008"
+    },
+    {
+      "id": "tp-snaa-0012",
+      "name": "Divine Invoker Percival",
+      "modelNumber": "",
+      "grade": "BE",
+      "availableGrades": [
+        "BE"
+      ],
+      "scale": "1/144",
+      "series": "The Round Table Knights",
+      "releaseDate": "2025-11",
+      "releaseType": "Retail",
+      "kitSummary": "The first established Sanctuary-squad identity. Standard and Deluxe boxes merge into one mech with configuration and edition selectors.",
+      "unitLore": "A ritual- and summoning-themed knight mecha with an expanded sword-array presentation in its deluxe configuration. No complete official story biography was found.",
+      "aliases": "神召唤者 珀西瓦尔 | Percival | Authority Saint | Awakening / Sword Formation | SC-007 | SC-009 | BE-07 (retailer label) | Sanctuary / 圣域 | The Round Table Knights | 圆桌骑士团 | SNAA | BE",
+      "imageKey": "tp-snaa-0012"
+    },
+    {
+      "id": "tp-snaa-0014",
+      "name": "Furious Warhammer Galahad",
+      "modelNumber": "SC-010",
+      "grade": "BE",
+      "availableGrades": [
+        "BE"
+      ],
+      "scale": "1/144",
+      "series": "The Round Table Knights",
+      "releaseDate": "2026-06",
+      "releaseType": "Retail",
+      "kitSummary": "The final and largest Steel Cavalry unit, centered on a warhammer and a ride-on assault hoverboard included with the mech presentation.",
+      "unitLore": "A first-strike heavy knight carrying a thunderstorm warhammer, war axe, ramming horn, shield, and assault hoverboard. The hoverboard is component metadata, not a separate catalog identity.",
+      "aliases": "狂怒战锤 加拉哈德 | Galahad | SC-010 | Steel Cavalry / 钢骑 | The Round Table Knights | 圆桌骑士团 | SNAA | BE",
+      "imageKey": "tp-snaa-0014"
+    },
+    {
+      "id": "tp-snaa-0009",
+      "name": "Giant Axe Lancelot",
+      "modelNumber": "SC-005",
+      "grade": "BE",
+      "availableGrades": [
+        "BE"
+      ],
+      "scale": "1/144",
+      "series": "The Round Table Knights",
+      "releaseDate": "2025-01",
+      "releaseType": "Retail",
+      "kitSummary": "The Gale squad captain, centered on a giant axe and alternate attack arrangements. Both modes remain configurations of one identity.",
+      "unitLore": "A captain-class speed knight combining a giant axe, hunting equipment, alternate head ornaments, and expandable armor for strong-attack or speed-attack displays.",
+      "aliases": "巨鸣斧 兰斯洛特 | Lancelot | SC-005 | BE-05 (retailer label) | Gale / 疾风 | The Round Table Knights | 圆桌骑士团 | SNAA | BE",
+      "imageKey": "tp-snaa-0009"
+    },
+    {
+      "id": "tp-snaa-0007",
+      "name": "Gods Guardian Gawain",
+      "modelNumber": "",
+      "grade": "BE",
+      "availableGrades": [
+        "BE"
+      ],
+      "scale": "1/144",
+      "series": "The Round Table Knights",
+      "releaseDate": "2024-07",
+      "releaseType": "Retail",
+      "kitSummary": "A Gale-squad Round Table Knight with a wing-like effect display. The KK color release is retained as an owned-copy edition.",
+      "unitLore": "A guardian-themed knight mecha characterized by light-wing effect parts, gold accents, and a balanced sword-and-shield silhouette. Available material is product-focused rather than a complete narrative profile.",
+      "aliases": "灵皇守护者 高文 | God's Guardian Gawain | Guardian of the Spiritual Emperor Gawain | Gawain | SC-002 | SC-003 | BE-02 (retailer label) | Gale / 疾风 | The Round Table Knights | 圆桌骑士团 | SNAA | BE",
+      "imageKey": "tp-snaa-0007"
+    },
+    {
+      "id": "tp-snaa-0010",
+      "name": "Iron Sickle Kai",
+      "modelNumber": "",
+      "grade": "BE",
+      "availableGrades": [
+        "BE"
+      ],
+      "scale": "1/144",
+      "series": "The Round Table Knights",
+      "releaseDate": "2024-12",
+      "releaseType": "Retail",
+      "kitSummary": "A Steel Cavalry heavy knight built around an oversized sickle. Spelling and code conflicts are intentionally retained for audit.",
+      "unitLore": "A heavy assault knight with reinforced medieval armor and a massive sickle that defines its silhouette. The printed English name is inconsistently rendered as Sickle, Sickie, and Steel Sickle.",
+      "aliases": "钢镰 凯 | Iron Sickie Kai | Steel Sickle Kai | Kai | SC-004 | SC-007 | SC-011 (isolated retailer claim) | Steel Cavalry / 钢骑 | The Round Table Knights | 圆桌骑士团 | SNAA | BE",
+      "imageKey": "tp-snaa-0010"
+    },
+    {
+      "id": "tp-snaa-0013",
+      "name": "Soul Spear Lamorak",
+      "modelNumber": "SC-008",
+      "grade": "BE",
+      "availableGrades": [
+        "BE"
+      ],
+      "scale": "1/144",
+      "series": "The Round Table Knights",
+      "releaseDate": "2026-01",
+      "releaseType": "Retail",
+      "kitSummary": "A Steel Cavalry identity with a transforming spear/ranged weapon and alternate visor arrangements.",
+      "unitLore": "A versatile heavy knight combining a separable soul spear, pulse shield, integrated cannon, axe, and selectable visor styles.",
+      "aliases": "灵魂枪 拉莫拉克 | Lamorak | SC-008 | Steel Cavalry / 钢骑 | The Round Table Knights | 圆桌骑士团 | SNAA | BE",
+      "imageKey": "tp-snaa-0013"
+    },
+    {
+      "id": "tp-snaa-0006",
+      "name": "Thunder Incise Grace",
+      "modelNumber": "",
+      "grade": "BE",
+      "availableGrades": [
+        "BE"
+      ],
+      "scale": "1/144",
+      "series": "The Round Table Knights",
+      "releaseDate": "2024-01",
+      "releaseType": "Retail",
+      "kitSummary": "The first Round Table Knights release-order identity and a member of the Gale squad. Conflicting SC numbers are retained as evidence only.",
+      "unitLore": "A speed-oriented knight mecha equipped with paired arm blades and a large back-mounted weapon assembly. Its role is inferred from SNAA’s Gale-squad product copy rather than a full published story.",
+      "aliases": "雷鸣收割者 格雷斯 | Thunder Reaper Grace | Incise Grace | Grace | SC-001 | SC-006 | BE-01 (retailer label) | Gale / 疾风 | The Round Table Knights | 圆桌骑士团 | SNAA | BE",
+      "imageKey": "tp-snaa-0006"
+    },
+    {
+      "id": "tp-snaa-0011",
+      "name": "Titan Greatsword Tristan",
+      "modelNumber": "SC-006",
+      "grade": "BE",
+      "availableGrades": [
+        "BE"
+      ],
+      "scale": "1/144",
+      "series": "The Round Table Knights",
+      "releaseDate": "2025-07",
+      "releaseType": "Retail",
+      "kitSummary": "The Steel Cavalry captain, armed with a giant sword and a concealed secondary blade. Conflicting codes remain non-canonical evidence.",
+      "unitLore": "A balanced heavy knight whose signature Titan Greatsword supplies visual mass while a hidden oath blade adds a secondary weapon mode.",
+      "aliases": "巨神剑 特里斯坦 | The Great Sword Tristan | Giant Sword Tristan | Tristan | SC-002 | SC-006 | BE-06 (retailer label) | Steel Cavalry / 钢骑 | The Round Table Knights | 圆桌骑士团 | SNAA | BE",
+      "imageKey": "tp-snaa-0011"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "format": "hangar-bay-catalog-pack",
+  "schemaVersion": 1,
+  "id": "regild-century",
+  "name": "Regild Century / Reconguista in G",
+  "shortName": "Regild",
+  "description": "Grade-specific Regild Century / Reconguista in G catalog. Each entry represents one mech at one normalized grade; configurations, tooling iterations, editions, scale choices, and accessories remain owned-copy attributes.",
+  "version": 1,
+  "updatedAt": "2026-08-03",
+  "sortOrder": 65,
+  "kitCount": 13,
+  "series": [
+    "Gundam Reconguista in G"
+  ],
+  "kits": [
+    {
+      "id": "rc-hg-0010",
+      "name": "Catsith",
+      "modelNumber": "CAMS-02",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Reconguista in G",
+      "releaseDate": "2015-03-07",
+      "releaseType": "Retail and verified limited presentations",
+      "kitSummary": "This certified High Grade entry covers the 1/144 Catsith presentation. Catsith is the locked English catalog name, while Cat Sith remains searchable as an alias.",
+      "unitLore": "The CAMS-02 Catsith is a Capital Army mass-production mobile suit equipped for atmospheric operations and commonly deployed in defense of the Capital Territory.",
+      "aliases": "Catsith | Cat Sith",
+      "imageKey": "rc-hg-0010"
+    },
+    {
+      "id": "rc-hg-0011",
+      "name": "Dahack",
+      "modelNumber": "VGMM-La01b",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Reconguista in G",
+      "releaseDate": "2015-03-14",
+      "releaseType": "Retail and verified limited presentations",
+      "kitSummary": "This certified High Grade entry covers the 1/144 Dahack. The Dharma remains launch and support context because no separate qualifying Dharma plastic kit was found.",
+      "unitLore": "The VGMM-La01b Dahack is a G-IT Corps mobile suit deployed from the Dharma and fitted with Plunder devices that absorb energy during close combat.",
+      "aliases": "Dahack | Dharma-Dahack system",
+      "imageKey": "rc-hg-0011"
+    },
+    {
+      "id": "rc-hg-0006",
+      "name": "Elf Bullock",
+      "modelNumber": "CAMS-03",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Reconguista in G",
+      "releaseDate": "2014-12-20",
+      "releaseType": "Retail and verified limited presentations",
+      "kitSummary": "This certified High Grade entry consolidates the Mask-use and mass-production Elf Bullock products, with their parts, color, and flight-state differences recorded as configurations.",
+      "unitLore": "The CAMS-03 Elf Bullock is a large Capital Army transforming mobile suit whose high-output beam weapon and mobile-armor-like flight form support fast, heavy attacks.",
+      "aliases": "Elf Bullock | Elf Bullock Mass Production Type | CAMS-03P",
+      "imageKey": "rc-hg-0006"
+    },
+    {
+      "id": "rc-hg-0007",
+      "name": "Gaeon",
+      "modelNumber": "VGMM-Gb03",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Reconguista in G",
+      "releaseDate": "2015-01-17",
+      "releaseType": "Retail and verified limited presentations",
+      "kitSummary": "This certified High Grade entry covers the 1/144 Gaeon presentation and its integrated backpack system; no additional qualifying physical presentation was found by the freeze.",
+      "unitLore": "The VGMM-Gb03 Gaeon is a G-IT Laboratory mobile suit distinguished by its large backpack and remote beam-emitting fingers, allowing sustained all-range pressure.",
+      "aliases": "Gaeon",
+      "imageKey": "rc-hg-0007"
+    },
+    {
+      "id": "rc-hg-0012",
+      "name": "Gastima",
+      "modelNumber": "VGMM-Sc02",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Reconguista in G",
+      "releaseDate": "2015-04-18",
+      "releaseType": "Retail and verified limited presentations",
+      "kitSummary": "This certified High Grade entry covers the 1/144 Gastima presentation. Gastima is the official English catalog spelling; Justima remains a searchable romanization alias.",
+      "unitLore": "The VGMM-Sc02 Gastima is a G-IT Corps mobile suit combining a distinctive beam-shield system with high-output ranged weapons.",
+      "aliases": "Gastima | Justima",
+      "imageKey": "rc-hg-0012"
+    },
+    {
+      "id": "rc-hg-0002",
+      "name": "Grimoire",
+      "modelNumber": "GH-001",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Reconguista in G",
+      "releaseDate": "2014-10-25",
+      "releaseType": "Retail and verified limited presentations",
+      "kitSummary": "This certified High Grade entry covers the retail 1/144 Grimoire. The Build-series Grimoire Red Beret remains a separate Build-origin identity and is not included here.",
+      "unitLore": "The GH-001 Grimoire is a compact Pirate Corps mobile suit with rounded armor, practical close-range weapons, and a rugged design suited to operations from the Megafauna.",
+      "aliases": "Grimoire",
+      "imageKey": "rc-hg-0002"
+    },
+    {
+      "id": "rc-hg-0004",
+      "name": "Gundam G-Arcane",
+      "modelNumber": "MSAM-033",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Reconguista in G",
+      "releaseDate": "2014-11-22",
+      "releaseType": "Retail and verified limited presentations",
+      "kitSummary": "This certified High Grade entry covers Gundam G-Arcane and its parts-swapped flight form. The unproduced Full Dress design remains a source control rather than a catalog entry.",
+      "unitLore": "The MSAM-033 Gundam G-Arcane is Aida Surugan’s Amerian G-type mobile suit, combining a long-range anti-ship rifle with a transformable flight configuration.",
+      "aliases": "G-Arcane | Gundam G Arcane",
+      "imageKey": "rc-hg-0004"
+    },
+    {
+      "id": "rc-hg-0009",
+      "name": "Gundam G-Lucifer",
+      "modelNumber": "VGMM-Gf10",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Reconguista in G",
+      "releaseDate": "2015-02-14",
+      "releaseType": "Retail and verified limited presentations",
+      "kitSummary": "This certified High Grade entry covers the 1/144 Gundam G-Lucifer presentation; its remote skirt weapons and associated technology are retained in the entry metadata without creating accessory records.",
+      "unitLore": "The VGMM-Gf10 Gundam G-Lucifer is a Venus Globe mobile suit equipped with skirt-mounted remote weapons and advanced systems connected to humanity’s buried technological legacy.",
+      "aliases": "G-Lucifer | Gundam G Lucifer",
+      "imageKey": "rc-hg-0009"
+    },
+    {
+      "id": "rc-hg-0001",
+      "name": "Gundam G-Self",
+      "modelNumber": "YG-111",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Reconguista in G",
+      "releaseDate": "2014-09-20",
+      "releaseType": "Retail and verified limited presentations",
+      "kitSummary": "This certified High Grade entry covers every complete 1/144 Gundam G-Self presentation through the freeze, including its atmospheric, space, assault, reflector, and perfect backpack configurations and the later movie-version tooling iterations.",
+      "unitLore": "The YG-111 Gundam G-Self is a Rayhunton-code mobile suit powered by Photon Batteries. Bellri Zenam operates it with specialized backpacks adapted for atmospheric flight, space combat, heavy assault, photon reflection, and the combined Perfect Pack.",
+      "aliases": "G-Self | Gundam G Self",
+      "imageKey": "rc-hg-0001"
+    },
+    {
+      "id": "rc-hg-0013",
+      "name": "Kabakali",
+      "modelNumber": "VGMM-Git01",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Reconguista in G",
+      "releaseDate": "2015-04-29",
+      "releaseType": "Retail and verified limited presentations",
+      "kitSummary": "This certified High Grade entry covers the 1/144 Kabakali presentation; no additional qualifying physical product was identified through the freeze.",
+      "unitLore": "The VGMM-Git01 Kabakali is Captain Mask’s late-war G-IT mobile suit, built for high-speed combat and equipped with distinctive beam-ring weapons.",
+      "aliases": "Kabakali | Gaitrash successor",
+      "imageKey": "rc-hg-0013"
+    },
+    {
+      "id": "rc-hg-0008",
+      "name": "Mack Knife",
+      "modelNumber": "CAMS-05",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Reconguista in G",
+      "releaseDate": "2015-02-07",
+      "releaseType": "Retail and verified limited presentations",
+      "kitSummary": "This certified High Grade entry consolidates the Mask-use and mass-production Mack Knife products, with their equipment, color, and flight-state differences recorded as configurations.",
+      "unitLore": "The CAMS-05 Mack Knife is a compact Capital Army transforming mobile suit whose folding limbs and built-in weapons support rapid interception and close combat.",
+      "aliases": "Mack Knife | Mack Knife Mass Production Type | CAMS-05P",
+      "imageKey": "rc-hg-0008"
+    },
+    {
+      "id": "rc-hg-0003",
+      "name": "Montero",
+      "modelNumber": "MSAM-YM03",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Reconguista in G",
+      "releaseDate": "2014-11-08",
+      "releaseType": "Retail and verified limited presentations",
+      "kitSummary": "This certified High Grade entry covers the 1/144 Montero presentation; Klim Nick attribution is searchable metadata rather than a separate catalog identity.",
+      "unitLore": "The MSAM-YM03 Montero is Klim Nick’s high-mobility Amerian mobile suit, armed with a beam javelin and used as an early ace machine by the Pirate Corps.",
+      "aliases": "Montero | Klim Nick Montero",
+      "imageKey": "rc-hg-0003"
+    },
+    {
+      "id": "rc-hg-0005",
+      "name": "Space Jahannam",
+      "modelNumber": "MSAM-034",
+      "grade": "High Grade",
+      "availableGrades": [
+        "High Grade"
+      ],
+      "scale": "1/144",
+      "series": "Gundam Reconguista in G",
+      "releaseDate": "2014-12-13",
+      "releaseType": "Retail and verified limited presentations",
+      "kitSummary": "This certified High Grade entry consolidates the mass-production and Klim Nick Space Jahannam presentations. MSAM-034a is retained as configuration and alias metadata rather than another ID.",
+      "unitLore": "The MSAM-034 Space Jahannam is an Amerian space-combat mobile suit fielded in standard and ace-pilot configurations during the struggle around the Capital Tower.",
+      "aliases": "Jahannam Space Type | Space Jahannam Klim Nick Use | MSAM-034a | Space Jahannam (Klim Nick Use)",
+      "imageKey": "rc-hg-0005"
+    }
+  ]
+}
